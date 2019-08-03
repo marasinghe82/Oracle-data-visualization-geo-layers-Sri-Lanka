@@ -1,0 +1,34 @@
+SNo,District,Province,District,Land,Inland,Total,Population,Population
+,,,capital,area,water,area,-2012,density
+,,,,in km2 (mi2),area,in km2 (mi2),,per km2
+,,,,,in km2 (mi2),,,(per mi2)
+1,Ampara,Eastern,Ampara,"4,222 (1,630)",193 (75),"4,415 (1,705)","6,48,057",153 (400)
+2,Anuradhapura,North Central,Anuradhapura,"6,664 (2,573)",515 (199),"7,179 (2,772)","8,56,232",128 (330)
+3,Badulla,Uva,Badulla,"2,827 (1,092)",34 (13),"2,861 (1,105)","8,11,758",287 (740)
+4,Batticaloa,Eastern,Batticaloa,"2,610 (1,010)",244 (94),"2,854 (1,102)","5,25,142",201 (520)
+5,Colombo,Western,Colombo,676 (261),23 (8.9),699 (270),"23,09,809","3,417 (8,850)"
+6,Galle,Southern,Galle,"1,617 (624)",35 (14),"1,652 (638)","10,58,771","655 (1,700)"
+7,Gampaha,Western,Gampaha,"1,341 (518)",46 (18),"1,387 (536)","22,94,641","1,711 (4,430)"
+8,Hambantota,Southern,Hambantota,"2,496 (964)",113 (44),"2,609 (1,007)","5,96,617",239 (620)
+9,Jaffna,Northern,Jaffna,929 (359),96 (37),"1,025 (396)","5,83,378","628 (1,630)"
+10,Kalutara,Western,Kalutara,"1,576 (608)",22 (8.5),"1,598 (617)","12,17,260","772 (2,000)"
+11,Kandy,Central,Kandy,"1,917 (740)",23 (8.9),"1,940 (750)","13,69,899","715 (1,850)"
+12,Kegalle,Sabaragamuwa,Kegalle,"1,685 (651)",8 (3.1),"1,693 (654)","8,36,603","497 (1,290)"
+13,Kilinochchi,Northern,Kilinochchi,"1,205 (465)",74 (29),"1,279 (494)","1,12,875",94 (240)
+14,Kurunegala,North Western,Kurunegala,"4,624 (1,785)",192 (74),"4,816 (1,859)","16,10,299",348 (900)
+15,Mannar,Northern,Mannar,"1,880 (730)",116 (45),"1,996 (771)","99,051",53 (140)
+16,Matale,Central,Matale,"1,952 (754)",41 (16),"1,993 (770)","4,82,229",247 (640)
+17,Matara,Southern,Matara,"1,270 (490)",13 (5.0),"1,283 (495)","8,09,344","637 (1,650)"
+18,Moneragala,Uva,Moneragala,"5,508 (2,127)",131 (51),"5,639 (2,177)","4,48,142",81 (210)
+19,Mullaitivu,Northern,Mullaitivu,"2,415 (932)",202 (78),"2,617 (1,010)","91,947",38 (98)
+20,Nuwara Eliya,Central,Nuwara Eliya,"1,706 (659)",35 (14),"1,741 (672)","7,06,588","414 (1,070)"
+21,Polonnaruwa,North Central,Polonnaruwa,"3,077 (1,188)",216 (83),"3,293 (1,271)","4,03,335",131 (340)
+22,Puttalam,North Western,Puttalam,"2,882 (1,113)",190 (73),"3,072 (1,186)","7,59,776",264 (680)
+23,Ratnapura,Sabaragamuwa,Ratnapura,"3,236 (1,249)",39 (15),"3,275 (1,264)","10,82,277",334 (870)
+24,Trincomalee,Eastern,Trincomalee,"2,529 (976)",198 (76),"2,727 (1,053)","3,78,182",150 (390)
+25,Vavuniya,Northern,Vavuniya,"1,861 (719)",106 (41),"1,967 (759)","1,71,511",92 (240)
+,Total,,,"62,705 (24,211)","2,905 (1,122)","65,610 (25,330)","2,02,63,723",323 (840)
+,,,,,,,,
+For other more formats kindly visit www.downloadexcelfiles.com,,,,,,,,
+,,,,,,,,
+Original source : en.wikipedia.org/wiki/Districts_of_Sri_Lanka,,,,,,,,

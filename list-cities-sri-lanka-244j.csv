@@ -1,0 +1,65 @@
+SNo,Name,Province,District,DS Division,Population,Population,Area,Area,Density
+,,,,,(conurbation),(municipality),(km2),(mi2),(/km2)
+,,,,,(2012 est),(2009 est),,,
+1,Colombo,Western,Colombo,Colombo,"7,52,993","6,86,779",37.31,14.41,"18,407"
+2,Dehiwala-Mount Lavinia,Western,Colombo,Dehiwala,"2,45,974","2,24,661",21,8.11,"10,698"
+3,Moratuwa,Western,Colombo,Moratuwa,"2,07,755","1,89,750",23,8.88,"8,250"
+4,Sri Jayawardenapura Kotte,Western,Colombo,Kotte,"1,35,806","1,24,039",17,6.56,"7,296"
+5,Negombo,Western,Gampaha,Negombo,"1,27,754","1,53,670",31,11.97,"4,957"
+6,Kandy,Central,Kandy,Kandy,"1,25,351","1,23,952",27,10.42,"4,591"
+7,Kalmunai,Eastern,Ampara,Kalmunai Muslim /,"1,06,783","1,08,696",23,8.88,"4,726"
+,,,,Kalmunai Tamil /,,,,,
+,,,,Sainthamarathu,,,,,
+8,Vavuniya,Northern,Vavuniya,Vavuniya,"99,653","31,699",22.5,8.69,"1,409"
+9,Galle,Southern,Galle,Galle,"99,478","97,101",7,6.56,"5,712"
+10,Trincomalee,Eastern,Trincomalee,Trincomalee Town & Gravets,"99,135","51,624",7.5,2.9,"6,883"
+11,Batticaloa,Eastern,Batticaloa,Manmunai North,"92,332","83,470",75,28.96,"1,113"
+12,Jaffna,Northern,Jaffna,Jaffna / Nallur,"88,138","76,080",20.2,7.8,"3,766"
+13,Katunayake,Western,Gampaha,Katana,"76,816",,,,
+14,Dambulla,Central,Matale,Dambulla,"68,821",,,,
+15,Kolonnawa,Western,Colombo,Kolonnawa,"64,887",,,,
+16,Anuradhapura,North Central,Anuradhapura,Anuradhapura,"63,208","83,312",36,13.9,"2,314"
+17,Ratnapura,Sabaragamuwa,Ratnapura,Ratnapura,"52,170","49,477",20,7.72,"2,474"
+18,Badulla,Uva,Badulla,Badulla,"47,587","43,866",10,3.86,"4,387"
+19,Matara,Southern,Matara,Matara,"47,420","75,930",13,5.02,"5,841"
+20,Puttalam,North Western,Puttalam,Puttalam,"45,401",,,,
+21,Chavakacheri,Northern,Jaffna,Thenmarachchi,"41,407","15,780",19.4,7.49,813
+22,Kattankudy,Eastern,Batticaloa,Kattankudy,"40,883","39,523",6.5,2.51,"6,080"
+23,Matale,Central,Matale,Matale,"40,859","37,802",9,3.47,"4,200"
+24,Kalutara,Western,Kalutara,Kalutara,"39,615",,,,
+25,Mannar,Northern,Mannar,Mannar,"35,817","22,183",27.85,10.75,797
+26,Panadura,Western,Kalutara,Panadura,"35,717",,,,
+27,Beruwala,Western,Kalutara,Beruwala,"35,312",,,,
+28,Ja-Ela,Western,Gampaha,Ja-Ela,"32,386",,,,
+29,Point Pedro,Northern,Jaffna,Vadamarachchi North,"31,351","12,161",11.65,4.5,"1,044"
+30,Kelaniya,Western,Gampaha,Kelaniya,"31,307",,,,
+31,Peliyagoda,Western,Gampaha,Kelaniya,"31,307",,,,
+32,Kurunegala,North Western,Kurunegala,Kurunegala,"30,314","30,991",11,4.25,"2,817"
+33,Wattala,Western,Gampaha,Wattala,"30,229",,,,
+34,Gampola,Central,Kandy,,"27,659",,,,
+35,Nuwara Eliya,Central,Nuwara Eliya,Nuwara Eliya,"27,326","38,364",12,4.63,"3,197"
+36,Valvettithurai,Northern,Jaffna,Vadamarachchi North,"27,210","8,382",4.85,1.87,"1,728"
+37,Chilaw,North Western,Puttalam,Chilaw,"26,714",,,,
+38,Eravur,Eastern,Batticaloa,Eravur Town,"25,582",,4.9,1.89,
+39,Avissawella,Western,Colombo,Hanwella,"25,322",,,,
+40,Weligama,Southern,Matara,Weligama,"24,159",,,,
+41,Ambalangoda,Southern,Galle,Ambalangoda,"21,573",,,,
+42,Ampara,Eastern,Ampara,Ampara,"20,309","21,713",,,
+43,Kegalle,Sabaragamuwa,Kegalle,Kegalle,"17,962",,,,
+44,Hatton,Central,Nuwara Eliya,Ambagamuwa,"16,237",,,,
+45,Nawalapitiya,Central,Kandy,Pasbage Korale,"15,415",,,,
+46,Balangoda,Sabaragamuwa,Ratnapura,Balangoda,"13,589",,,,
+47,Hambantota,Southern,Hambantota,Hambantota,"12,071",,,,
+48,Tangalle,Southern,Hambantota,Tangalle,"11,258",,,,
+49,Moneragala,Uva,Moneragala,Moneragala,"10,853",,,,
+50,Gampaha,Western,Gampaha,Gampaha,"9,889","61,052",38,14.67,"1,607"
+51,Horana,Western,Kalutara,Horana,"9,774",,,,
+52,Wattegama,Uva,Moneragala,Siyambalanduwa,"8,770",,,,
+53,Minuwangoda,Western,Gampaha,Minuwangoda,"8,015",,,,
+54,Bandarawela,Uva,Badulla,Bandarawela,"7,878",,,,
+55,Kuliyapitiya,North Western,Kurunegala,,"6,850",,,,
+56,Haputale,Uva,Badulla,Haputale,"5,559",,,,
+57,Talawakele,Central,Nuwara Eliya,Nuwara Eliya,"4,087",,,,
+58,Harispattuwa,Central,Kandy,Harispattuwa,"1,744",,,,
+59,Kadugannawa,Central,Kandy,Udunuwara,"1,384",,,,
+60,Embilipitiya,Sabaragamuwa,Ratnapura,Embilipitiya,"51,398","1,33,977",,,

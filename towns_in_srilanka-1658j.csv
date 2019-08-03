@@ -1,0 +1,4985 @@
+S.No.,Province,Name of Town
+1,Central Province,Abasingammedda
+2,Central Province,Adhikarigama
+3,Central Province,Agalakumbura
+4,Central Province,Agalawatta
+5,Central Province,Agappola
+6,Central Province,Agrapatana
+7,Central Province,Agrapatna
+8,Central Province,Akarahaduwa
+9,Central Province,Akkarawatta
+10,Central Province,Akuramboda
+11,Central Province,Akurambodwatta
+12,Central Province,Akurana
+13,Central Province,Aladeniya
+14,Central Province,Alagalla Kondagama
+15,Central Province,Alagalla Pahalagama
+16,Central Province,Alagoda
+17,Central Province,Alakagama
+18,Central Province,Alakola-anga
+19,Central Province,Alakola-ela
+20,Central Province,Alakoladeniya
+21,Central Province,Alakolamada
+22,Central Province,Alakolamaditta
+23,Central Province,Alakolawewa
+24,Central Province,Alanduwaka
+25,Central Province,Alapalawala
+26,Central Province,Alapalawela
+27,Central Province,Alawattegama
+28,Central Province,Alawattegama
+29,Central Province,Alawatugama
+30,Central Province,Alawatugoda
+31,Central Province,Alayaya
+32,Central Province,Alhentennawatta
+33,Central Province,Alkemada
+34,Central Province,Alubendiyaya
+35,Central Province,Aludeniya
+36,Central Province,Alugolla (7°5'N 80°28'E)
+37,Central Province,Alugolla (7°9'N 80°31'E)
+38,Central Province,Alugolla (7°40'N 80°37'E)
+39,Central Province,Alupotawela
+40,Central Province,Alutgama (7°19'N 80°31'E)
+41,Central Province,Alutgama (7°31'N 80°35'E)
+42,Central Province,Alutgama (7°42'N 80°35'E)
+43,Central Province,Alutgama (7°22'N 80°39'E)
+44,Central Province,Alutgama Mahakumburegammedda
+45,Central Province,Alutnuwara
+46,Central Province,Alutnuwara Town
+47,Central Province,Alutwewa
+48,Central Province,Aluvihare
+49,Central Province,Aluvihare Colony
+50,Central Province,Aluwihare
+51,Central Province,Alwatta
+52,Central Province,Ambadeniya
+53,Central Province,Ambagahahena
+54,Central Province,Ambagamuwa (7°1'N 80°28'E)
+55,Central Province,Ambagamuwa (7°18'N 80°33'E)
+56,Central Province,Ambagaspitiya
+57,Central Province,Ambagastenna
+58,Central Province,Ambakumbura
+59,Central Province,Ambalapitiya
+60,Central Province,Ambale
+61,Central Province,Ambaliyadda (7°10'N 80°46'E)
+62,Central Province,Ambaliyadda (7°1'N 80°54'E)
+63,Central Province,Ambanella
+64,Central Province,Ambanpola
+65,Central Province,Ambanwala (7°13'N 80°31'E)
+66,Central Province,Ambanwala (7°13'N 80°31'E)
+67,Central Province,Ambaoruwa
+68,Central Province,Ambatalawa (6°58'N 80°30'E)
+69,Central Province,Ambatalawa (7°2'N 80°40'E)
+70,Central Province,Ambatenna
+71,Central Province,Ambawa
+72,Central Province,Ambawela
+73,Central Province,Ambetenna
+74,Central Province,Ambewela
+75,Central Province,Ambokka
+76,Central Province,Ampitigoda
+77,Central Province,Ampitiya (7°5'N 80°31'E)
+78,Central Province,Ampitiya (7°16'N 80°39'E)
+79,Central Province,Ampitiya Pallegama
+80,Central Province,Ampitiya Udagama
+81,Central Province,Amuna
+82,Central Province,Amunewala
+83,Central Province,Amunugama
+84,Central Province,Amunumulla
+85,Central Province,Amunupitiya
+86,Central Province,Amunupura
+87,Central Province,Amunupure
+88,Central Province,Amupitiya
+89,Central Province,Andagala (7°22'N 80°30'E)
+90,Central Province,Andagala (7°46'N 80°31'E)
+91,Central Province,Andawala
+92,Central Province,Andawela
+93,Central Province,Andideniya
+94,Central Province,Andungama Palkumbura
+95,Central Province,Andurubebila
+96,Central Province,Angammana
+97,Central Province,Angoda
+98,Central Province,Angunawala
+99,Central Province,Angunawela
+100,Central Province,Anguruwela
+101,Central Province,Anguruwella
+102,Central Province,Ankande Colony
+103,Central Province,Ankendagolla
+104,Central Province,Ankumbura
+105,Central Province,Ankumbura Pallegama
+106,Central Province,Ankumbura Udagama
+107,Central Province,Appallagoda
+108,Central Province,Arambagama
+109,Central Province,Arambegama (7°16'N 80°32'E)
+110,Central Province,Arambegama (7°20'N 80°34'E)
+111,Central Province,Arambepola
+112,Central Province,Aranpitiya
+113,Central Province,Arattana (7°13'N 80°34'E)
+114,Central Province,Arattana (7°22'N 80°43'E)
+115,Central Province,Arawwawala
+116,Central Province,Arukwatta
+117,Central Province,Aruppola
+118,Central Province,Asgeriya
+119,Central Province,Asgiriya
+120,Central Province,Aswalapitiya
+121,Central Province,Asweddunwela
+122,Central Province,Atabage
+123,Central Province,Atabage Pallegama
+124,Central Province,Atirahapitiya
+125,Central Province,Attanakumbura
+126,Central Province,Attanayakagammedda
+127,Central Province,Attaragalla
+128,Central Province,Attaragama
+129,Central Province,Attaragama Hunnana-oya
+130,Central Province,Attaragama Hunnanoya
+131,Central Province,Awulbodale 
+132,Central Province,Badalagama
+133,Central Province,Badalgammedda
+134,Central Province,Baddamulla
+135,Central Province,Bahiragaldowa
+136,Central Province,Bahirawakanda
+137,Central Province,Balagahatenna
+138,Central Province,Balagolla
+139,Central Province,Balana
+140,Central Province,Balawatgoda
+141,Central Province,Bambarabedda
+142,Central Province,Bambarabedde Devainnegama
+143,Central Province,Bambaradeniya
+144,Central Province,Bambaragahawatta
+145,Central Province,Bambaragaleyaya
+146,Central Province,Bambaragama
+147,Central Province,Bambaragaswewa
+148,Central Province,Bambawa
+149,Central Province,Bamunupola
+150,Central Province,Bananga
+151,Central Province,Banange
+152,Central Province,Barandare
+153,Central Province,Barigama
+154,Central Province,Batadanduwela
+155,Central Province,Batagalla (7°22'N 80°34'E)
+156,Central Province,Batagalla (7°15'N 80°40'E)
+157,Central Province,Balagolla
+158,Central Province,Batagolla
+159,Central Province,Batalawatta
+160,Central Province,Batugoda
+161,Central Province,Batumulla
+162,Central Province,Bebalagama
+163,Central Province,Beddegama
+164,Central Province,Beligamuwa
+165,Central Province,Beliyakanda
+166,Central Province,Bembiya
+167,Central Province,Beragama
+168,Central Province,Beravilla
+169,Central Province,Berawila
+170,Central Province,Bibila
+171,Central Province,Bobella
+172,Central Province,Bodikotuwa
+173,Central Province,Bogahapitiya
+174,Central Province,Bogambara
+175,Central Province,Bogamuwa
+176,Central Province,Bogawantalawa
+177,Central Province,Bogawela
+178,Central Province,Bokalawela
+179,Central Province,Bokkawala
+180,Central Province,Bolagandawela
+181,Central Province,Bolepe
+182,Central Province,Bombure
+183,Central Province,Bomure
+184,Central Province,Bopana
+185,Central Province,Bopegammedda
+186,Central Province,Bopitiya
+187,Central Province,Boragahamaditta
+188,Central Province,Boruwagama
+189,Central Province,Botota
+190,Central Province,Bowala (7°10'N 80°34'E)
+191,Central Province,Bowala (7°16'N 80°37'E)
+192,Central Province,Bowala (7°9'N 80°43'E)
+193,Central Province,Bowatta
+194,Central Province,Bowatura
+195,Central Province,Boyagama
+196,Central Province,Brookside
+197,Central Province,Bulanawewa
+198,Central Province,Bulatwelkandura
+199,Central Province,Bulugahapitiya
+200,Central Province,Bulugolla
+201,Central Province,Bulukohotenna
+202,Central Province,Bulumulla
+203,Central Province,Butalanda
+204,Central Province,Butawatta
+205,Central Province,Buwelikada (7°13'N 80°34'E)
+206,Central Province,Buwelikada (7°17'N 80°39'E)
+207,Central Province,Campion
+208,Central Province,Clodagh Eastern Colony
+209,Central Province,Dadahogama
+210,Central Province,Dadohagama
+211,Central Province,Dagampitiya
+212,Central Province,Dagewilla
+213,Central Province,Dalupota
+214,Central Province,Daluwela
+215,Central Province,Damana
+216,Central Province,Dambagahamada
+217,Central Province,Dambagahamuduna
+218,Central Province,Dambagolla
+219,Central Province,Dambagolla
+220,Central Province,Dambalagala Colony
+221,Central Province,Dambarawa
+222,Central Province,Dambarawa
+223,Central Province,Dambe
+224,Central Province,Dambul
+225,Central Province,Dambulla
+226,Central Province,Dambullagama
+227,Central Province,Damunumeya
+228,Central Province,Damunumulla
+229,Central Province,Damunupola
+230,Central Province,Damunupola North
+231,Central Province,Dandenikumbura
+232,Central Province,Dankanda
+233,Central Province,Danture
+234,Central Province,Dara-oya
+235,Central Province,Daskara
+236,Central Province,Daulagala
+237,Central Province,Dawatagahamulatenna
+238,Central Province,Dedunupitiya
+239,Central Province,Dehianga
+240,Central Province,Dehiange
+241,Central Province,Dehiattawala
+242,Central Province,Dehideniya
+243,Central Province,Dehideniya Madige
+244,Central Province,Dehigahatule
+245,Central Province,Dehigama
+246,Central Province,Dehigastenna
+247,Central Province,Dehintalawa
+248,Central Province,Dehipagoda
+249,Central Province,Dehipe
+250,Central Province,Dehipitiya
+251,Central Province,Deiannewela
+252,Central Province,Deiyannewela
+253,Central Province,Dekinda
+254,Central Province,Deldeniya
+255,Central Province,Delgasyaya
+256,Central Province,Deliwela
+257,Central Province,Delmada
+258,Central Province,Delpatkada
+259,Central Province,Delpawana
+260,Central Province,Delpitiya
+261,Central Province,Deltota
+262,Central Province,Demada-oya
+263,Central Province,Dembatagastenna
+264,Central Province,Dembawa
+265,Central Province,Demodara
+266,Central Province,Demunapola North
+267,Central Province,Denapitiya
+268,Central Province,Denike
+269,Central Province,Devahandiya West
+270,Central Province,Devahuwa
+271,Central Province,Devinnegama
+272,Central Province,Devita
+273,Central Province,Devon
+274,Central Province,Dewahandiya
+275,Central Province,Dewahandiya East
+276,Central Province,Dewahandiya West
+277,Central Province,Dewatagahamulatenna
+278,Central Province,Dibburuwela
+279,Central Province,Dickoya
+280,Central Province,Diddeniya
+281,Central Province,Digahawatura
+282,Central Province,Digala
+283,Central Province,Digana
+284,Central Province,Digane
+285,Central Province,Diggala
+286,Central Province,Dihintalawa
+287,Central Province,Dikirillagolla
+288,Central Province,Dikkumbura
+289,Central Province,Dikoya
+290,Central Province,Dimbula
+291,Central Province,Dimbulgahakotuwa
+292,Central Province,Dimbulgoda
+293,Central Province,Dimbulkumbura
+294,Central Province,Dippitiya
+295,Central Province,Divulgaskotuwa
+296,Central Province,Diyabubula
+297,Central Province,Diyapalagoda
+298,Central Province,Dodamitiyawa
+299,Central Province,Dodandeniya
+300,Central Province,Dodandeniya
+301,Central Province,Dodangolla
+302,Central Province,Dodankumbura
+303,Central Province,Dodankumbura
+304,Central Province,Dodanwala
+305,Central Province,Dolapihilla
+306,Central Province,Dolosbage
+307,Central Province,Dolosbage Bazaar
+308,Central Province,Doluwa
+309,Central Province,Dombagammana
+310,Central Province,Dombagasdeniya
+311,Central Province,Dombagoda
+312,Central Province,Dombawala
+313,Central Province,Dombawela
+314,Central Province,Doragomuwa
+315,Central Province,Dorakumbura
+316,Central Province,Doraliyadda
+317,Central Province,Doraliyadda
+318,Central Province,Doranegama
+319,Central Province,Dowita
+320,Central Province,Dowitagammedda
+321,Central Province,Dullewa
+322,Central Province,Dulmure
+323,Central Province,Dulwala
+324,Central Province,Dulwela
+325,Central Province,Dumbukola
+326,Central Province,Dunkumbura
+327,Central Province,Dunukaula
+328,Central Province,Dunukebedda
+329,Central Province,Dunukebedda
+330,Central Province,Dunukeula
+331,Central Province,Dunukewatta
+332,Central Province,Dunuwila
+333,Central Province,Dunuwila Megodagama
+334,Central Province,Ebbawala
+335,Central Province,Edanduwawa
+336,Central Province,Egodagama
+337,Central Province,Egodakanda
+338,Central Province,Egodamulla
+339,Central Province,Egodawela
+340,Central Province,Ehalagastenna
+341,Central Province,Ehalamalpe
+342,Central Province,Ekamuthugama
+343,Central Province,Ekiriya
+344,Central Province,Eladetta
+345,Central Province,Elamaldeniya
+346,Central Province,Elamalwewa
+347,Central Province,Elgama
+348,Central Province,Elhanyaya
+349,Central Province,Elikewela
+350,Central Province,Elkaduwa
+351,Central Province,Ellauda
+352,Central Province,Ellekumbura
+353,Central Province,Ellepola
+354,Central Province,Ellewatta
+355,Central Province,Elliyadda
+356,Central Province,Elotuwa
+357,Central Province,Elpitiya
+358,Central Province,Embalagama
+359,Central Province,Embekka
+360,Central Province,Embilimigama
+361,Central Province,Embilmeegama
+362,Central Province,Embitiyawa
+363,Central Province,Embulambe
+364,Central Province,Embulpure
+365,Central Province,Enasalmada
+366,Central Province,Endarutenna
+367,Central Province,Enkendagolla
+368,Central Province,Eramudugolla (7°31'N 80°35'E)
+369,Central Province,Eramudugolla (7°15'N 80°40'E)
+370,Central Province,Eramuduliyadda
+371,Central Province,Erawula Pahalagama
+372,Central Province,Eregoda
+373,Central Province,Ereula Pahalagama
+374,Central Province,Etabendiwewa
+375,Central Province,Etakehellanda
+376,Central Province,Etambagahawatta
+377,Central Province,Etambagahawatta Udispattu
+378,Central Province,Etambagolla
+379,Central Province,Etambegoda
+380,Central Province,Etamulla
+381,Central Province,Etipola
+382,Central Province,Etulgama
+383,Central Province,Gabbala
+384,Central Province,Gabbela
+385,Central Province,Gabbela
+386,Central Province,Gadaladeniya
+387,Central Province,Galabadawatta
+388,Central Province,Galabawa
+389,Central Province,Galaboda
+390,Central Province,Galabodawatta
+391,Central Province,Galagama
+392,Central Province,Galagedara
+393,Central Province,Galagoda
+394,Central Province,Galaha
+395,Central Province,Galaha Town
+396,Central Province,Galahitiyagama
+397,Central Province,Galahitiyawa
+398,Central Province,Galaliyadda
+399,Central Province,Galamuduna
+400,Central Province,Galata
+401,Central Province,Galauda
+402,Central Province,Galaudahena
+403,Central Province,Galboda
+404,Central Province,Galdola
+405,Central Province,Galewela
+406,Central Province,Galgomuwa
+407,Central Province,Galhinna
+408,Central Province,Galkadawela
+409,Central Province,Galketiwela
+410,Central Province,Gallahawatta
+411,Central Province,Gallella
+412,Central Province,Gallinda
+413,Central Province,Galpitiya
+414,Central Province,Galuke
+415,Central Province,Galwadukumbura
+416,Central Province,Galwaduwagama
+417,Central Province,Galwangedihena
+418,Central Province,Galwetiyaya
+419,Central Province,Gammaduwa
+420,Central Province,Gammulla
+421,Central Province,Gammunukumbura
+422,Central Province,Gampola
+423,Central Province,Gampola Town
+424,Central Province,Gampolawela
+425,Central Province,Gamunukumbura
+426,Central Province,Ganegalagammedda
+427,Central Province,Ganegoda
+428,Central Province,Gangahenwala
+429,Central Province,Gangoda
+430,Central Province,Gangodagammedda
+431,Central Province,Gangodapitiya
+432,Central Province,Ganguldeniya
+433,Central Province,Ganhata
+434,Central Province,Gankewala
+435,Central Province,Gankewela
+436,Central Province,Gannoruwa
+437,Central Province,Gansarapola
+438,Central Province,Gedaramada
+439,Central Province,Gedarawela
+440,Central Province,Gelioya
+441,Central Province,Gerandigala
+442,Central Province,Getambe
+443,Central Province,Getembe
+444,Central Province,Getiyawala
+445,Central Province,Gettapola
+446,Central Province,Gettiyawala
+447,Central Province,Giddawa
+448,Central Province,Ginigathena
+449,Central Province,Ginnoruwa
+450,Central Province,Giragama
+451,Central Province,Giragma
+452,Central Province,Girahagama
+453,Central Province,Girantalawa
+454,Central Province,Giraulla
+455,Central Province,Girihagama
+456,Central Province,Godagama
+457,Central Province,Godagama
+458,Central Province,Godagandeniya
+459,Central Province,Godakumbura
+460,Central Province,Godamuna
+461,Central Province,Godamuduna
+462,Central Province,Godamunna
+463,Central Province,Godapola
+464,Central Province,Godapussa
+465,Central Province,Godatale
+466,Central Province,Godawela
+467,Central Province,Godigamuwa
+468,Central Province,Golahenwatta
+469,Central Province,Golegammana
+470,Central Province,Gollangolla
+471,Central Province,Gomadale
+472,Central Province,Gomagoda
+473,Central Province,Gonapola
+474,Central Province,Gonawala
+475,Central Province,Gonawatta
+476,Central Province,Gonawela
+477,Central Province,Gondawela
+478,Central Province,Gondeniya
+479,Central Province,Gondewala
+480,Central Province,Gonewala
+481,Central Province,Gonigoda
+482,Central Province,Govindala
+483,Central Province,Gunadaha
+484,Central Province,Gunnepana Gabadagama
+485,Central Province,Gunnepana Madige
+486,Central Province,Gunnepana Pallegammedda
+487,Central Province,Gunnepana Udagammedda
+488,Central Province,Gurubebila
+489,Central Province,Gurudeniya
+490,Central Province,Gurugala Ella
+491,Central Province,Gurugalle Ella
+492,Central Province,Gurugama
+493,Central Province,Gurukete
+494,Central Province,Gurulupota
+495,Central Province,Guruwela
+496,Central Province,Hakmana
+497,Central Province,Hakurutale
+498,Central Province,Haladiwela
+499,Central Province,Halagama
+500,Central Province,Halangoda
+501,Central Province,Halgolla
+502,Central Province,Haliyadda
+503,Central Province,Haliyala
+504,Central Province,Haliyedde
+505,Central Province,Halmehikandura
+506,Central Province,Halminiya
+507,Central Province,Halpola
+508,Central Province,Handabowa
+509,Central Province,Handaganawa
+510,Central Province,Handessa
+511,Central Province,Hangaran Oya
+512,Central Province,Hangarandeniya
+513,Central Province,Hangarapitiya
+514,Central Province,Hangran Oya
+515,Central Province,Hanguranketa
+516,Central Province,Hanguranketa Town
+517,Central Province,Hanwella
+518,Central Province,Happawara
+519,Central Province,Hapudandawala
+520,Central Province,Hapudandawela
+521,Central Province,Hapugaha-Arawa
+522,Central Province,Hapugahamulla
+523,Central Province,Hapugahapitiya
+524,Central Province,Hapugaharawa
+525,Central Province,Hapugasdeniya
+526,Central Province,Hapugaspitiya
+527,Central Province,Hapugastalawa
+528,Central Province,Hapugoda
+529,Central Province,Hapukanda
+530,Central Province,Hapupe
+531,Central Province,Haputale Pallegama
+532,Central Province,Haputale Udagama
+533,Central Province,Haputale Udagammedda
+534,Central Province,Hapuwala
+535,Central Province,Haragama
+536,Central Province,Haraggama
+537,Central Province,Harakola
+538,Central Province,Harangala
+539,Central Province,Harankahagoda
+540,Central Province,Harankahawa
+541,Central Province,Harasbedda
+542,Central Province,Harasgama
+543,Central Province,Harden-huish
+544,Central Province,Hassalaka
+545,Central Province,Hatadukkuwa
+546,Central Province,Hatamunagala
+547,Central Province,Hataraliyadda
+548,Central Province,Hathugoda
+549,Central Province,Hatiyaldeniya
+550,Central Province,Hatiyalwela
+551,Central Province,Hatnagoda
+552,Central Province,Hatton
+553,Central Province,Hatugoda
+554,Central Province,Hedeniya
+555,Central Province,Hedunuwawa
+556,Central Province,Hegama
+557,Central Province,Hegasulla
+558,Central Province,Helambagahawatta
+559,Central Province,Hemagahahena
+560,Central Province,Hembarawa
+561,Central Province,Hemure
+562,Central Province,Henagahawela
+563,Central Province,Henagehuwala
+564,Central Province,Henagehuwala Medagammedda
+565,Central Province,Henapola
+566,Central Province,Henaya Rotawewa
+567,Central Province,Hendeniya
+568,Central Province,Henegama
+569,Central Province,Henegama Palkumbura
+570,Central Province,Henepola
+571,Central Province,Hepana
+572,Central Province,Hettigammedda
+573,Central Province,Hevanewala
+574,Central Province,Hewaheta
+575,Central Province,Hewanetenna
+576,Central Province,Hewanewala
+577,Central Province,Hewawissa
+578,Central Province,Hewawisse
+579,Central Province,Hiddaulla
+580,Central Province,Hilpankandura
+581,Central Province,Hilpenkandura
+582,Central Province,Hilton Colony
+583,Central Province,Himbiliyakada
+584,Central Province,Hinagama
+585,Central Province,Hindagala
+586,Central Province,Hindagoda
+587,Central Province,Hindirigama
+588,Central Province,Hingulwala
+589,Central Province,Hingulwela
+590,Central Province,Hingurewela
+591,Central Province,Hingurukaduwa
+592,Central Province,Hinnarangolla
+593,Central Province,Hippala
+594,Central Province,Hippola
+595,Central Province,Hiriyalagammana
+596,Central Province,Hitgoda
+597,Central Province,Hitgoda Walpola
+598,Central Province,Hitigegama
+599,Central Province,Hitigolla
+600,Central Province,Hiyadala
+601,Central Province,Hiyadala
+602,Central Province,Hiyadala Walpola
+603,Central Province,Hiyarapitiya
+604,Central Province,Hiyawela
+605,Central Province,Holbrook
+606,Central Province,Homagama
+607,Central Province,Homapola
+608,Central Province,Hombawa
+609,Central Province,Horagahapitiya
+610,Central Province,Horakada
+611,Central Province,Horton Plains
+612,Central Province,Huduhumpola
+613,Central Province,Hulangamuwa
+614,Central Province,Huluganga
+615,Central Province,Huluganga Town
+616,Central Province,Hunnasgiriya
+617,Central Province,Hunuange Bogaskumburegammedda
+618,Central Province,Hunuange Imbulkotadeniya
+619,Central Province,Hunugalpitiya
+620,Central Province,Hunuketa-ela
+621,Central Province,Hunuketawala
+622,Central Province,Hunuketella
+623,Central Province,Hurikaduwa
+624,Central Province,Hurikaduwa Madige
+625,Central Province,Hurikaduwe Madige
+626,Central Province,Idamagama
+627,Central Province,Idamelanda
+628,Central Province,Idampitiya
+629,Central Province,Ihagama
+630,Central Province,Ihaladiggala
+631,Central Province,Ihalagama Niyangama
+632,Central Province,Ihalakande Bavulana
+633,Central Province,Illagolla
+634,Central Province,Illawatura
+635,Central Province,Illukpelessa (7°7'N 80°49'E)
+636,Central Province,Illukpelessa (7°1'N 80°54'E)
+637,Central Province,Illuktenna (7°10'N 80°55'E)
+638,Central Province,Illuktenna (7°22'N 80°55'E)
+639,Central Province,Illukwatta
+640,Central Province,Ilpemada
+641,Central Province,Ilukhena
+642,Central Province,Ilukpelessa (7°7'N 80°49'E)
+643,Central Province,Ilukpelessa (7°1'N 80°54'E)
+644,Central Province,Ilukpelessa (7°27'N 80°54'E)
+645,Central Province,Iluktenna
+646,Central Province,Ilukwatta
+647,Central Province,Imaduwa
+648,Central Province,Imbulandanda
+649,Central Province,Imbuldeniya
+650,Central Province,Imbuletenna
+651,Central Province,Imbulgolla
+652,Central Province,Imbulmalgama
+653,Central Province,Imbulpitiya
+654,Central Province,Inguruwatta
+655,Central Province,Inigala
+656,Central Province,Ipiladana
+657,Central Province,Irahanda
+658,Central Province,Iriyagolla
+659,Central Province,Irrahanda
+660,Central Province,Ittamalliyagoda
+661,Central Province,Ivurawala
+662,Central Province,Jahakagama 
+663,Central Province,Jiwanawatta
+664,Central Province,Kadadekawewa
+665,Central Province,Kadadoovapitiya
+666,Central Province,Kadadora Pallegammedda
+667,Central Province,Kadadora Udagammedda
+668,Central Province,Kadadorapitiya
+669,Central Province,Kadawala
+670,Central Province,Kadawatgama
+671,Central Province,Kadugannawa
+672,Central Province,Kadugawnawa
+673,Central Province,Kaduwela
+674,Central Province,Kahagala
+675,Central Province,Kahalla
+676,Central Province,Kahapathwela
+677,Central Province,Kahapatwala
+678,Central Province,Kahatadanda
+679,Central Province,Kahatagaha
+680,Central Province,Kahatagaha Aswedduma
+681,Central Province,Kahatagastenna
+682,Central Province,Kahatapitiya
+683,Central Province,Kahawatta
+684,Central Province,Kahawatugoda
+685,Central Province,Kaikawala
+686,Central Province,Kaineke
+687,Central Province,Kalaganwatta
+688,Central Province,Kalagolla
+689,Central Province,Kalalgamuwa
+690,Central Province,Kalalpitiya
+691,Central Province,Kalapathwela
+692,Central Province,Kalapitiya
+693,Central Province,Kalawa
+694,Central Province,Kalawagahawadiya
+695,Central Province,Kalawala
+696,Central Province,Kalaweldeniya
+697,Central Province,Kalotuwawa
+698,Central Province,Kaludella
+699,Central Province,Kaludemada
+700,Central Province,Kaludewala
+701,Central Province,Kalugal-oya
+702,Central Province,Kalugala
+703,Central Province,Kaluganga
+704,Central Province,Kaluwane
+705,Central Province,Kambarawa
+706,Central Province,Kamburadeniya
+707,Central Province,Kammaltera
+708,Central Province,Kanakkarapola
+709,Central Province,Kanangamuwa
+710,Central Province,Kandalama
+711,Central Province,Kandangama
+712,Central Province,Kandanhena
+713,Central Province,Kandapola
+714,Central Province,Kande
+715,Central Province,Kandegama
+716,Central Province,Kandegama
+717,Central Province,Kandegama
+718,Central Province,Kandegedara
+719,Central Province,Kandekumbura
+720,Central Province,Kandekumbura
+721,Central Province,Kandekumbura
+722,Central Province,Kandemoragolla
+723,Central Province,Kandewela
+724,Central Province,Kanduregoda
+725,Central Province,Kandurugoda
+726,Central Province,Kandy
+727,Central Province,Kannadeniya
+728,Central Province,Kapuliyadda
+729,Central Province,Kaputupola
+730,Central Province,Karagala
+731,Central Province,Karagama
+732,Central Province,Karagastenna
+733,Central Province,Karakolagahatenna
+734,Central Province,Karakolagastenna
+735,Central Province,Karaliyadda
+736,Central Province,Karalliyada Kandegammedda
+737,Central Province,Karalliyadda
+738,Central Province,Karalliyadda
+739,Central Province,Karalliyadda Kandegammedda
+740,Central Province,Karamada
+741,Central Province,Karamindula
+742,Central Province,Karandagolla
+743,Central Province,Karandamaditta
+744,Central Province,Karuwalagahadewala
+745,Central Province,Karuwalakelewatta
+746,Central Province,Karuwalakelle
+747,Central Province,Katarandana
+748,Central Province,Katarandena
+749,Central Province,Kathurupitiya
+750,Central Province,Katugastota
+751,Central Province,Katumana
+752,Central Province,Katupathwela
+753,Central Province,Kavudupelella
+754,Central Province,Kavudupitiya
+755,Central Province,Kavulpana
+756,Central Province,Kavulpone
+757,Central Province,Kawdupelella
+758,Central Province,Kawudupelella
+759,Central Province,Keenagolla
+760,Central Province,Keerapone
+761,Central Province,Kehelella
+762,Central Province,Kehelwala
+763,Central Province,Kehelwatta
+764,Central Province,Kehelwatta
+765,Central Province,Kekelawatta
+766,Central Province,Kekulalanda
+767,Central Province,Kekulalla
+768,Central Province,Kekulanda
+769,Central Province,Keliyalpitiya
+770,Central Province,Kendagolla
+771,Central Province,Kendagolla
+772,Central Province,Kendagollamada
+773,Central Province,Kendaliadda
+774,Central Province,Kendaliyadda
+775,Central Province,Kendangamuwa
+776,Central Province,Kengalla
+777,Central Province,Kengalla Pahalagammedda
+778,Central Province,Ketakandura
+779,Central Province,Ketakumbura
+780,Central Province,Ketayapatana
+781,Central Province,Kimbulantota
+782,Central Province,Kindigoda
+783,Central Province,Kinigama
+784,Central Province,Kinigama
+785,Central Province,Kinigama
+786,Central Province,Kiralagama
+787,Central Province,Kiralagolla
+788,Central Province,Kiralessa
+789,Central Province,Kirapane
+790,Central Province,Kirapone
+791,Central Province,Kiribatkumbura
+792,Central Province,Kirigalpotta
+793,Central Province,Kirigankumbura
+794,Central Province,Kirimedilla
+795,Central Province,Kirimetiya
+796,Central Province,Kirimetiyawa
+797,Central Province,Kirinda
+798,Central Province,Kirindewela
+799,Central Province,Kirindiketiya
+800,Central Province,Kirindiwelpola
+801,Central Province,Kirioruwa
+802,Central Province,Kiripattiya
+803,Central Province,Kiriwan Eliya
+804,Central Province,Kiriwanagoda
+805,Central Province,Kiriwaula
+806,Central Province,Kiriwavula
+807,Central Province,Kirlulgama
+808,Central Province,Kitulangomuwa
+809,Central Province,Kituldora
+810,Central Province,Kitulpe
+811,Central Province,Kiul-ulpota
+812,Central Province,Kiula
+813,Central Province,Kiulewadiya
+814,Central Province,Kobbeakaduwa
+815,Central Province,Kobbekaduwa
+816,Central Province,Kobbewala
+817,Central Province,Kobbewehera
+818,Central Province,Kochchikaduwa
+819,Central Province,Kohilawatta
+820,Central Province,Kohodeniya
+821,Central Province,Koholanwala
+822,Central Province,Koholanwela
+823,Central Province,Koholdeniya
+824,Central Province,Kohomada
+825,Central Province,Kohonapuwakgaha-ela
+826,Central Province,Kollawela
+827,Central Province,Kolonella
+828,Central Province,Kolongastenna
+829,Central Province,Kolugala
+830,Central Province,Konakagala
+831,Central Province,Konakalagala
+832,Central Province,Kondadeniya
+833,Central Province,Kongahakotuwa
+834,Central Province,Kongahamulla
+835,Central Province,Kongahawela
+836,Central Province,Konkalagala
+837,Central Province,Korahagoda
+838,Central Province,Korahana
+839,Central Province,Kosgalla
+840,Central Province,Kosgama
+841,Central Province,Kosgolla
+842,Central Province,Koshinna
+843,Central Province,Kosinna
+844,Central Province,Koskote
+845,Central Province,Kosruppe
+846,Central Province,Kossinna
+847,Central Province,Koswana
+848,Central Province,Koswatta
+849,Central Province,Kotabogoda
+850,Central Province,Kotagala
+851,Central Province,Kotagepitiya
+852,Central Province,Kotagepitiya
+853,Central Province,Kotakedeniya
+854,Central Province,Kotakepitiya
+855,Central Province,Kotakumbura
+856,Central Province,Kotaligoda
+857,Central Province,Kotambe
+858,Central Province,Kotawagura
+859,Central Province,Kotikambe
+860,Central Province,Kotinkaduwa
+861,Central Province,Kotiyagala
+862,Central Province,Kotmale
+863,Central Province,Kottala
+864,Central Province,Kottinkaduwa
+865,Central Province,Labugama
+866,Central Province,Labugolla
+867,Central Province,Lagamuwa
+868,Central Province,Landupita
+869,Central Province,Lappanagama
+870,Central Province,Legundeniya
+871,Central Province,Leloya
+872,Central Province,Lemasuriyagama
+873,Central Province,Lenadora
+874,Central Province,Lenawala
+875,Central Province,Lendora
+876,Central Province,Lesliewatta
+877,Central Province,Letiyahena
+878,Central Province,Leudeniya
+879,Central Province,Lewdeniya
+880,Central Province,Lewella
+881,Central Province,Lewellagolla
+882,Central Province,Lewla
+883,Central Province,Lindula
+884,Central Province,Linipitiya
+885,Central Province,Liniyaketiya
+886,Central Province,Liyandeniya
+887,Central Province,Liyanwela Helagama
+888,Central Province,Liyanwela Pahalagama
+889,Central Province,Loolkade
+890,Central Province,Lunugama
+891,Central Province,Maberiya
+892,Central Province,Madadeniya
+893,Central Province,Madahapolakanda
+894,Central Province,Madakumbura
+895,Central Province,Madampitiya
+896,Central Province,Madanpitiya
+897,Central Province,Madanwala
+898,Central Province,Madawala
+899,Central Province,Madawala Demalabage
+900,Central Province,Madawala Madige
+901,Central Province,Madawala Ulpota
+902,Central Province,Madiligama
+903,Central Province,Madipola Marakkalabage
+904,Central Province,Madugalla
+905,Central Province,Madulkele
+906,Central Province,Madulkele Bazaar
+907,Central Province,Madulla
+908,Central Province,Madumana
+909,Central Province,Maha Aswedduma
+910,Central Province,Maha Pattapola
+911,Central Province,Mahagama Egodagama
+912,Central Province,Mahagama Megodagama
+913,Central Province,Mahaiyawa
+914,Central Province,Mahakumbura
+915,Central Province,Mahalakotuwa
+916,Central Province,Mahalevakanda
+917,Central Province,Mahanurora
+918,Central Province,Mahanuvara
+919,Central Province,Mahanuwara
+920,Central Province,Mahara
+921,Central Province,Mahawala
+922,Central Province,Mahawatta
+923,Central Province,Mahawela
+924,Central Province,WattegamMahiyangana
+925,Central Province,Mailapitiya Lower
+926,Central Province,Mailapitiya Upper
+927,Central Province,Maiyangana
+928,Central Province,Makeliyawala
+929,Central Province,Makempe
+930,Central Province,Makuldeniya
+931,Central Province,Makulussa Colony
+932,Central Province,Malagammana
+933,Central Province,Malagekumbura
+934,Central Province,Malanwatta
+935,Central Province,Maldeniya
+936,Central Province,Malgammana
+937,Central Province,Malgandeniya
+938,Central Province,Malhewa
+939,Central Province,Maligatenna
+940,Central Province,Maliyadda
+941,Central Province,Malulla
+942,Central Province,Malwanahinna
+943,Central Province,Mampitiya
+944,Central Province,Manaboda
+945,Central Province,Manahinda
+946,Central Province,Manakola
+947,Central Province,Mandandawela
+948,Central Province,Mandaran Newara
+949,Central Province,Mangalagama
+950,Central Province,Mangoda
+951,Central Province,Manilwala
+952,Central Province,Mapanawatura
+953,Central Province,Mapanawatura
+954,Central Province,Maradurawala
+955,Central Province,Maraka
+956,Central Province,Marakkalagama
+957,Central Province,Marassana
+958,Central Province,Maratugoda
+959,Central Province,Maratuwela
+960,Central Province,Marawanagoda
+961,Central Province,Martuwela
+962,Central Province,Maruddana
+963,Central Province,Marukona
+964,Central Province,Maskeliya
+965,Central Province,Maswela
+966,Central Province,Matalapitiya
+967,Central Province,Matale
+968,Central Province,Matale Polwatta
+969,Central Province,Matale Town
+970,Central Province,Matgamuwa
+971,Central Province,Mathgamuwa
+972,Central Province,Maturata
+973,Central Province,Mawatagama
+974,Central Province,Mawatapola
+975,Central Province,Mawatupola
+976,Central Province,Mawatupola
+977,Central Province,Mawatura
+978,Central Province,Mawela
+979,Central Province,Mawilmada
+980,Central Province,Meda-Ela
+981,Central Province,Medabedda
+982,Central Province,Medagahawatura
+983,Central Province,Medagama
+984,Central Province,Medagammedda
+985,Central Province,Medagoda
+986,Central Province,Medakanda
+987,Central Province,Medakele
+988,Central Province,Medakumbura
+989,Central Province,Medapihilla
+990,Central Province,Medapititenna
+991,Central Province,Medapitiya
+992,Central Province,Medawala
+993,Central Province,Meddegoda
+994,Central Province,Meddehinna
+995,Central Province,Medilla
+996,Central Province,Medilletenna
+997,Central Province,Mediriya
+998,Central Province,Mediwaka
+999,Central Province,Mediyapola
+1000,Central Province,Meepitiya
+1001,Central Province,Mellagola
+1002,Central Province,Menikbowa
+1003,Central Province,Menikdiwela
+1004,Central Province,Menikhinna
+1005,Central Province,Menikhinna Town
+1006,Central Province,Metagama
+1007,Central Province,Methagama
+1008,Central Province,Metibembiya
+1009,Central Province,Metibokka
+1010,Central Province,Metideniya
+1011,Central Province,Metihakka
+1012,Central Province,Metiwalatenna
+1013,Central Province,Mideniya
+1014,Central Province,Migahahena
+1015,Central Province,Migammana
+1016,Central Province,Migammana Ihalagammedda
+1017,Central Province,Migammana Mahagammedda
+1018,Central Province,Migammana Pallegama
+1019,Central Province,Migaskotuwa
+1020,Central Province,Millapitiya
+1021,Central Province,Millawana
+1022,Central Province,Millawana Ihalagama
+1023,Central Province,Millawana Pahalagama
+1024,Central Province,Mimura
+1025,Central Province,Mimure
+1026,Central Province,Minigamuwa
+1027,Central Province,Minipe
+1028,Central Province,Minuwangamuwa
+1029,Central Province,Mipitiya
+1030,Central Province,Mirahampe
+1031,Central Province,Mirissala
+1032,Central Province,Miriyakada
+1033,Central Province,Miruppa
+1034,Central Province,Mitalawa
+1035,Central Province,Miwaladeniya
+1036,Central Province,Miwatura
+1037,Central Province,Miyanagolla
+1038,Central Province,Miyanakolamada
+1039,Central Province,Moladanda
+1040,Central Province,Molagoda
+1041,Central Province,Monaruwila
+1042,Central Province,Moragahamula
+1043,Central Province,Moragahamulla
+1044,Central Province,Moragahaulpota
+1045,Central Province,Moragaspitiya
+1046,Central Province,Moragolla
+1047,Central Province,Moragolleyaya
+1048,Central Province,Morahenegama
+1049,Central Province,Morape
+1050,Central Province,Morape Pallegammedda
+1051,Central Province,Morape Udagammedda
+1052,Central Province,Motamure
+1053,Central Province,Mottuwela
+1054,Central Province,Nabadagahawatta
+1055,Central Province,Nagahapola
+1056,Central Province,Nagahatenna
+1057,Central Province,Nagasena
+1058,Central Province,Nagolla (7°27'N 80°37'E)
+1059,Central Province,Nagolla (7°22'N 80°52'E)
+1060,Central Province,Nalanda (7°40'N 80°38'E)
+1061,Central Province,Nalanda (7°31'N 80°34'E)
+1062,Central Province,Namadagala
+1063,Central Province,Nanu Oya
+1064,Central Province,Nanumure
+1065,Central Province,Napana Disaneggammedda
+1066,Central Province,Napana Disanekgammedda
+1067,Central Province,Napana Hunuangegammedda
+1068,Central Province,Napatawela
+1069,Central Province,Narandanda
+1070,Central Province,Narangolla
+1071,Central Province,Narangomuwa
+1072,Central Province,Naranpanawa
+1073,Central Province,Naranpanawa Dembatagolla
+1074,Central Province,Naranpanawa Disaneggammedda
+1075,Central Province,Naranpanawa Egodagammedda
+1076,Central Province,Naranpanawa Kandegammedda
+1077,Central Province,Naranpanawa Karagastenna
+1078,Central Province,Naranpanawe Dembatagolla
+1079,Central Province,Naranpanawe Disanekgammedda
+1080,Central Province,Naranpanawe Egodagammedda
+1081,Central Province,Naranpanawe Kandegammedda
+1082,Central Province,Naranpanawe Karagastenna
+1083,Central Province,Narantalawa
+1084,Central Province,Naranwala (7°22'N 80°30'E)
+1085,Central Province,Naranwala (7°13'N 80°34'E)
+1086,Central Province,Naranwita
+1087,Central Province,Nattarampota
+1088,Central Province,Naula
+1089,Central Province,Navangama
+1090,Central Province,Nawalapitiya
+1091,Central Province,Nawangama
+1092,Central Province,Nawaragoda
+1093,Central Province,Nawayalatenna
+1094,Central Province,Nawayalatenna Bazaar
+1095,Central Province,Nawela
+1096,Central Province,Nayakumbura
+1097,Central Province,Nehiniwala
+1098,Central Province,Nelugolla
+1099,Central Province,Neluwakanda
+1100,Central Province,Nikagolla
+1101,Central Province,Nikahetiya
+1102,Central Province,Nikatenna (7°19'N 80°28'E)
+1103,Central Province,Nikatenna (7°22'N 80°31'E)
+1104,Central Province,Nikatenna (7°19'N 80°37'E)
+1105,Central Province,Nikawatawana
+1106,Central Province,Nikawehera
+1107,Central Province,Nikawella
+1108,Central Province,Nilagama
+1109,Central Province,Nilawala
+1110,Central Province,Nildandahinna
+1111,Central Province,Nilgala
+1112,Central Province,Nillambe
+1113,Central Province,Nira-ella
+1114,Central Province,Nittawela
+1115,Central Province,Nittultenna
+1116,Central Province,Nituletenna
+1117,Central Province,Nitulgahakotuwa
+1118,Central Province,Niyambepola
+1119,Central Province,Niyangama
+1120,Central Province,Niyangandara
+1121,Central Province,Niyangandora
+1122,Central Province,Niyangoda
+1123,Central Province,Niyarepola
+1124,Central Province,Norton
+1125,Central Province,Norton Bridge
+1126,Central Province,Norwood
+1127,Central Province,Norwood Bazaar
+1128,Central Province,Nugahapola
+1129,Central Province,Nugaliyadda
+1130,Central Province,Nugapitiya
+1131,Central Province,Nugatenna
+1132,Central Province,Nugatota
+1133,Central Province,Nugawela
+1134,Central Province,Nugawelagammedda
+1135,Central Province,Nugetenna
+1136,Central Province,Nuwara Dodanwala
+1137,Central Province,Nuwara Dodanwela
+1138,Central Province,Nuwara Eliya
+1139,Central Province,Nuwara Eliya Town
+1140,Central Province,Nuwari-Eliya
+1141,Central Province,Oggomuwa
+1142,Central Province,Ogodapola
+1143,Central Province,Olaganwatta
+1144,Central Province,Old Peradeniya
+1145,Central Province,Oligama
+1146,Central Province,Oluwawatta
+1147,Central Province,Opalagala
+1148,Central Province,Opalgala
+1149,Central Province,Opalgalawatta
+1150,Central Province,Opalla
+1151,Central Province,Otagama
+1152,Central Province,Otalawa
+1153,Central Province,Ovisa
+1154,Central Province,Owala (7°16'N 80°34'E)
+1155,Central Province,Owala (7°31'N 80°39'E)
+1156,Central Province,Owalapolwatta
+1157,Central Province,Owisa
+1158,Central Province,Oyatenna
+1159,Central Province,Padeniya
+1160,Central Province,Padiwitagama
+1161,Central Province,Padiwitawela
+1162,Central Province,Padiyapelella
+1163,Central Province,Paduangoda
+1164,Central Province,Padupola
+1165,Central Province,Paduwangoda
+1166,Central Province,Pahaladiggala
+1167,Central Province,Pahalagammedda
+1168,Central Province,Pahalakande Bavulana
+1169,Central Province,Pahalawela
+1170,Central Province,Pahalawewa
+1171,Central Province,Paladoraella
+1172,Central Province,Palagolla
+1173,Central Province,Palapatwela
+1174,Central Province,Palawa
+1175,Central Province,Paldeniya
+1176,Central Province,Palipana
+1177,Central Province,Palkade
+1178,Central Province,Palkumbura
+1179,Central Province,Pallama
+1180,Central Province,Palle Aludeniya
+1181,Central Province,Palle Deltota
+1182,Central Province,Palle Galadebokka
+1183,Central Province,Palle Hapuwida
+1184,Central Province,Palle Henepola
+1185,Central Province,Palle Ihagama
+1186,Central Province,Palle Mailapitiya
+1187,Central Province,Palle Makuruppe
+1188,Central Province,Palle Talawinna
+1189,Central Province,Palle Talawinna Udagammedda
+1190,Central Province,Palle Weragama
+1191,Central Province,Palleaswedduma
+1192,Central Province,Pallegama
+1193,Central Province,Pallegama Ihalagammedda
+1194,Central Province,Pallegama Pahalagammedda
+1195,Central Province,Pallegammedda
+1196,Central Province,Pallehaduwa
+1197,Central Province,Pallehena
+1198,Central Province,Pallekanda
+1199,Central Province,Pallekele Kadawidiya
+1200,Central Province,Pallemaoya
+1201,Central Province,Pallepola
+1202,Central Province,Palletenna
+1203,Central Province,Pallewatta
+1204,Central Province,Pallewela
+1205,Central Province,Palleyaya
+1206,Central Province,Palu Rotawewa
+1207,Central Province,Palugama
+1208,Central Province,Palukopiwatta
+1209,Central Province,Pamunudeniya
+1210,Central Province,Pamunuwa
+1211,Central Province,Panabokke
+1212,Central Province,Panangammana
+1213,Central Province,Pananwala
+1214,Central Province,Panatale
+1215,Central Province,Panawelulla
+1216,Central Province,Pangala
+1217,Central Province,Pangollamada
+1218,Central Province,Pannagama
+1219,Central Province,Pannala
+1220,Central Province,Pannala I
+1221,Central Province,Pannala II
+1222,Central Province,Pannampitiya
+1223,Central Province,Pannanpitiya
+1224,Central Province,Panwatta
+1225,Central Province,Panwila
+1226,Central Province,Panwila Town
+1227,Central Province,Panwilatenna
+1228,Central Province,Paradeka
+1229,Central Province,Paragahamada
+1230,Central Province,Paragahawela
+1231,Central Province,Paragoda
+1232,Central Province,Parakatawella
+1233,Central Province,Paranagama
+1234,Central Province,Paranagama Hapukotuwegammedda
+1235,Central Province,Paranagama Mandandawela
+1236,Central Province,Patkolagolla
+1237,Central Province,Pattitalawa
+1238,Central Province,Pattiwela
+1239,Central Province,Pattiyamulla
+1240,Central Province,Pattunupitiya
+1241,Central Province,Payingomuwa
+1242,Central Province,Pelawa
+1243,Central Province,Pelena
+1244,Central Province,Pelenegama
+1245,Central Province,Pellepitiya
+1246,Central Province,Penahetipola
+1247,Central Province,Penalaboda
+1248,Central Province,Penideniya
+1249,Central Province,Peradeniya
+1250,Central Province,Peradenya
+1251,Central Province,Petiyagoda
+1252,Central Province,Piharallegama
+1253,Central Province,Pilapitiya
+1254,Central Province,Pilawala
+1255,Central Province,Piligalla
+1256,Central Province,Piligama
+1257,Central Province,Pilihudugolla
+1258,Central Province,Pilihudugolla Ihalagama
+1259,Central Province,Pilihudugolla Pahalagama
+1260,Central Province,Piliwela
+1261,Central Province,Pinnalandawatta
+1262,Central Province,Pinnawala
+1263,Central Province,Pitakanda
+1264,Central Province,Pitawala
+1265,Central Province,Pitiyagedera
+1266,Central Province,Pitunugama
+1267,Central Province,Poddalgoda
+1268,Central Province,Poddalgoda Megodagama
+1269,Central Province,Pohaliyadda
+1270,Central Province,Poholiadda
+1271,Central Province,Pohoranwewayaya
+1272,Central Province,Pokunuwatta
+1273,Central Province,Polgaha-anga
+1274,Central Province,Polgahange
+1275,Central Province,Polgolla
+1276,Central Province,Polmalagama
+1277,Central Province,Polommana
+1278,Central Province,Polpitiya
+1279,Central Province,Polwatta
+1280,Central Province,Polwatta Colony
+1281,Central Province,Polwatte Ihalagama
+1282,Central Province,Polwattekanda
+1283,Central Province,Poppitiya
+1284,Central Province,Potawa
+1285,Central Province,Pottallinda
+1286,Central Province,Pottatawela
+1287,Central Province,Pottepitiya
+1288,Central Province,Pottila
+1289,Central Province,Pubbarawela
+1290,Central Province,Pubbiliya
+1291,Central Province,Puliyadda
+1292,Central Province,Pulleniwatta
+1293,Central Province,Punchlrambadagalla
+1294,Central Province,Pundaloya
+1295,Central Province,Pundaluoya
+1296,Central Province,Punduloya
+1297,Central Province,Pupuressa
+1298,Central Province,Puraamkumbura
+1299,Central Province,Purankumbura
+1300,Central Province,Purijjala
+1301,Central Province,Pussalagolla
+1302,Central Province,Pussalakandura
+1303,Central Province,Pussalamankada
+1304,Central Province,Pusse-Ela
+1305,Central Province,Pussella
+1306,Central Province,Pussellagolla
+1307,Central Province,Pussellawa
+1308,Central Province,Pusulpitiya
+1309,Central Province,Puwakgahagala
+1310,Central Province,Puwakpitiya
+1311,Central Province,Rabbegamuwa
+1312,Central Province,Radagoda
+1313,Central Province,Radewala
+1314,Central Province,Radunnewela
+1315,Central Province,Ragala
+1316,Central Province,Rahatungoda
+1317,Central Province,Raitalawa
+1318,Central Province,Raitalawela
+1319,Central Province,Rambawela
+1320,Central Province,Ramboda
+1321,Central Province,Rambuke
+1322,Central Province,Rambukella
+1323,Central Province,Rambukewela
+1324,Central Province,Rambukkewela
+1325,Central Province,Rambukkoluwa
+1326,Central Province,Rambukpitiya
+1327,Central Province,Rambukpota
+1328,Central Province,Rambukpota-anga
+1329,Central Province,Rambukwella
+1330,Central Province,Rammalaka
+1331,Central Province,Rammalakandura
+1332,Central Province,Ranamure
+1333,Central Province,Ranatalawa
+1334,Central Province,Ranawa
+1335,Central Province,Ranawana
+1336,Central Province,Rangala
+1337,Central Province,Rangama
+1338,Central Province,Rangomuwa
+1339,Central Province,Rankiriyagolla
+1340,Central Province,Rannantalawa
+1341,Central Province,Ranwantalawa
+1342,Central Province,Ranwediyawa
+1343,Central Province,Rasingolla
+1344,Central Province,Rassagoda
+1345,Central Province,Ratalawewa
+1346,Central Province,Ratmalakaduwa
+1347,Central Province,Ratmeewala
+1348,Central Province,Ratmiwala
+1349,Central Province,Ratninda
+1350,Central Province,Ratninda
+1351,Central Province,Rattota
+1352,Central Province,Ratwatta
+1353,Central Province,Rawanagoda
+1354,Central Province,Rekatwala
+1355,Central Province,Rekitipe
+1356,Central Province,Retiyagama
+1357,Central Province,Ridiella
+1358,Central Province,Rikillagaskada
+1359,Central Province,Rilamulla
+1360,Central Province,Rogersongama
+1361,Central Province,Rottipehilla
+1362,Central Province,Rozella
+1363,Central Province,Rupaha
+1364,Central Province,Rusigama
+1365,Central Province,Samarakonehena
+1366,Central Province,Sangilipalam
+1367,Central Province,Sangilipalama
+1368,Central Province,Selagama
+1369,Central Province,Selagama Colony
+1370,Central Province,Serudandapola
+1371,Central Province,Serugolla
+1372,Central Province,Singhapitiya
+1373,Central Province,Sinhapitiya
+1374,Central Province,Sirangahawatta
+1375,Central Province,Sirimalwatta
+1376,Central Province,Sita Eliya
+1377,Central Province,Sivurupitiya
+1378,Central Province,Siyambalagahawela
+1379,Central Province,Siyambalagastenna
+1380,Central Province,Siyambalagoda
+1381,Central Province,Siyambalapitiya
+1382,Central Province,Siyambalawewa
+1383,Central Province,Suduhakurugama
+1384,Central Province,Suriyagoda
+1385,Central Province,Tahalpitiya
+1386,Central Province,Talagasyaya
+1387,Central Province,Talagoda
+1388,Central Province,Talagune
+1389,Central Province,Talakiriyagama
+1390,Central Province,Talakiriyagma
+1391,Central Province,Talakiriyawa
+1392,Central Province,Talakolawela
+1393,Central Province,Talapelellagoda
+1394,Central Province,Talatuoya
+1395,Central Province,Talawakele
+1396,Central Province,Talawatta
+1397,Central Province,Talawatura
+1398,Central Province,Talgahagoda
+1399,Central Province,Talwatta (7°17'N 80°39'E)
+1400,Central Province,Talwatta (7°16'N 80°40'E)
+1401,Central Province,Tammitiya
+1402,Central Province,Taralanda
+1403,Central Province,Tawalantenna (7°4'N 80°40'E)
+1404,Central Province,Tawalantenna (7°13'N 80°47'E)
+1405,Central Province,Telambugahawatta
+1406,Central Province,Teldeniya
+1407,Central Province,Teldeniya Town
+1408,Central Province,Teldiniya
+1409,Central Province,Telihigala
+1410,Central Province,Telihunna
+1411,Central Province,Tembiligala Pallegama
+1412,Central Province,Tembiligala Udagama
+1413,Central Province,Tenna
+1414,Central Province,Tennehena
+1415,Central Province,Tennehenwala
+1416,Central Province,Tennekumbura
+1417,Central Province,Tepugolla
+1418,Central Province,Teripaha
+1419,Central Province,Teripehagama
+1420,Central Province,Thine Kanuwa
+1421,Central Province,Thinniyagala
+1422,Central Province,Thumbara
+1423,Central Province,Tibbotugoda
+1424,Central Province,Tibbotuwawa
+1425,Central Province,Tientsin
+1426,Central Province,Tillicoultry
+1427,Central Province,Tinipitigama
+1428,Central Province,Tiniyagala
+1429,Central Province,Tirappuwa
+1430,Central Province,Tismada
+1431,Central Province,Tismoda
+1432,Central Province,Tispane
+1433,Central Province,Tittapajjala
+1434,Central Province,Tiyambara-ambe
+1435,Central Province,Torapitiya
+1436,Central Province,Tumpelawaka
+1437,Central Province,Tumpelawake
+1438,Central Province,Tundeniya
+1439,Central Province,Tunhitiyawa
+1440,Central Province,Tunoathliyadda
+1441,Central Province,Uda Aludeniya
+1442,Central Province,Uda Aramba
+1443,Central Province,Udadumbara
+1444,Central Province,Uda Galadebokke
+1445,Central Province,Uda Hapuwida
+1446,Central Province,Uda Henepola
+1447,Central Province,Uda Iluka
+1448,Central Province,Uda Madapota
+1449,Central Province,Uda Mailapitiya
+1450,Central Province,Uda Makuruppe
+1451,Central Province,Uda Pussellawa
+1452,Central Province,Uda Pussellawa Estate
+1453,Central Province,Uda Talawinna
+1454,Central Province,Uda Talawinna Megodagammedda
+1455,Central Province,Uda Talawinnamadige
+1456,Central Province,Uda Weragama
+1457,Central Province,Udabowala
+1458,Central Province,Udagaladebokka
+1459,Central Province,Udagalauda
+1460,Central Province,Udagama
+1461,Central Province,Udagama Pallegama
+1462,Central Province,Udagammedda
+1463,Central Province,Udahaduwa
+1464,Central Province,Udahentenna
+1465,Central Province,Udakottamulla
+1466,Central Province,Udakumbura
+1467,Central Province,Udalugama
+1468,Central Province,Udalugaputenna
+1469,Central Province,Udalumada
+1470,Central Province,Udamadura
+1471,Central Province,Udamaluwa
+1472,Central Province,Udamulla
+1473,Central Province,Udangomuwa
+1474,Central Province,Udapadiyapelella
+1475,Central Province,Udapitawela
+1476,Central Province,Udatenna
+1477,Central Province,Udattawa
+1478,Central Province,Udawatta
+1479,Central Province,Udawela
+1480,Central Province,Udispattuwa
+1481,Central Province,Uda owita
+1482,Central Province,Udu Nuwara and Yatinuwara
+1483,Central Province,Ududaha
+1484,Central Province,Ududeniya
+1485,Central Province,Ududeniya Madige
+1486,Central Province,Ududeniya Sinhalagama
+1487,Central Province,Udugalpitiye Kuppayama
+1488,Central Province,Udugama
+1489,Central Province,Udugoda
+1490,Central Province,Udumulla
+1491,Central Province,Udupihilla
+1492,Central Province,Udurawana
+1493,Central Province,Udurawana Megodagammedda
+1494,Central Province,Uduwa
+1495,Central Province,Uduwawala
+1496,Central Province,Uduwela Pallegama
+1497,Central Province,Uduwela Udagama
+1498,Central Province,Uduwella
+1499,Central Province,Uduwelwala
+1500,Central Province,Uduwerella
+1501,Central Province,Uggahakumbura
+1502,Central Province,Uguresapitiya
+1503,Central Province,Uguressapitiya
+1504,Central Province,Ukutule
+1505,Central Province,Ukuwala
+1506,Central Province,Ukuwela
+1507,Central Province,Ulakkonde
+1508,Central Province,Ulandupitiya
+1509,Central Province,Ulapane
+1510,Central Province,Ullandupitiya
+1511,Central Province,Ullekumbura
+1512,Central Province,Ulpotagama
+1513,Central Province,Ulpotagama Iluka
+1514,Central Province,Ulpotapitiya
+1515,Central Province,Unagolla
+1516,Central Province,Unambuwa
+1517,Central Province,Unantenna Pallegammedda
+1518,Central Province,Unantenna Pallegammedde
+1519,Central Province,Unapandureyaya
+1520,Central Province,Unaweruwa
+1521,Central Province,Upcot
+1522,Central Province,Uradeniya
+1523,Central Province,Urapola
+1524,Central Province,Urawala
+1525,Central Province,Urawela
+1526,Central Province,Urugala
+1527,Central Province,Urugalakadawidiya
+1528,Central Province,Uruherapola
+1529,Central Province,Urulemulla
+1530,Central Province,Urulewatta
+1531,Central Province,Ussettawa
+1532,Central Province,Vetastenna
+1533,Central Province,Viguhumpola
+1534,Central Province,Vilana Pallegama
+1535,Central Province,Vilana Udagama
+1536,Central Province,Wadagolla
+1537,Central Province,Wadakahamada
+1538,Central Province,Wadawala
+1539,Central Province,Wadawalakanda
+1540,Central Province,Wademada
+1541,Central Province,Wadiya
+1542,Central Province,Wadiyagoda
+1543,Central Province,Wahacotte
+1544,Central Province,Waharakgoda
+1545,Central Province,Wahugepitiya
+1546,Central Province,Wahunkoho
+1547,Central Province,Wahunkoha
+1548,Central Province,Wahupitiya
+1549,Central Province,Waikkal
+1550,Central Province,Walagama
+1551,Central Province,Walagedara
+1552,Central Province,Walakumbura
+1553,Central Province,Walakumbura
+1554,Central Province,Walala
+1555,Central Province,Walala Megodagammedda
+1556,Central Province,Walalawela
+1557,Central Province,Walaswewa
+1558,Central Province,Walatalawa
+1559,Central Province,Walawela
+1560,Central Province,Waldeniya
+1561,Central Province,Walgama
+1562,Central Province,Walgampaya
+1563,Central Province,Walgovuwagoda
+1564,Central Province,Walgowagoda
+1565,Central Province,Wallahagoda
+1566,Central Province,Walliwela
+1567,Central Province,Walmoruwa
+1568,Central Province,Walpola
+1569,Central Province,Walpoladeniya
+1570,Central Province,Walpolamulla
+1571,Central Province,Walugama
+1572,Central Province,Wanduramulla
+1573,Central Province,Wannipola
+1574,Central Province,Waradiwala
+1575,Central Province,Waragashinna
+1576,Central Province,Warakadeniya
+1577,Central Province,Warakagoda
+1578,Central Province,Warakalawita
+1579,Central Province,Warakamure
+1580,Central Province,Warakawa
+1581,Central Province,Waralaggama
+1582,Central Province,Warapitiya
+1583,Central Province,Wariyapola
+1584,Central Province,Wataddora
+1585,Central Province,Watadeniya
+1586,Central Province,Watagoda
+1587,Central Province,Watapana
+1588,Central Province,Watapuluwa
+1589,Central Province,Watawala
+1590,Central Province,Wathumulla
+1591,Central Province,Wattahena
+1592,Central Province,Wattappola
+1593,Central Province,Wattegama
+1594,Central Province,Wattegammedda
+1595,Central Province,Wattegedara
+1596,Central Province,Wattehena
+1597,Central Province,Watuliyadda
+1598,Central Province,Watumulla
+1599,Central Province,Watupola
+1600,Central Province,Waturakumbura
+1601,Central Province,Watuwala
+1602,Central Province,Wavinna
+1603,Central Province,Wawinna
+1604,Central Province,Wayikkal
+1605,Central Province,Wedagolla
+1606,Central Province,Wedigammedda
+1607,Central Province,Wegala
+1608,Central Province,Wegama
+1609,Central Province,Wegama Lower
+1610,Central Province,Wegiriya
+1611,Central Province,Wegodapola
+1612,Central Province,Wehera
+1613,Central Province,Wehigala East
+1614,Central Province,Wekanda
+1615,Central Province,Wekumbura
+1616,Central Province,Welagama
+1617,Central Province,Welaihala Udugoda
+1618,Central Province,Welamboda
+1619,Central Province,Welampe
+1620,Central Province,Welandagoda
+1621,Central Province,Welangahawatta
+1622,Central Province,Welapahala
+1623,Central Province,Welata
+1624,Central Province,Welegedara
+1625,Central Province,Welemulla
+1626,Central Province,Welgahawadiya
+1627,Central Province,Weligalla
+1628,Central Province,Weliganwala
+1629,Central Province,Weligodapola
+1630,Central Province,Weliketiya
+1631,Central Province,Welivitta
+1632,Central Province,Weliwaranagolla
+1633,Central Province,Weliwita
+1634,Central Province,Weliwita Ihalagama
+1635,Central Province,Weliwita Pahalagama
+1636,Central Province,Wellagiriya
+1637,Central Province,Wellangolla
+1638,Central Province,Wellatota
+1639,Central Province,Welletota Kadaweediya
+1640,Central Province,Welpanala
+1641,Central Province,Wepatana
+1642,Central Province,Weragalawatta
+1643,Central Province,Weragama
+1644,Central Province,Weragamtota
+1645,Central Province,Weragantota
+1646,Central Province,Werakonkanda
+1647,Central Province,Weralanda
+1648,Central Province,Weralugastenna
+1649,Central Province,Werapitiya
+1650,Central Province,Werapitiya Ihalagama
+1651,Central Province,Werapitiya Pahalagammedda
+1652,Central Province,Werawala
+1653,Central Province,Werella
+1654,Central Province,Werellagama
+1655,Central Province,West Watta
+1656,Central Province,Wetagepota
+1657,Central Province,Wetakedeniya
+1658,Central Province,Wetakepotha
+1659,Central Province,Wetalawa
+1660,Central Province,Wetasseyaya
+1661,Central Province,Weteggama
+1662,Central Province,Wettehena
+1663,Central Province,Wettewa
+1664,Central Province,Wewagammedda
+1665,Central Province,Wewakele
+1666,Central Province,Wewala
+1667,Central Province,Wewatenna
+1668,Central Province,Wewelmada
+1669,Central Province,Wewelobe
+1670,Central Province,Wiguhumpola
+1671,Central Province,Wijebahukanda
+1672,Central Province,Wilawala
+1673,Central Province,Wilgomuwa
+1674,Central Province,Wilwala
+1675,Central Province,Wiyanamulla
+1676,Central Province,Yaggala
+1677,Central Province,Yahala
+1678,Central Province,Yahalatenne
+1679,Central Province,Yahaletenna
+1680,Central Province,Yakadagoda
+1681,Central Province,Yakgahapitiya
+1682,Central Province,Yakkuragala
+1683,Central Province,Yalegoda
+1684,Central Province,Yalkumbura
+1685,Central Province,Yamanmulla
+1686,Central Province,Yapagama
+1687,Central Province,Yasanampura
+1688,Central Province,Yatala
+1689,Central Province,Yatapana
+1690,Central Province,Yatawara
+1691,Central Province,Yatawatta
+1692,Central Province,Yatawatta
+1693,Central Province,Yatigammana
+1694,Central Province,Yatihalagala
+1695,Central Province,Yatihalagala Pallegama
+1696,Central Province,Yatimadura
+1697,Central Province,Yatipiyangala
+1698,Central Province,Yatirawana
+1699,Central Province,Yatiwawala
+1700,Central Province,Yatiwehera
+1701,Central Province,Yatiwella
+1702,Central Province,Yattakule
+1703,Central Province,Yodagannawa
+1704,Central Province,Yombuweltenna
+1705,Central Province,Yompana
+1706,Central Province,Yonpane
+1707,Eastern Province,Addalaichenai
+1708,Eastern Province,Akkaraipattu
+1709,Eastern Province,Ampara
+1710,Eastern Province,Batticaloa
+1711,Eastern Province,Eravur
+1712,Eastern Province,Kaluwanchikudy
+1713,Eastern Province,Kalmunai
+1714,Eastern Province,Karaitivu
+1715,Eastern Province,Kattankudy
+1716,Eastern Province,Maruthamunai
+1717,Eastern Province,Nintavur
+1718,Eastern Province,Oluvil
+1719,Eastern Province,Oddamavadi
+1720,Eastern Province,Pottuvil
+1721,Eastern Province,Sammanthurai
+1722,Eastern Province,Sainthamaruthu
+1723,Eastern Province,Taigahahinna
+1724,Eastern Province,Thalankudah
+1725,Eastern Province,Thalavai
+1726,Eastern Province,Thamaraikerni
+1727,Eastern Province,Thamaravillu
+1728,Eastern Province,Thambiluvil
+1729,Eastern Province,Thampaddai
+1730,Eastern Province,Tampalakamam
+1731,Eastern Province,Thampalawattai
+1732,Eastern Province,Thannamunai
+1733,Eastern Province,Tannipalai
+1734,Eastern Province,Tembichchiya
+1735,Eastern Province,Thennamaravadi
+1736,Eastern Province,Tettativu
+1737,Eastern Province,Thalayadimadu
+1738,Eastern Province,Thaddumunai
+1739,Eastern Province,Thiaveddavan
+1740,Eastern Province,Thikkodai
+1741,Eastern Province,Thikkoddaimadu
+1742,Eastern Province,Thikkoddaimunmari
+1743,Eastern Province,Thimilatheevu
+1744,Eastern Province,Thiraymadu
+1745,Eastern Province,Thirukkaikuda
+1746,Eastern Province,Thona
+1747,Eastern Province,Thottam
+1748,Eastern Province,Thukkuvittan
+1749,Eastern Province,Thumpalancholai
+1750,Eastern Province,Thumpankerni
+1751,Eastern Province,Trincomalee
+1752,Eastern Province,Udaiyamadam
+1753,Eastern Province,Uhana
+1754,Eastern Province,Ullapalai
+1755,Eastern Province,Unagalla
+1756,Eastern Province,Unapana
+1757,Eastern Province,Unnichchai
+1758,Eastern Province,Unuwaturabubula
+1759,Eastern Province,Upparu
+1760,Eastern Province,Uppodai
+1761,Eastern Province,Uppukkachchimadu
+1762,Eastern Province,Uppural
+1763,Eastern Province,Uppuveli
+1764,Eastern Province,Urani
+1765,Eastern Province,Urachery
+1766,Eastern Province,Uriyankaddu
+1767,Eastern Province,Urukamam
+1768,Eastern Province,Uthuchchenai
+1769,Eastern Province,Vaddavan
+1770,Eastern Province,Vettilaipoddamadu
+1771,Eastern Province,Vaddipoddamadu
+1772,Eastern Province,Vaikaladichchenai
+1773,Eastern Province,Vaikkaladichchenai
+1774,Eastern Province,Trincomalee
+1775,Eastern Province,Vakaneri
+1776,Eastern Province,Vakantonai
+1777,Eastern Province,Vakarai
+1778,Eastern Province,Valaichchenai
+1779,Eastern Province,Valaichchenai
+1780,Eastern Province,Ampara
+1781,Eastern Province,Valaichchenai
+1782,Eastern Province,Valaiyiravu
+1783,Eastern Province,Valaitoddam
+1784,Eastern Province,Vammivattavan
+1785,Eastern Province,Vammiyadiyuttu
+1786,Eastern Province,Vantharumoolai
+1787,Eastern Province,Vannameddutidal
+1788,Eastern Province,Vannatital
+1789,Eastern Province,Vathakkalmadu
+1790,Eastern Province,Vattalaikodichchenai
+1791,Eastern Province,Vavunatheevu
+1792,Eastern Province,Vayiriuttu
+1793,Eastern Province,Vedakudiyiruppu
+1794,Eastern Province,Vedativu
+1795,Eastern Province,Veddukkadduveli
+1796,Eastern Province,Veechukalmunai
+1797,Eastern Province,Veeradiya
+1798,Eastern Province,Veeramunai
+1799,Eastern Province,Vellaimanal
+1800,Eastern Province,Vellaiyadimadu
+1801,Eastern Province,Vellamachchenai
+1802,Eastern Province,Vellaveli
+1803,Eastern Province,Veppadithurai
+1804,Eastern Province,Veppankuda
+1805,Eastern Province,Veranativu
+1806,Eastern Province,Verukal
+1807,Eastern Province,Vettimakkalkudiyiruppu
+1808,Eastern Province,Vilavedduvan
+1809,Eastern Province,Viliraiyadippuval
+1810,Eastern Province,Verugal Malai
+1811,North Central Province,Achari Madatugama
+1812,North Central Province,Acharigama
+1813,North Central Province,Achchirikulama
+1814,North Central Province,Achirigama
+1815,North Central Province,Achiriyagama
+1816,North Central Province,Badahela Etawetunuwewa
+1817,North Central Province,Badahela Ranorewa
+1818,North Central Province,Badahelagama
+1819,North Central Province,Bakamuna
+1820,North Central Province,Bakamuneulpota
+1821,North Central Province,Challitivu
+1822,North Central Province,Dachchi Hammillewa
+1823,North Central Province,Dachchidamana
+1824,North Central Province,Dachihalmillewa
+1825,North Central Province,Dahanekwewa
+1826,North Central Province,Damala Hammillewa
+1827,North Central Province,Echchankulama
+1828,North Central Province,Egodagama
+1829,North Central Province,Ehetuwagama
+1830,North Central Province,Ehetuwewa
+1831,North Central Province,Elagamuwa
+1832,North Central Province,Galagedaragama
+1833,North Central Province,Galahitiyagama
+1834,North Central Province,Galapitagala
+1835,North Central Province,Galapitigala
+1836,North Central Province,Galatanwewa
+1837,North Central Province,Haba Diwulwewa
+1838,North Central Province,Haba Kudawewa
+1839,North Central Province,Habarana
+1840,North Central Province,Habarattawala
+1841,North Central Province,Habawewa
+1842,North Central Province,Ichchankulama
+1843,North Central Province,Ihala Amanakkattuwa
+1844,North Central Province,Ihala Anduketiyawa
+1845,North Central Province,Ihala Angunachchiya
+1846,North Central Province,Ihala Bakmigahaulpota
+1847,North Central Province,Jayanthipura
+1848,North Central Province,Kabaragoyawewa
+1849,North Central Province,Kadadekawewa
+1850,North Central Province,Kadadekawewa
+1851,North Central Province,Kadahatawewa
+1852,North Central Province,Kadandugama
+1853,North Central Province,Kalawewa
+1854,North Central Province,Kekirawa
+1855,North Central Province,Labunoruwa
+1856,North Central Province,Lenagama
+1857,North Central Province,Lewapanikkiyawa
+1858,North Central Province,Lindawewa
+1859,North Central Province,Lokahettiyagama
+1860,North Central Province,Madagallegama
+1861,North Central Province,Madatugama
+1862,North Central Province,Madatungama
+1863,North Central Province,Madawachchiya
+1864,North Central Province,Madawala
+1865,North Central Province,Nabadagaswewa
+1866,North Central Province,Nabadawewa
+1867,North Central Province,Nachchaduwa
+1868,North Central Province,Nachchaduwa Palayakulama
+1869,North Central Province,Nagadaranewa
+1870,North Central Province,Obadayagama
+1871,North Central Province,Ohomigama
+1872,North Central Province,Olobbawa
+1873,North Central Province,Olombewa
+1874,North Central Province,Olugallewa
+1875,North Central Province,Pachchalawetiya
+1876,North Central Province,Padikaramaduwa
+1877,North Central Province,Padiketuwewa
+1878,North Central Province,Padikkalamadu Colony
+1879,North Central Province,Padikkaramaduwa
+1880,North Central Province,Rada Hammillewa
+1881,North Central Province,Rada Rambewa
+1882,North Central Province,Radagama
+1883,North Central Province,Radagamawatta
+1884,North Central Province,Radapalugaswewa
+1885,North Central Province,Sakalasuriyagama
+1886,North Central Province,Samudragama
+1887,North Central Province,Sandanankuttigama
+1888,North Central Province,Sandigewewa
+1889,North Central Province,Sangattewa
+1890,North Central Province,Talakolawewa
+1891,North Central Province,Talakolewa
+1892,North Central Province,Talapatkulama
+1893,North Central Province,Talattewa
+1894,North Central Province,Talawa
+1895,North Central Province,Uda Hingura
+1896,North Central Province,Uda Korasagalla
+1897,North Central Province,Uda Negama
+1898,North Central Province,Uda Nidigama
+1899,North Central Province,Uda Thibbatuwewa
+1900,North Central Province,Vadivalaipuliyankulam
+1901,North Central Province,Valpotuwewa
+1902,North Central Province,Vedenigama
+1903,North Central Province,Veheragoda
+1904,North Central Province,Vendarankulama
+1905,North Central Province,Verumkulama
+1906,North Central Province,Viharagawagala
+1907,North Central Province,Vihare Hammillewa
+1908,North Central Province,Vitaranagama
+1909,North Central Province,Wadigawewa
+1910,North Central Province,Wadiwewa
+1911,North Central Province,Waduressagama
+1912,North Central Province,Waga Konwewa
+1913,North Central Province,Wagayakulama
+1914,Northern Province,Aayili
+1915,Northern Province,Adampan
+1916,Northern Province,Alampil
+1917,Northern Province,Alvai
+1918,Northern Province,Alaveddi
+1919,Northern Province,Achchankulam
+1920,Northern Province,Achelu
+1921,Northern Province,Achchuveli
+1922,Northern Province,Adaichakal
+1923,Northern Province,Adukkalamoddai
+1924,Northern Province,Adampam
+1925,Northern Province,Adampan
+1926,Northern Province,Adampanai
+1927,Northern Province,Adampantalvu
+1928,Northern Province,Adappankulam
+1929,Northern Province,Adiyakulam
+1930,Northern Province,Aiyamperumal
+1931,Northern Province,Akattikkulam
+1932,Northern Province,Allaippiddi
+1933,Northern Province,Analativu
+1934,Northern Province,Annangkai
+1935,Northern Province,Amichchi Kulam
+1936,Northern Province,Aiyanaar Koayiladi
+1937,Northern Province,Aiyanaar puram
+1938,Northern Province,Aiyanaar-puram
+1939,Northern Province,Aiyan koayil Gramam
+1940,Northern Province,Aiyan Kulam
+1941,Northern Province,Aliyawalai
+1942,Northern Province,Chankanai
+1943,Northern Province,Changanacherry
+1944,Northern Province,Chaalampan
+1945,Northern Province,Chaavatkaddu
+1946,Northern Province,Chaalampaik Kulam
+1947,Northern Province,Chamalang Kulam
+1948,Northern Province,Chinnach Chaalampan
+1949,Northern Province,Chavakacheri
+1950,Northern Province,Cheddikulam
+1951,Northern Province,Chunnakam
+1952,Northern Province,Colombuthurai
+1953,Northern Province,Cheddi Kulam
+1954,Northern Province,Chiraampiyadi
+1955,Northern Province,Chiththira Meazhi
+1956,Northern Province,Eluvaitivu
+1957,Northern Province,Elephant Pass
+1958,Northern Province,Inuvil
+1959,Northern Province,Ilavali
+1960,Northern Province,Iranamadu
+1961,Northern Province,Jaffna
+1962,Northern Province,Kaathaliyaar Chamalang kulam
+1963,Northern Province,Kaaraiththoor
+1964,Northern Province,Kanchanthoo
+1965,Northern Province,Kachchai
+1966,Northern Province,Kaithady
+1967,Northern Province,Kalladi
+1968,Northern Province,Kantharmadam
+1969,Northern Province,Kantharodai
+1970,Northern Province,Kankesanthurai
+1971,Northern Province,Kanakarayankulam
+1972,Northern Province,Kapputhoor Veli
+1973,Northern Province,Karainagar
+1974,Northern Province,Karaveddy
+1975,Northern Province,Karampanthoor
+1976,Northern Province,Karanthai Vaddavaan
+1977,Northern Province,Karaitivu
+1978,Northern Province,Karunkandalvannakulam
+1979,Northern Province,Kayts
+1980,Northern Province,Kerudavil
+1981,Northern Province,Kea Thoovu
+1982,Northern Province,Kilinochchi
+1983,Northern Province,Kokavil
+1984,Northern Province,Kokkuvil
+1985,Northern Province,Kokkilai
+1986,Northern Province,Kokkuthoduvai
+1987,Northern Province,Kondavil
+1988,Northern Province,Kopay
+1989,Northern Province,Kovalam
+1990,Northern Province,Kullapam Kulam
+1991,Northern Province,Kuppilankulam
+1992,Northern Province,Kuppilan Kurichy
+1993,Northern Province,Maankulam
+1994,Northern Province,Madhu
+1995,Northern Province,Mallavi
+1996,Northern Province,Manalkadu
+1997,Northern Province,Mandativu
+1998,Northern Province,Manipay
+1999,Northern Province,Mankulam
+2000,Northern Province,Mannar
+2001,Northern Province,Meththanveli
+2002,Northern Province,Mirusuvil
+2003,Northern Province,Mullaitivu
+2004,Northern Province,Mulliyawalai
+2005,Northern Province,Myliddy
+2006,Northern Province,Manadkaadu
+2007,Northern Province,Madduvil
+2008,Northern Province,Manthuvil
+2009,Northern Province,Mandaan
+2010,Northern Province,Nallur
+2011,Northern Province,Nanaddan
+2012,Northern Province,Nedunkeni
+2013,Northern Province,Nagar Kovil
+2014,Northern Province,Nelliyady
+2015,Northern Province,Nilavarai
+2016,Northern Province,?addankandal
+2017,Northern Province,Nelliady
+2018,Northern Province,Oddusuddan
+2019,Northern Province,Omanthai
+2020,Northern Province,Olumadu
+2021,Northern Province,Paapamkulam
+2022,Northern Province,Pachilaipalli
+2023,Northern Province,Padaraveli
+2024,Northern Province,Pandatharippu
+2025,Northern Province,Pandiyankulam
+2026,Northern Province,Palali
+2027,Northern Province,Palampiddi
+2028,Northern Province,Parangkich Chaalampan
+2029,Northern Province,Point Pedro (Paruththithurai)
+2030,Northern Province,Paranthan
+2031,Northern Province,Periya Chaalampan
+2032,Northern Province,Pesalai
+2033,Northern Province,Periya Puliyangkulam
+2034,Northern Province,Periya Pollachi
+2035,Northern Province,Pollachi
+2036,Northern Province,Perumkulam
+2037,Northern Province,Paranthen Kerni
+2038,Northern Province,Pooneryn
+2039,Northern Province,Puliyankulam
+2040,Northern Province,Puthukkudiyiruppu
+2041,Northern Province,Parayanalankulam
+2042,Northern Province,Pungudutivu
+2043,Northern Province,Puttur
+2044,Northern Province,Puthunagaram
+2045,Northern Province,Panamkamam
+2046,Northern Province,Panadura
+2047,Northern Province,Sandilipay
+2048,Northern Province,Sillalai
+2049,Northern Province,Suthumalai
+2050,Northern Province,Sugandipuram
+2051,Northern Province,Tachchankulam
+2052,Northern Province,Taddamalai
+2053,Northern Province,Taddankulam
+2054,Northern Province,Tadduvankoddi
+2055,Northern Province,Thaddankulam
+2056,Northern Province,Thaiyiddi
+2057,Northern Province,Thalaiady
+2058,Northern Province,Talaimannar
+2059,Northern Province,Thalladi
+2060,Northern Province,Thaalvupadu
+2061,Northern Province,Thamaraivillu
+2062,Northern Province,Thampa Gramam
+2063,Northern Province,Thampalai
+2064,Northern Province,Thampalakad
+2065,Northern Province,Thampanaikkulam
+2066,Northern Province,Thampanaikkulam East
+2067,Northern Province,Thampattai Muthalikkattu
+2068,Northern Province,Thanankilappu
+2069,Northern Province,Tanakkankulam
+2070,Northern Province,Thaandikkulam
+2071,Northern Province,Tanduvan
+2072,Northern Province,Thankodai
+2073,Northern Province,Tanmakkerni
+2074,Northern Province,Thannipavilan Kudiyiruppu
+2075,Northern Province,Thanneer Uttu
+2076,Northern Province,Thaantalkulam
+2077,Northern Province,Tharakundu
+2078,Northern Province,Tharanikkulam
+2079,Northern Province,Thavadi
+2080,Northern Province,Thavalai Iyattalai
+2081,Northern Province,Thavasikulam
+2082,Northern Province,Thavasiyakulam
+2083,Northern Province,Thavasiyur
+2084,Northern Province,Thayilan Kudiyiruppu
+2085,Northern Province,Thandikkulam
+2086,Northern Province,Tellippalai
+2087,Northern Province,Thunukkai
+2088,Northern Province,Thunnalai
+2089,Northern Province,Tharmapuram
+2090,Northern Province,Thekilpadantan
+2091,Northern Province,Thekkuluthu
+2092,Northern Province,Telliyankudiyiruppu
+2093,Northern Province,Thennamaravadi
+2094,Northern Province,Thenniyankulam
+2095,Northern Province,Thaentookki
+2096,Northern Province,Thaenudaiyan
+2097,Northern Province,Thanakkarukurichchi
+2098,Northern Province,Tharmakundu
+2099,Northern Province,Thatchchanthoppu
+2100,Northern Province,Thattantotam
+2101,Northern Province,Thevanpaddi
+2102,Northern Province,Thikkam
+2103,Northern Province,Thikkoddaimadu
+2104,Northern Province,Thimilarmadam
+2105,Northern Province,Terankandal
+2106,Northern Province,Therumurikandi
+2107,Northern Province,Thettakkuli
+2108,Northern Province,Thettavadimarutankulam
+2109,Northern Province,Tirunelveli East
+2110,Northern Province,Tirunelveli West
+2111,Northern Province,Tirunelveli
+2112,Northern Province,Thiruvadinilayam
+2113,Northern Province,Thiruvaiyaru Thottakadu
+2114,Northern Province,Tholakaddy
+2115,Northern Province,Thondaimanaru
+2116,Northern Province,Thoppu
+2117,Northern Province,Thullukudi Kudiyiruppu
+2118,Northern Province,Thumpalai
+2119,Northern Province,Thumpankerni
+2120,Northern Province,Thunnalai
+2121,Northern Province,Thunavy
+2122,Northern Province,Thuvarankerni
+2123,Northern Province,Udaiyadi
+2124,Northern Province,Udayarsamalankulam
+2125,Northern Province,Udumbagal
+2126,Northern Province,Udaiyarthurai
+2127,Northern Province,Udupattukkandal
+2128,Northern Province,Udupiddy
+2129,Northern Province,Uduthurai
+2130,Northern Province,Uduvil
+2131,Northern Province,Uduveli
+2132,Northern Province,Ukkulankulam
+2133,Northern Province,Ulukkulam
+2134,Northern Province,Uluvaneri
+2135,Northern Province,Umaneri
+2136,Northern Province,Umayartuvarankulam
+2137,Northern Province,Unchalkaddi
+2138,Northern Province,Upparu
+2139,Northern Province,Uppukkulam
+2140,Northern Province,Upputtaravai
+2141,Northern Province,Umayaalpuram
+2142,Northern Province,Urani
+2143,Northern Province,Urelu
+2144,Northern Province,Uriyan
+2145,Northern Province,Urumpirai
+2146,Northern Province,Urvanikanpattu
+2147,Northern Province,Usan
+2148,Northern Province,Uthiravengai
+2149,Northern Province,Uthuvayankulam
+2150,Northern Province,Uttukkulam
+2151,Northern Province,Uvari
+2152,Northern Province,Uvarkkulam
+2153,Northern Province,Uvayatikulam
+2154,Northern Province,Uyarapulam
+2155,Northern Province,Uyilankulam
+2156,Northern Province,Uyilankulam
+2157,Northern Province,Mannar
+2158,Northern Province,Vaddukoddai
+2159,Northern Province,Vadduvakallu
+2160,Northern Province,Vadakadu
+2161,Northern Province,Vaddakkachchi
+2162,Northern Province,Vaddakkandal
+2163,Northern Province,Vaddukkoddai East
+2164,Northern Province,Vaddukkoddai West
+2165,Northern Province,Vairandakaddukulam
+2166,Northern Province,Vaiyakkarai
+2167,Northern Province,Vakkappaddankandal-Metpuliyankulam
+2168,Northern Province,Valaiyakadu
+2169,Northern Province,Valayanmadam
+2170,Northern Province,Valalai
+2171,Northern Province,Vallai
+2172,Northern Province,Vallan
+2173,Northern Province,Valliyappalai
+2174,Northern Province,Vallipuram
+2175,Northern Province,Valantalai
+2176,Northern Province,Valappadu
+2177,Northern Province,Valveddi
+2178,Northern Province,Valvettiturai
+2179,Northern Province,Valigramam
+2180,Northern Province,Vanchiyankulam
+2181,Northern Province,Vanchiyankulam Mavilankeni
+2182,Northern Province,Vankalai
+2183,Northern Province,Vankalaikkulam
+2184,Northern Province,Vannakulam
+2185,Northern Province,Vannakulam
+2186,Northern Province,Mannar
+2187,Northern Province,Vannakulam West
+2188,Northern Province,Vannamarutankulam
+2189,Northern Province,Vannamoddai
+2190,Northern Province,Vannankeni
+2191,Northern Province,Vannankulam
+2192,Northern Province,Vannankulam
+2193,Northern Province,Jaffna
+2194,Northern Province,Vannanpuliyankulam
+2195,Northern Province,Vannansinnakkulam
+2196,Northern Province,Vannarpannai
+2197,Northern Province,Vannarpannai North West
+2198,Northern Province,Vannarpannai South East
+2199,Northern Province,Vannarpannai South West
+2200,Northern Province,Vannivilankulam
+2201,Northern Province,Vannichchiyatidal
+2202,Northern Province,Vanniyanmadu
+2203,Northern Province,Vairava Pulo Kulam
+2204,Northern Province,Vannikulam
+2205,Northern Province,Varani
+2206,Northern Province,Varanilvattalai
+2207,Northern Province,Variveli
+2208,Northern Province,Vairavarpuliyankulam
+2209,Northern Province,Varuthalaivilan
+2210,Northern Province,Vasavilan
+2211,Northern Province,Vatharaveddai
+2212,Northern Province,Vattirayan
+2213,Northern Province,Vathiri
+2214,Northern Province,Vattappalai
+2215,Northern Province,Vavunikulam
+2216,Northern Province,Vavuniya
+2217,Northern Province,Vavuniyanperiyakulam
+2218,Northern Province,Vayittiyankudiyiruppu
+2219,Northern Province,Vedamakilankulam
+2220,Northern Province,Veddaiyadaippu
+2221,Northern Province,Veddayamurippu
+2222,Northern Province,Veddukkadu
+2223,Northern Province,Vedivaittakallu
+2224,Northern Province,Veeman Gramam
+2225,Northern Province,Viramanikkatevanturai
+2226,Northern Province,Velakulam
+2227,Northern Province,Velanai
+2228,Northern Province,Velankulam
+2229,Northern Province,Velankulam
+2230,Northern Province,Vavuniya
+2231,Northern Province,Velarchinnakkulam
+2232,Northern Province,Velikkandal
+2233,Northern Province,Velikkulam
+2234,Northern Province,Vellai
+2235,Northern Province,Vellalakaddu
+2236,Northern Province,Vellampakkaddy
+2237,Northern Province,Vellamullivaikal
+2238,Northern Province,Vellankulam
+2239,Northern Province,Vempootukeni
+2240,Northern Province,Veppankulam
+2241,Northern Province,Veppankulam South
+2242,Northern Province,Veravil
+2243,Northern Province,Vettilaikkerni
+2244,Northern Province,Vettaimakkalkudiyiruppu
+2245,Northern Province,Vidattalkaddusinnakulam
+2246,Northern Province,Vidattalpalai
+2247,Northern Province,Vidattaltivu
+2248,Northern Province,Vidaththal-Pazhai
+2249,Northern Province,Vidaththal-Munai
+2250,Northern Province,Vidaththal-kaddu chinnak-kulam
+2251,Northern Province,Vilan
+2252,Northern Province,Vilathikulam
+2253,Northern Province,Villamparuku
+2254,Northern Province,Vimankallu
+2255,Northern Province,Vira Manikkatevan Turai
+2256,Northern Province,Viyaddikkulam
+2257,Northern Province,Viyaparimulai
+2258,Northern Province,Viyayadippannai
+2259,North Western Province,Abakolawewa
+2260,North Western Province,Abbowa
+2261,North Western Province,Abokkagama
+2262,North Western Province,Achari Hinukwewa
+2263,North Western Province,Achari Ihalagama
+2264,North Western Province,Baburugama
+2265,North Western Province,Badabadda
+2266,North Western Province,Badabeddegama
+2267,North Western Province,Badabeddewa
+2268,North Western Province,Badagane
+2269,North Western Province,Cement Factory
+2270,North Western Province,Chandrayagama
+2271,North Western Province,Chenaikudirippu
+2272,North Western Province,Chenaikudiyirippu
+2273,North Western Province,Chenakudiruppu
+2274,North Western Province,Chettichena
+2275,North Western Province,Chettisena
+2276,North Western Province,Chettychena
+2277,North Western Province,Chilan
+2278,North Western Province,Chilaw
+2279,North Western Province,Dabarayaya
+2280,North Western Province,Dachchilanda
+2281,North Western Province,Dadapolagama
+2282,North Western Province,Dadapolagamuwa
+2283,North Western Province,Dagama
+2284,North Western Province,Ebawalapitiya
+2285,North Western Province,Ebawalayaya
+2286,North Western Province,Edandewela
+2287,North Western Province,Edandupitiya
+2288,North Western Province,Egalla
+2289,North Western Province,Gaane
+2290,North Western Province,Gadolwaka
+2291,North Western Province,Gahalagaswela
+2292,North Western Province,Gahalagaswewa
+2293,North Western Province,Gaiyala
+2294,North Western Province,Habagama
+2295,North Western Province,Habaragahamada
+2296,North Western Province,Habarawa
+2297,North Western Province,Habarawewa
+2298,North Western Province,Habarewa
+2299,North Western Province,Ibbagamuwa
+2300,North Western Province,Ibbawela
+2301,North Western Province,Ichchampitiya
+2302,North Western Province,Ichchankadu
+2303,North Western Province,Ichchankaudu
+2304,North Western Province,Jagama
+2305,North Western Province,Jahapagama
+2306,North Western Province,Jakaduwa
+2307,North Western Province,Jalatgama
+2308,North Western Province,Jankurawela
+2309,North Western Province,Jankure
+2310,North Western Province,Jayalatgama
+2311,North Western Province,Jayalathgama
+2312,North Western Province,Jayarajapuraya
+2313,North Western Province,Jayasirigama
+2314,North Western Province,Jayasundaragedara
+2315,North Western Province,Jayasurigama
+2316,North Western Province,Kaaradumunai
+2317,North Western Province,Kabalewa
+2318,North Western Province,Kachchakaduwa
+2319,North Western Province,Kachcheri
+2320,North Western Province,Kachchimadurankuli
+2321,North Western Province,Kachchirawa
+2322,North Western Province,Labugala
+2323,North Western Province,Labuyaya
+2324,North Western Province,Lakadagolla
+2325,North Western Province,Landawatta
+2326,North Western Province,Lankarangedara
+2327,North Western Province,Mabo
+2328,North Western Province,Mabopitiya
+2329,North Western Province,Madadenigama
+2330,North Western Province,Madadombe
+2331,North Western Province,Madagama
+2332,North Western Province,Nabadapokuna
+2333,North Western Province,Nabadawa
+2334,North Western Province,Nabadawala
+2335,North Western Province,Nabadawela
+2336,North Western Province,Nabadawewa
+2337,North Western Province,Obadakotuwa
+2338,North Western Province,Obedagedere
+2339,North Western Province,Obodakotuwa
+2340,North Western Province,Odakkarai
+2341,North Western Province,Oggamuwa
+2342,North Western Province,Pabuluwa
+2343,North Western Province,Pachchakadumundal
+2344,North Western Province,Pachchalawela
+2345,North Western Province,Pachchalawewa
+2346,North Western Province,Pachchalewa
+2347,North Western Province,Rachchiragama
+2348,North Western Province,Rada Hilogama
+2349,North Western Province,Rada Paliyagama
+2350,North Western Province,Rada Talanpola
+2351,North Western Province,Radadena
+2352,North Western Province,Saidalapitiya
+2353,North Western Province,Saldalpitiya
+2354,North Western Province,Samaderapitiyal
+2355,North Western Province,Samagigama
+2356,North Western Province,Samagiriyawewa
+2357,North Western Province,Tabbomulla
+2358,North Western Province,Tabbowa
+2359,North Western Province,Tailagama
+2360,North Western Province,Talagalla
+2361,North Western Province,Talagaswewa
+2362,North Western Province,Uda Horombuwa
+2363,North Western Province,Uda Inguruwatta
+2364,North Western Province,Uda Kahahena
+2365,North Western Province,Uda Siyambalewa
+2366,North Western Province,Uda Tammannewa
+2367,North Western Province,Vairankattuwa
+2368,North Western Province,Vannativillu
+2369,North Western Province,Vattakandal
+2370,North Western Province,Velandikulama
+2371,North Western Province,Velantikulam
+2372,North Western Province,Velasiya
+2373,North Western Province,Vellamundal
+2374,North Western Province,Vellankarai
+2375,North Western Province,Vicharanagama
+2376,North Western Province,Vidatamunai
+2377,North Western Province,Vidyalaya
+2378,North Western Province,Viharegama
+2379,North Western Province,Villuke
+2380,North Western Province,Virakammandaluwa
+2381,North Western Province,Viruthodai
+2382,North Western Province,Wadakada
+2383,North Western Province,Wadakahagala
+2384,North Western Province,Wadakkarawewa
+2385,North Western Province,Wadatta
+2386,North Western Province,Wadawa
+2387,North Western Province,Wadawa
+2388,Sabaragamuwa,Abuwangala
+2389,Sabaragamuwa,Adavikanda
+2390,Sabaragamuwa,Adawikanda
+2391,Sabaragamuwa,Adikariya
+2392,Sabaragamuwa,Agalagama
+2393,Sabaragamuwa,Agalagamuwa
+2394,Sabaragamuwa,Agalawatta
+2395,Sabaragamuwa,Agalekumbura
+2396,Sabaragamuwa,Agaregama
+2397,Sabaragamuwa,Ahaspokuna
+2398,Sabaragamuwa,Ahuliyadda
+2399,Sabaragamuwa,Akarella
+2400,Sabaragamuwa,Akurana
+2401,Sabaragamuwa,Akurugegangoda
+2402,Sabaragamuwa,Akwatta
+2403,Sabaragamuwa,Alagalkanda
+2404,Sabaragamuwa,Alagalla
+2405,Sabaragamuwa,Alakolaella
+2406,Sabaragamuwa,Alankarapanguwa
+2407,Sabaragamuwa,Alapaladeniya
+2408,Sabaragamuwa,Alapalawala
+2409,Sabaragamuwa,Alawala
+2410,Sabaragamuwa,Alawatura
+2411,Sabaragamuwa,Alawwa
+2412,Sabaragamuwa,Aldora
+2413,Sabaragamuwa,Algama
+2414,Sabaragamuwa,Algama Egodagama
+2415,Sabaragamuwa,Algama Ihalagama
+2416,Sabaragamuwa,Algama Medagama
+2417,Sabaragamuwa,Algoda
+2418,Sabaragamuwa,Alkegama
+2419,Sabaragamuwa,Allagalla
+2420,Sabaragamuwa,Alpitiya
+2421,Sabaragamuwa,Aludeniya
+2422,Sabaragamuwa,Aluketiya
+2423,Sabaragamuwa,Alupatgala
+2424,Sabaragamuwa,Alupola
+2425,Sabaragamuwa,Alupota
+2426,Sabaragamuwa,Alutnuwara
+2427,Sabaragamuwa,Amanawala
+2428,Sabaragamuwa,Amarakonmulla
+2429,Sabaragamuwa,Amarakoonmulla
+2430,Sabaragamuwa,Ambagahakanda
+2431,Sabaragamuwa,Ambagala
+2432,Sabaragamuwa,Ambakumbura
+2433,Sabaragamuwa,Ambalakanda
+2434,Sabaragamuwa,Ambalanpitiya
+2435,Sabaragamuwa,Ambalanyaya
+2436,Sabaragamuwa,Ambamalla
+2437,Sabaragamuwa,Ambanpitiya
+2438,Sabaragamuwa,Ambatenna
+2439,Sabaragamuwa,Ambawala
+2440,Sabaragamuwa,Ambepussa
+2441,Sabaragamuwa,Ambulugala
+2442,Sabaragamuwa,Ambuwakka
+2443,Sabaragamuwa,Ambuwangala
+2444,Sabaragamuwa,Amitirigala
+2445,Sabaragamuwa,Ammuduwa
+2446,Sabaragamuwa,Ampagala
+2447,Sabaragamuwa,Ampana
+2448,Sabaragamuwa,Ampe
+2449,Sabaragamuwa,Amuhenkanda
+2450,Sabaragamuwa,Amunumulla
+2451,Sabaragamuwa,Amunutenna
+2452,Sabaragamuwa,Amupitiya
+2453,Sabaragamuwa,Amutagoda
+2454,Sabaragamuwa,Amuwatta
+2455,Sabaragamuwa,Amuwatugoda
+2456,Sabaragamuwa,Andadola
+2457,Sabaragamuwa,Andanawa
+2458,Sabaragamuwa,Andaoluwa
+2459,Sabaragamuwa,Andiramada
+2460,Sabaragamuwa,Andiyamalatenna
+2461,Sabaragamuwa,Andoluwa
+2462,Sabaragamuwa,Anduwawala
+2463,Sabaragamuwa,Angammana
+2464,Sabaragamuwa,Anghandiya
+2465,Sabaragamuwa,Angoda
+2466,Sabaragamuwa,Angodakanda
+2467,Sabaragamuwa,Anguruwawala
+2468,Sabaragamuwa,Anguruwella
+2469,Sabaragamuwa,Anhandiya
+2470,Sabaragamuwa,Anhettigama
+2471,Sabaragamuwa,Anwarama
+2472,Sabaragamuwa,Arabboda
+2473,Sabaragamuwa,Arachchikumbura
+2474,Sabaragamuwa,Arama
+2475,Sabaragamuwa,Arambegama
+2476,Sabaragamuwa,Aranayaka
+2477,Sabaragamuwa,Arandara
+2478,Sabaragamuwa,Arawegoda
+2479,Sabaragamuwa,Aruggammana
+2480,Sabaragamuwa,Aruggoda
+2481,Sabaragamuwa,Arukgammana
+2482,Sabaragamuwa,Arukmulla
+2483,Sabaragamuwa,Aruppala
+2484,Sabaragamuwa,Asamanakanda
+2485,Sabaragamuwa,Asgangula
+2486,Sabaragamuwa,Asideniya
+2487,Sabaragamuwa,Asmadala
+2488,Sabaragamuwa,Assedduma
+2489,Sabaragamuwa,Asseddungoda
+2490,Sabaragamuwa,Asseddunwela
+2491,Sabaragamuwa,Atakalanpanne
+2492,Sabaragamuwa,Atalawa
+2493,Sabaragamuwa,Atale
+2494,Sabaragamuwa,Atallawela
+2495,Sabaragamuwa,Ataudakanda
+2496,Sabaragamuwa,Athalawa
+2497,Sabaragamuwa,Attanagoda
+2498,Sabaragamuwa,Attapitiya
+2499,Sabaragamuwa,Atugoda
+2500,Sabaragamuwa,Atulugama
+2501,Sabaragamuwa,Aturaliya
+2502,Sabaragamuwa,Aturupana
+2503,Sabaragamuwa,Ayagama
+2504,Sabaragamuwa,Badahela
+2505,Sabaragamuwa,Badahelagoda
+2506,Sabaragamuwa,Badahelgoda
+2507,Sabaragamuwa,Badanamure
+2508,Sabaragamuwa,Badullawala
+2509,Sabaragamuwa,Badullegama
+2510,Sabaragamuwa,Badulupitiya
+2511,Sabaragamuwa,Baduwalakanda
+2512,Sabaragamuwa,Bagature
+2513,Sabaragamuwa,Bakmideniya
+2514,Sabaragamuwa,Bakulwala
+2515,Sabaragamuwa,Balagangoda
+2516,Sabaragamuwa,Balaharuwa
+2517,Sabaragamuwa,Balakottunna
+2518,Sabaragamuwa,Balakotuwa
+2519,Sabaragamuwa,Balangoda
+2520,Sabaragamuwa,Balatgomuwa
+2521,Sabaragamuwa,Balavinna
+2522,Sabaragamuwa,Balawane
+2523,Sabaragamuwa,Balawatgama
+2524,Sabaragamuwa,Balawathgama
+2525,Sabaragamuwa,Balawinna
+2526,Sabaragamuwa,Balibatgoda
+2527,Sabaragamuwa,Balibathgoda
+2528,Sabaragamuwa,Balinduwawa
+2529,Sabaragamuwa,Ballahela
+2530,Sabaragamuwa,Ballapana
+2531,Sabaragamuwa,Ballapanatenna
+2532,Sabaragamuwa,Bambarabotuwa
+2533,Sabaragamuwa,Bambarabotuwegkanda
+2534,Sabaragamuwa,Bambaragala
+2535,Sabaragamuwa,Bambaragama
+2536,Sabaragamuwa,Bambaragastenna
+2537,Sabaragamuwa,Bampane
+2538,Sabaragamuwa,Bamunagammana
+2539,Sabaragamuwa,Bamunaulla
+2540,Sabaragamuwa,Banagoda
+2541,Sabaragamuwa,Basnagala
+2542,Sabaragamuwa,Basnagoda
+2543,Sabaragamuwa,Batadure
+2544,Sabaragamuwa,Bataendiriya
+2545,Sabaragamuwa,Batakada
+2546,Sabaragamuwa,Batambure
+2547,Sabaragamuwa,Batangala
+2548,Sabaragamuwa,Batatota
+2549,Sabaragamuwa,Batawala
+2550,Sabaragamuwa,Batayaya
+2551,Sabaragamuwa,Batepola
+2552,Sabaragamuwa,Batewela
+2553,Sabaragamuwa,Batgangoda
+2554,Sabaragamuwa,Batugedara
+2555,Sabaragamuwa,Batugedera
+2556,Sabaragamuwa,Batupitiya
+2557,Sabaragamuwa,Batuwana
+2558,Sabaragamuwa,Batuwatta
+2559,Sabaragamuwa,Batuwita
+2560,Sabaragamuwa,Beddawala
+2561,Sabaragamuwa,Belgoda
+2562,Sabaragamuwa,Beligala
+2563,Sabaragamuwa,Beligammana
+2564,Sabaragamuwa,Beligoda
+2565,Sabaragamuwa,Beligodapitiya
+2566,Sabaragamuwa,Belihul Oya
+2567,Sabaragamuwa,Belihulwana
+2568,Sabaragamuwa,Beliketiya
+2569,Sabaragamuwa,Belimaliyadda
+2570,Sabaragamuwa,Bellangama
+2571,Sabaragamuwa,Bellankanda
+2572,Sabaragamuwa,Beminiwatta
+2573,Sabaragamuwa,Bendaluwa
+2574,Sabaragamuwa,Beragala
+2575,Sabaragamuwa,Berannawa
+2576,Sabaragamuwa,Berendeniya
+2577,Sabaragamuwa,Berenduwa
+2578,Sabaragamuwa,Berranawa
+2579,Sabaragamuwa,Beruwala
+2580,Sabaragamuwa,Betmegedara
+2581,Sabaragamuwa,Bewila
+2582,Sabaragamuwa,Bewilehena
+2583,Sabaragamuwa,Bibila
+2584,Sabaragamuwa,Bibilegama
+2585,Sabaragamuwa,Binnegama
+2586,Sabaragamuwa,Bintenigolla
+2587,Sabaragamuwa,Bisowela
+2588,Sabaragamuwa,Bodawala
+2589,Sabaragamuwa,Bodimalgoda
+2590,Sabaragamuwa,Bodimaluwa
+2591,Sabaragamuwa,Bogahakumbura
+2592,Sabaragamuwa,Bogahakumburuwela
+2593,Sabaragamuwa,Bogala
+2594,Sabaragamuwa,Bogamuwa
+2595,Sabaragamuwa,Bogoda-aramba
+2596,Sabaragamuwa,Bohara
+2597,Sabaragamuwa,Bohettiya
+2598,Sabaragamuwa,Bohora
+2599,Sabaragamuwa,Bokolamulla
+2600,Sabaragamuwa,Bolagama
+2601,Sabaragamuwa,Boltumbe
+2602,Sabaragamuwa,Bopetta
+2603,Sabaragamuwa,Bopitigoda
+2604,Sabaragamuwa,Bopitiya
+2605,Sabaragamuwa,Boralankanda
+2606,Sabaragamuwa,Boranjamuwa
+2607,Sabaragamuwa,Boruggamuwa
+2608,Sabaragamuwa,Bossella
+2609,Sabaragamuwa,Botiyatenna
+2610,Sabaragamuwa,Bowalgaha
+2611,Sabaragamuwa,Bowatta
+2612,Sabaragamuwa,Boyagama
+2613,Sabaragamuwa,Boyagoda
+2614,Sabaragamuwa,Budawatta
+2615,Sabaragamuwa,Budunwela
+2616,Sabaragamuwa,Bulatgama
+2617,Sabaragamuwa,Bulathkohupitiya
+2618,Sabaragamuwa,Bulatkohupitiya
+2619,Sabaragamuwa,Bulatwatta
+2620,Sabaragamuwa,Bulatwelgoda
+2621,Sabaragamuwa,Bulatwelkanda
+2622,Sabaragamuwa,Bulugahapitiya
+2623,Sabaragamuwa,Bulugammana
+2624,Sabaragamuwa,Buluruppa
+2625,Sabaragamuwa,Bulutota
+2626,Sabaragamuwa,Buluwana
+2627,Sabaragamuwa,Bungeriya
+2628,Sabaragamuwa,Bungiriya
+2629,Sabaragamuwa,Burunnawa
+2630,Sabaragamuwa,Buthkanda
+2631,Sabaragamuwa,Butkanda
+2632,Sabaragamuwa,Colombage-ara
+2633,Sabaragamuwa,Dadayankanda
+2634,Sabaragamuwa,Dahenpahuwa
+2635,Sabaragamuwa,Dalumurawatta
+2636,Sabaragamuwa,Damahana
+2637,Sabaragamuwa,Dambawinna
+2638,Sabaragamuwa,Dambemada
+2639,Sabaragamuwa,Dambulla
+2640,Sabaragamuwa,Dambuluwana
+2641,Sabaragamuwa,Damme
+2642,Sabaragamuwa,Dampelgoda
+2643,Sabaragamuwa,Damunupola
+2644,Sabaragamuwa,Danagama
+2645,Sabaragamuwa,Dandawa
+2646,Sabaragamuwa,Dandeniya Pahala
+2647,Sabaragamuwa,Dangampala
+2648,Sabaragamuwa,Dankolagune
+2649,Sabaragamuwa,Dankumbura
+2650,Sabaragamuwa,Dannoruwa
+2651,Sabaragamuwa,Daswatta
+2652,Sabaragamuwa,Davulkaragoda
+2653,Sabaragamuwa,Dayigala Ihala
+2654,Sabaragamuwa,Dayigala Pahala
+2655,Sabaragamuwa,Debagama
+2656,Sabaragamuwa,Debathgama
+2657,Sabaragamuwa,Dedigama
+2658,Sabaragamuwa,Dedugala
+2659,Sabaragamuwa,Degalaeriya
+2660,Sabaragamuwa,Deharagoda
+2661,Sabaragamuwa,Dehenakanda
+2662,Sabaragamuwa,Deheragoda
+2663,Sabaragamuwa,Dehigahapitiya
+2664,Sabaragamuwa,Dehigampala
+2665,Sabaragamuwa,Dehigastalawa
+2666,Sabaragamuwa,Dehimaduwa
+2667,Sabaragamuwa,Dehiowita
+2668,Sabaragamuwa,Dehipahala
+2669,Sabaragamuwa,Dehipitiya
+2670,Sabaragamuwa,Deiyagala
+2671,Sabaragamuwa,Dela
+2672,Sabaragamuwa,Delarawa
+2673,Sabaragamuwa,Deldeniya
+2674,Sabaragamuwa,Delgahagoda
+2675,Sabaragamuwa,Delgahatenna
+2676,Sabaragamuwa,Delgamuwa
+2677,Sabaragamuwa,Delgoda
+2678,Sabaragamuwa,Delgomuwa
+2679,Sabaragamuwa,Deliwala
+2680,Sabaragamuwa,Dellaboda
+2681,Sabaragamuwa,Deloluwa
+2682,Sabaragamuwa,Delpatdeniya
+2683,Sabaragamuwa,Delpothdeniya
+2684,Sabaragamuwa,Delwala
+2685,Sabaragamuwa,Demada
+2686,Sabaragamuwa,Demalahiriya
+2687,Sabaragamuwa,Demanagammana
+2688,Sabaragamuwa,Dembatanpitiya
+2689,Sabaragamuwa,Demodara
+2690,Sabaragamuwa,Denagama
+2691,Sabaragamuwa,Denawaka Patakada
+2692,Sabaragamuwa,Denawaka Udakada
+2693,Sabaragamuwa,Denawakawatta
+2694,Sabaragamuwa,Denihena
+2695,Sabaragamuwa,Denuwakanda
+2696,Sabaragamuwa,Depedene
+2697,Sabaragamuwa,Deraniyagala
+2698,Sabaragamuwa,Dessepota
+2699,Sabaragamuwa,Detabodakanda
+2700,Sabaragamuwa,Detawala
+2701,Sabaragamuwa,Devanagala
+2702,Sabaragamuwa,Dewalagama
+2703,Sabaragamuwa,Dewanagala
+2704,Sabaragamuwa,Dewaragampola
+2705,Sabaragamuwa,Digadure
+2706,Sabaragamuwa,Digalla
+2707,Sabaragamuwa,Diganakanda
+2708,Sabaragamuwa,Digogedara
+2709,Sabaragamuwa,Digowa
+2710,Sabaragamuwa,Dikelikanda
+2711,Sabaragamuwa,Dikella
+2712,Sabaragamuwa,Dikellekanda
+2713,Sabaragamuwa,Dimbulgamuwa
+2714,Sabaragamuwa,Dimbulwala
+2715,Sabaragamuwa,Dimiyawa
+2716,Sabaragamuwa,Dimiyawegodella
+2717,Sabaragamuwa,Dippitigala
+2718,Sabaragamuwa,Dippitiya
+2719,Sabaragamuwa,Divurumpitiya
+2720,Sabaragamuwa,Diwala Pallegama
+2721,Sabaragamuwa,Diwala Udagama
+2722,Sabaragamuwa,Diwelgama
+2723,Sabaragamuwa,Diyabibile
+2724,Sabaragamuwa,Diyagala
+2725,Sabaragamuwa,Diyagama
+2726,Sabaragamuwa,Diyahitiyawala
+2727,Sabaragamuwa,Diyainna
+2728,Sabaragamuwa,Diyapota
+2729,Sabaragamuwa,Diyasunnata
+2730,Sabaragamuwa,Diyawinna
+2731,Sabaragamuwa,Dodammuluwa
+2732,Sabaragamuwa,Dodampe
+2733,Sabaragamuwa,Dodampegoda
+2734,Sabaragamuwa,Dodampitiya
+2735,Sabaragamuwa,Dodantale
+2736,Sabaragamuwa,Dodawatta
+2737,Sabaragamuwa,Dolekanda
+2738,Sabaragamuwa,Doloswala
+2739,Sabaragamuwa,Doloswalkanda
+2740,Sabaragamuwa,Dombagammana
+2741,Sabaragamuwa,Dombagaswinna
+2742,Sabaragamuwa,Dombemada
+2743,Sabaragamuwa,Dombepola
+2744,Sabaragamuwa,Dompemulla
+2745,Sabaragamuwa,Dompitiya
+2746,Sabaragamuwa,Dooldeniya
+2747,Sabaragamuwa,Doolgala
+2748,Sabaragamuwa,Doranuwa
+2749,Sabaragamuwa,Dorapane
+2750,Sabaragamuwa,Dorawaka
+2751,Sabaragamuwa,Dorawela
+2752,Sabaragamuwa,Duldeniya
+2753,Sabaragamuwa,Dumbara
+2754,Sabaragamuwa,Dumbuluwa
+2755,Sabaragamuwa,Dumbuluwawa
+2756,Sabaragamuwa,Dumbuluwawaka
+2757,Sabaragamuwa,Dumbuluwewa
+2758,Sabaragamuwa,Dummaladeniya
+2759,Sabaragamuwa,Dunugama
+2760,Sabaragamuwa,Dunukewala
+2761,Sabaragamuwa,Dunumale
+2762,Sabaragamuwa,Dunumandalawa
+2763,Sabaragamuwa,Duragekanda
+2764,Sabaragamuwa,Durakanda
+2765,Sabaragamuwa,Ebetota
+2766,Sabaragamuwa,Ebidigala
+2767,Sabaragamuwa,Edanduwawa
+2768,Sabaragamuwa,Edurapola
+2769,Sabaragamuwa,Edurapota
+2770,Sabaragamuwa,Egalla
+2771,Sabaragamuwa,Egallekanda
+2772,Sabaragamuwa,Eggodakanda
+2773,Sabaragamuwa,Egodagoda
+2774,Sabaragamuwa,Egodakanda
+2775,Sabaragamuwa,Egodawatugoda
+2776,Sabaragamuwa,Egolla
+2777,Sabaragamuwa,Ehalagaha-arawa
+2778,Sabaragamuwa,Ehelekumbura
+2779,Sabaragamuwa,Eheliyagoda
+2780,Sabaragamuwa,Ekiriyagala
+2781,Sabaragamuwa,Ekneligoda
+2782,Sabaragamuwa,Ela-Ihala
+2783,Sabaragamuwa,Elagalla
+2784,Sabaragamuwa,Elamaideniya
+2785,Sabaragamuwa,Elamalpe
+2786,Sabaragamuwa,Elangipitiya
+2787,Sabaragamuwa,Elapata
+2788,Sabaragamuwa,Elibodakanda
+2789,Sabaragamuwa,Ella
+2790,Sabaragamuwa,Ellawala
+2791,Sabaragamuwa,Ellawala Ihalagama
+2792,Sabaragamuwa,Ellawala Pahalagama
+2793,Sabaragamuwa,Ellearawa
+2794,Sabaragamuwa,Ellegedara
+2795,Sabaragamuwa,Ellehena
+2796,Sabaragamuwa,Ellekanda
+2797,Sabaragamuwa,Ellepola
+2798,Sabaragamuwa,Ellewatta
+2799,Sabaragamuwa,Elugala
+2800,Sabaragamuwa,Elugalla
+2801,Sabaragamuwa,Eluwana
+2802,Sabaragamuwa,Eluwana
+2803,Sabaragamuwa,Embilipitiya
+2804,Sabaragamuwa,Embilipitiya Pallegama
+2805,Sabaragamuwa,Embilmiwala
+2806,Sabaragamuwa,Embuldeniya
+2807,Sabaragamuwa,Embulmiwala
+2808,Sabaragamuwa,Emitiyagoda
+2809,Sabaragamuwa,Endana
+2810,Sabaragamuwa,Endirikele
+2811,Sabaragamuwa,Endiriyanwala
+2812,Sabaragamuwa,Epalapitiya
+2813,Sabaragamuwa,Epalatotuwa
+2814,Sabaragamuwa,Epalawa
+2815,Sabaragamuwa,Epitawala
+2816,Sabaragamuwa,Eppelapitiya
+2817,Sabaragamuwa,Erabadda
+2818,Sabaragamuwa,Erabadupela
+2819,Sabaragamuwa,Erabedda
+2820,Sabaragamuwa,Erabudupitiya
+2821,Sabaragamuwa,Erabuduwala
+2822,Sabaragamuwa,Eraminigammana
+2823,Sabaragamuwa,Eratnagoda
+2824,Sabaragamuwa,Eregama
+2825,Sabaragamuwa,Erepola
+2826,Sabaragamuwa,Ereporuwa
+2827,Sabaragamuwa,Ereporuwa
+2828,Sabaragamuwa,Erevupola
+2829,Sabaragamuwa,Eriyawa
+2830,Sabaragamuwa,Etaheraliyagoda
+2831,Sabaragamuwa,Etawakwala
+2832,Sabaragamuwa,Etnawala
+2833,Sabaragamuwa,Etoya
+2834,Sabaragamuwa,Evunugalla
+2835,Sabaragamuwa,Gabbala
+2836,Sabaragamuwa,Gabbela
+2837,Sabaragamuwa,Gabbelawatta
+2838,Sabaragamuwa,Gadapola
+2839,Sabaragamuwa,Galadeniya
+2840,Sabaragamuwa,Galahitigama
+2841,Sabaragamuwa,Galahitiya
+2842,Sabaragamuwa,Galamella
+2843,Sabaragamuwa,Galapahalagama
+2844,Sabaragamuwa,Galapaya
+2845,Sabaragamuwa,Galapitamada
+2846,Sabaragamuwa,Galapitimada
+2847,Sabaragamuwa,Galatara
+2848,Sabaragamuwa,Galaudakanda
+2849,Sabaragamuwa,Galayatakanatta
+2850,Sabaragamuwa,Galboda
+2851,Sabaragamuwa,Galbokaya
+2852,Sabaragamuwa,Galenda
+2853,Sabaragamuwa,Galgomuwa
+2854,Sabaragamuwa,Galkaduwa
+2855,Sabaragamuwa,Galkanda
+2856,Sabaragamuwa,Galkandagoda
+2857,Sabaragamuwa,Galkerekanda
+2858,Sabaragamuwa,Galketiya
+2859,Sabaragamuwa,Gallassapola
+2860,Sabaragamuwa,Gallela
+2861,Sabaragamuwa,Gallelletota
+2862,Sabaragamuwa,Gallenakanda
+2863,Sabaragamuwa,Gallinna
+2864,Sabaragamuwa,Galpallelanda
+2865,Sabaragamuwa,Galpata
+2866,Sabaragamuwa,Galpaya
+2867,Sabaragamuwa,Galpola
+2868,Sabaragamuwa,Galukagama
+2869,Sabaragamuwa,Galwalagoda
+2870,Sabaragamuwa,Gamagepetta
+2871,Sabaragamuwa,Gamekkanda
+2872,Sabaragamuwa,Gamikkanda
+2873,Sabaragamuwa,Gammanagoda
+2874,Sabaragamuwa,Gammannagoda
+2875,Sabaragamuwa,Gammedda
+2876,Sabaragamuwa,Gampalawalakada
+2877,Sabaragamuwa,Ganegama
+2878,Sabaragamuwa,Ganegangoda
+2879,Sabaragamuwa,Ganegoda
+2880,Sabaragamuwa,Gangalagomuwa
+2881,Sabaragamuwa,Gangekumbura
+2882,Sabaragamuwa,Gangoda
+2883,Sabaragamuwa,Gangodagama
+2884,Sabaragamuwa,Gangodakanda
+2885,Sabaragamuwa,Gangodakumbura
+2886,Sabaragamuwa,Gangulwitiya
+2887,Sabaragamuwa,Ganitapura
+2888,Sabaragamuwa,Ganithapura
+2889,Sabaragamuwa,Gansabhawa
+2890,Sabaragamuwa,Gantuna Pallegama
+2891,Sabaragamuwa,Gantuna Udagama
+2892,Sabaragamuwa,Gantune-Pallegama
+2893,Sabaragamuwa,Gantune-Udagama
+2894,Sabaragamuwa,Garagoda
+2895,Sabaragamuwa,Gasnawa
+2896,Sabaragamuwa,Gawaragiriya
+2897,Sabaragamuwa,Gayirenagama
+2898,Sabaragamuwa,Gerandiella
+2899,Sabaragamuwa,Gerapatgama
+2900,Sabaragamuwa,Getaberikanda
+2901,Sabaragamuwa,Getahetta
+2902,Sabaragamuwa,Getamuruta
+2903,Sabaragamuwa,Getangama
+2904,Sabaragamuwa,Getiyamulla
+2905,Sabaragamuwa,Gevilipitiya
+2906,Sabaragamuwa,Gilimale
+2907,Sabaragamuwa,Ginihappitiya
+2908,Sabaragamuwa,Ginitillawala
+2909,Sabaragamuwa,Giramadola
+2910,Sabaragamuwa,Glenella
+2911,Sabaragamuwa,Godagama
+2912,Sabaragamuwa,Godagampola
+2913,Sabaragamuwa,Godagandeniya
+2914,Sabaragamuwa,Godagedara
+2915,Sabaragamuwa,Godakawela
+2916,Sabaragamuwa,Godakumbura
+2917,Sabaragamuwa,Godapola
+2918,Sabaragamuwa,Godawela
+2919,Sabaragamuwa,Godayakanda
+2920,Sabaragamuwa,Godella
+2921,Sabaragamuwa,Godigamuwa
+2922,Sabaragamuwa,Golahela
+2923,Sabaragamuwa,Gomaduwa
+2924,Sabaragamuwa,Gomiarawa
+2925,Sabaragamuwa,Gonagala
+2926,Sabaragamuwa,Gonagaldeniya
+2927,Sabaragamuwa,Gonagomuwa
+2928,Sabaragamuwa,Gonakumbura
+2929,Sabaragamuwa,Gonapitiya
+2930,Sabaragamuwa,Gonaramba
+2931,Sabaragamuwa,Gonawala
+2932,Sabaragamuwa,Gondiwala
+2933,Sabaragamuwa,Gorokgahamada
+2934,Sabaragamuwa,Gulanekanda
+2935,Sabaragamuwa,Guriyamba
+2936,Sabaragamuwa,Gurubewila
+2937,Sabaragamuwa,Gurubewilagama
+2938,Sabaragamuwa,Gurugalla
+2939,Sabaragamuwa,Gurulawella
+2940,Sabaragamuwa,Guruluwana
+2941,Sabaragamuwa,Haalmessa
+2942,Sabaragamuwa,Habalakkawa
+2943,Sabaragamuwa,Habbeliara
+2944,Sabaragamuwa,Habbunkaduwa
+2945,Sabaragamuwa,Hakahinna
+2946,Sabaragamuwa,Hakamuwa
+2947,Sabaragamuwa,Hakurugammana
+2948,Sabaragamuwa,Hakuruliyadda
+2949,Sabaragamuwa,Halagiriya
+2950,Sabaragamuwa,Halaturakele
+2951,Sabaragamuwa,Idampitiya
+2952,Sabaragamuwa,Idangoda
+2953,Sabaragamuwa,Iddamalgoda
+2954,Sabaragamuwa,Iddawala
+2955,Sabaragamuwa,Iduranpitiya
+2956,Sabaragamuwa,Ihala Dayigala
+2957,Sabaragamuwa,Ihala Kalugala
+2958,Sabaragamuwa,Ihala Pohorabawa
+2959,Sabaragamuwa,Ihalagalagama
+2960,Sabaragamuwa,Ihalagama
+2961,Sabaragamuwa,Ihalakanda
+2962,Sabaragamuwa,Ihalakotte
+2963,Sabaragamuwa,Ilipangamuwa
+2964,Sabaragamuwa,Illukpitiya
+2965,Sabaragamuwa,Illuktenna
+2966,Sabaragamuwa,Ilubbuluwa
+2967,Sabaragamuwa,Ilukgoda
+2968,Sabaragamuwa,Ilukkumbura
+2969,Sabaragamuwa,Ilukkumburagoda
+2970,Sabaragamuwa,Ilukkumburugoda
+2971,Sabaragamuwa,Ilukpitiya
+2972,Sabaragamuwa,Iluktenna
+2973,Sabaragamuwa,Ilwana
+2974,Sabaragamuwa,Imbulamura
+2975,Sabaragamuwa,Imbulana
+2976,Sabaragamuwa,Imbulgala
+2977,Sabaragamuwa,Imbulgoda
+2978,Sabaragamuwa,Imbulhititenna
+2979,Sabaragamuwa,Imbulpe
+2980,Sabaragamuwa,Imbulpitiya
+2981,Sabaragamuwa,Imekanda
+2982,Sabaragamuwa,Imewatta
+2983,Sabaragamuwa,Indikatupana
+2984,Sabaragamuwa,Indolewatta
+2985,Sabaragamuwa,Indurana
+2986,Sabaragamuwa,Induranpitiya
+2987,Sabaragamuwa,Induruwa
+2988,Sabaragamuwa,Ingiriyawatta
+2989,Sabaragamuwa,Iriyamaditta
+2990,Sabaragamuwa,Iriyaulla
+2991,Sabaragamuwa,Ittekanda
+2992,Sabaragamuwa,Jatunkanda
+2993,Sabaragamuwa,Jeewana
+2994,Sabaragamuwa,Jeewandeniya
+2995,Sabaragamuwa,Jiwana
+2996,Sabaragamuwa,Jiwanadeniya
+2997,Sabaragamuwa,Kabagamuwa
+2998,Sabaragamuwa,Kabulumulla
+2999,Sabaragamuwa,Kachchigala
+3000,Sabaragamuwa,Kadadora
+3001,Sabaragamuwa,Kadadorakanda
+3002,Sabaragamuwa,Kadawatakanda
+3003,Sabaragamuwa,Kadawattiya
+3004,Sabaragamuwa,Kadigamuwa
+3005,Sabaragamuwa,Kadigomuwa
+3006,Sabaragamuwa,Kadigomuwa
+3007,Sabaragamuwa,Labugama
+3008,Sabaragamuwa,Lahupane
+3009,Sabaragamuwa,Lakmana
+3010,Sabaragamuwa,Lambutuwa
+3011,Sabaragamuwa,Landuyaya
+3012,Sabaragamuwa,Lassegama
+3013,Sabaragamuwa,Lassekanda
+3014,Sabaragamuwa,Leeniyagala
+3015,Sabaragamuwa,Lekamagoda
+3016,Sabaragamuwa,Lekamgoda
+3017,Sabaragamuwa,Lekangoda
+3018,Sabaragamuwa,Lellagoda
+3019,Sabaragamuwa,Lellopitiya
+3020,Sabaragamuwa,Lenagala
+3021,Sabaragamuwa,Lenagala Ihala
+3022,Sabaragamuwa,Lenagala Pahala
+3023,Sabaragamuwa,Lendaramulla
+3024,Sabaragamuwa,Lessagama
+3025,Sabaragamuwa,Leuke
+3026,Sabaragamuwa,Lewala
+3027,Sabaragamuwa,Lewangama Dumbuluwa
+3028,Sabaragamuwa,Lewangama Pahalagama
+3029,Sabaragamuwa,Lewangama Talawatta
+3030,Sabaragamuwa,Lewangama Udagammedda
+3031,Sabaragamuwa,Liniyagala
+3032,Sabaragamuwa,Liniyakaduwa
+3033,Sabaragamuwa,Liyana-arachchigama
+3034,Sabaragamuwa,Liyanagegama
+3035,Sabaragamuwa,Liyandawela
+3036,Sabaragamuwa,Liyangahatota
+3037,Sabaragamuwa,Liyangastota
+3038,Sabaragamuwa,Lolgoda
+3039,Sabaragamuwa,Maboda
+3040,Sabaragamuwa,Mabopitiya
+3041,Sabaragamuwa,Madagammana
+3042,Sabaragamuwa,Madakandura
+3043,Sabaragamuwa,Madalagama
+3044,Sabaragamuwa,Madalagama
+3045,Sabaragamuwa,Madampe
+3046,Sabaragamuwa,Madana
+3047,Sabaragamuwa,Madare
+3048,Sabaragamuwa,Naberiyawa
+3049,Sabaragamuwa,Nabuluwa
+3050,Sabaragamuwa,Nabuluwa
+3051,Sabaragamuwa,Nadeniya
+3052,Sabaragamuwa,Nagoda
+3053,Sabaragamuwa,Nagomuwa
+3054,Sabaragamuwa,Nahalwatura
+3055,Sabaragamuwa,Nahitiya
+3056,Sabaragamuwa,Nakandala
+3057,Sabaragamuwa,Nakkawita
+3058,Sabaragamuwa,Obokka
+3059,Sabaragamuwa,Oddape
+3060,Sabaragamuwa,Oddare
+3061,Sabaragamuwa,Okanmulla
+3062,Sabaragamuwa,Olagama
+3063,Sabaragamuwa,Olitenna
+3064,Sabaragamuwa,Olugala
+3065,Sabaragamuwa,Olugantota
+3066,Sabaragamuwa,Omalpe
+3067,Sabaragamuwa,Opanake
+3068,Sabaragamuwa,Opata
+3069,Sabaragamuwa,Opata
+3070,Sabaragamuwa,Opata
+3071,Sabaragamuwa,Opatha
+3072,Sabaragamuwa,Otnapitiya
+3073,Sabaragamuwa,Owala
+3074,Sabaragamuwa,Owala Kudabage
+3075,Sabaragamuwa,Owala Mahabage
+3076,Sabaragamuwa,Owatta
+3077,Sabaragamuwa,Owatta
+3078,Sabaragamuwa,Owatura
+3079,Sabaragamuwa,Owitigamuwa
+3080,Sabaragamuwa,Owitiwara
+3081,Sabaragamuwa,Padalangala
+3082,Sabaragamuwa,Padawigampola
+3083,Sabaragamuwa,Padidora
+3084,Sabaragamuwa,Padugama
+3085,Sabaragamuwa,Pagalowita
+3086,Sabaragamuwa,Pagoda
+3087,Sabaragamuwa,Pahala Dayigala
+3088,Sabaragamuwa,Pahala Hinguruwaka
+3089,Sabaragamuwa,Pahala Kalugala
+3090,Sabaragamuwa,Pahala Pohorabawa
+3091,Sabaragamuwa,Rabbidigala
+3092,Sabaragamuwa,Radagoda
+3093,Sabaragamuwa,Raddella
+3094,Sabaragamuwa,Ragala
+3095,Sabaragamuwa,Ragalkanda
+3096,Sabaragamuwa,Rahala
+3097,Sabaragamuwa,Rajawaka
+3098,Sabaragamuwa,Rakwana
+3099,Sabaragamuwa,Rambuka
+3100,Sabaragamuwa,Rambukanagama
+3101,Sabaragamuwa,Sannasgama
+3102,Sabaragamuwa,Selawa
+3103,Sabaragamuwa,Silanarawa
+3104,Sabaragamuwa,Silogama
+3105,Sabaragamuwa,Singagoda
+3106,Sabaragamuwa,Singahagoda
+3107,Sabaragamuwa,Singappulikanda
+3108,Sabaragamuwa,Sinhalagoda
+3109,Sabaragamuwa,Sitagalapanguwa
+3110,Sabaragamuwa,Sitagangula
+3111,Sabaragamuwa,Siyambalangamuwa
+3112,Sabaragamuwa,Siyambalapitiya
+3113,Sabaragamuwa,Siyambalapitiya
+3114,Sabaragamuwa,Siyambalapitiya
+3115,Sabaragamuwa,Siyambalawa
+3116,Sabaragamuwa,Siyambalawala
+3117,Sabaragamuwa,Siyambalawala
+3118,Sabaragamuwa,Sudagala
+3119,Sabaragamuwa,Suduhakurukanda
+3120,Sabaragamuwa,Suriyakanda
+3121,Sabaragamuwa,Rassagala
+3122,Sabaragamuwa,Talagahawatta
+3123,Sabaragamuwa,Talagahayaya
+3124,Sabaragamuwa,Talagaskanda
+3125,Sabaragamuwa,Talangama
+3126,Sabaragamuwa,Talangama
+3127,Sabaragamuwa,Talapitiya
+3128,Sabaragamuwa,Talapitiya
+3129,Sabaragamuwa,Talawatta
+3130,Sabaragamuwa,Taldewa
+3131,Sabaragamuwa,Talduwa
+3132,Sabaragamuwa,Uda Beddewala
+3133,Sabaragamuwa,Uda Beddewela
+3134,Sabaragamuwa,Uda Dadayankanda
+3135,Sabaragamuwa,Uda Galadeniya
+3136,Sabaragamuwa,Uda Hinguruwaka
+3137,Sabaragamuwa,Uda Karandupone
+3138,Sabaragamuwa,Uda Pamunuwa
+3139,Sabaragamuwa,Uda Yogama
+3140,Sabaragamuwa,Udabage
+3141,Sabaragamuwa,Udagama
+3142,Sabaragamuwa,Veddagala
+3143,Sabaragamuwa,Wadakahadeniya
+3144,Sabaragamuwa,Wadamaldeniya
+3145,Sabaragamuwa,Waddeniya
+3146,Sabaragamuwa,Wadiyatenna
+3147,Sabaragamuwa,Wadukanda
+3148,Sabaragamuwa,Wadumulla
+3149,Sabaragamuwa,Wadupola
+3150,Sabaragamuwa,Waduwadeniya
+3151,Sabaragamuwa,Waduwawela
+3152,Sabaragamuwa,Waguregama
+3153,Southern Province,Abakolawewa
+3154,Southern Province,Abesekaragama
+3155,Southern Province,Abeyesekaragama
+3156,Southern Province,Acharigama
+3157,Southern Province,Acharigoda
+3158,Southern Province,Addarawellana
+3159,Southern Province,Agala Kanda
+3160,Southern Province,Agalaboda
+3161,Southern Province,Agaliya
+3162,Southern Province,Aggarahere
+3163,Southern Province,Ahangama
+3164,Southern Province,Akuressa
+3165,Southern Province,Babarenda Central
+3166,Southern Province,Babarenda North
+3167,Southern Province,Babarenda South I
+3168,Southern Province,Babarenda South II
+3169,Southern Province,Badabadda
+3170,Southern Province,Badahelagoda
+3171,Southern Province,Badalgeda
+3172,Southern Province,Baddegama
+3173,Southern Province,Baddegama East
+3174,Southern Province,Baddegama North
+3175,Southern Province,Baddegama South
+3176,Southern Province,Bentota
+3177,Southern Province,China Garden
+3178,Southern Province,Companiwatta
+3179,Southern Province,Companywatta
+3180,Southern Province,Dabarella
+3181,Southern Province,Dadalla
+3182,Southern Province,Daganapothaha
+3183,Southern Province,Daha-amuna
+3184,Southern Province,Dalgahakele
+3185,Southern Province,Daluwakgoda
+3186,Southern Province,Daluwatumulla
+3187,Southern Province,Dambawatawana
+3188,Southern Province,Dammala
+3189,Southern Province,Dammanatenna
+3190,Southern Province,Dammantenna
+3191,Southern Province,Deniyaya
+3192,Southern Province,Egodabedda
+3193,Southern Province,Egodaduwa
+3194,Southern Province,Egodagoda
+3195,Southern Province,Egodamulla
+3196,Southern Province,Egodawela
+3197,Southern Province,Ehelakanda
+3198,Southern Province,Ehelape
+3199,Southern Province,Ehelapola
+3200,Southern Province,Ehelepola
+3201,Southern Province,Ekkassa
+3202,Southern Province,Elagamuwa
+3203,Southern Province,Fort
+3204,Southern Province,Gabadaweediya
+3205,Southern Province,Gabadawidiya
+3206,Southern Province,Gajanayakagama
+3207,Southern Province,Galagama
+3208,Southern Province,Galagammana
+3209,Southern Province,Galagammulla
+3210,Southern Province,Galahitiya
+3211,Southern Province,Galapilagama
+3212,Southern Province,Galatuduwa
+3213,Southern Province,Galbada
+3214,Southern Province,Galboda
+3215,Southern Province,Ganegama
+3216,Southern Province,Habakkala
+3217,Southern Province,Habaraduwa
+3218,Southern Province,Habaraduwa Centra
+3219,Southern Province,Habaraduwa Central
+3220,Southern Province,Habaraduwa West
+3221,Southern Province,Habaragaha-ela
+3222,Southern Province,Habarakada
+3223,Southern Province,Habarattawila
+3224,Southern Province,Habarattewala
+3225,Southern Province,Habarattewala
+3226,Southern Province,Haburugala
+3227,Southern Province,Ibbawala
+3228,Southern Province,Idandukita
+3229,Southern Province,Idantota
+3230,Southern Province,Igala
+3231,Southern Province,Ihala Aturaliya
+3232,Southern Province,Ihala Beligalla
+3233,Southern Province,Ihala Ganegama
+3234,Southern Province,Ihala Keembiya
+3235,Southern Province,Ihala Kumbukwewa
+3236,Southern Province,Ihala Omatta
+3237,Southern Province,Ihala Vitiyala
+3238,Southern Province,Imaduwa
+3239,Southern Province,Jalampitiya
+3240,Southern Province,Jamburegoda
+3241,Southern Province,Jamburutugoda
+3242,Southern Province,Jandura
+3243,Southern Province,Jansagama
+3244,Southern Province,Jomahandigoda
+3245,Southern Province,Jorseygoda
+3246,Southern Province,Jorsigoda
+3247,Southern Province,Julampitiya
+3248,Southern Province,Julamulla
+3249,Southern Province,Kabaragaha Ela
+3250,Southern Province,Kabaragala
+3251,Southern Province,Kabaragomaditta
+3252,Southern Province,Kabarayamulla
+3253,Southern Province,Kadaweddawa
+3254,Southern Province,Kadawedduwa
+3255,Southern Province,Kadduwa
+3256,Southern Province,Kadedduwa
+3257,Southern Province,Kadigamuwa
+3258,Southern Province,Kadihingala
+3259,Southern Province,Kadiragoda
+3260,Southern Province,Kalahe
+3261,Southern Province,Labuduwa
+3262,Southern Province,Lalpe
+3263,Southern Province,Lalwala Pahala
+3264,Southern Province,Lametiya
+3265,Southern Province,Landajulana
+3266,Southern Province,Landejulana
+3267,Southern Province,Lankagama
+3268,Southern Province,Lanumodara
+3269,Southern Province,Lanumodera
+3270,Southern Province,Lelkada
+3271,Southern Province,Lelwala
+3272,Southern Province,Lelwala Ihala
+3273,Southern Province,Lelwala Pahala
+3274,Southern Province,Lenaduwa
+3275,Southern Province,Lenagalpalata
+3276,Southern Province,Lenama
+3277,Southern Province,Lenawa
+3278,Southern Province,Lenewa
+3279,Southern Province,Lewduwa
+3280,Southern Province,Lewpotdeniya
+3281,Southern Province,Lintotapaya
+3282,Southern Province,Liyanagamakanda
+3283,Southern Province,Liyanagoda
+3284,Southern Province,Liyanegoda
+3285,Southern Province,Liyannakatuwa
+3286,Southern Province,Lolla
+3287,Southern Province,Lunama
+3288,Southern Province,Lunuganwehera
+3289,Southern Province,Mabingoda
+3290,Southern Province,Mabotuwana
+3291,Southern Province,Madakumbura
+3292,Southern Province,Madametota
+3293,Southern Province,Madawala
+3294,Southern Province,Maddegama
+3295,Southern Province,Maddumagegoda
+3296,Southern Province,Madihe East
+3297,Southern Province,Madihe West
+3298,Southern Province,Madipola
+3299,Southern Province,Madipola Sinhalabage
+3300,Southern Province,Mirissa
+3301,Southern Province,Nabadova
+3302,Southern Province,Nabadowa
+3303,Southern Province,Nadiganwela
+3304,Southern Province,Nagahagoda
+3305,Southern Province,Nagalawewa
+3306,Southern Province,Nagoda
+3307,Southern Province,Naguliadda
+3308,Southern Province,Nagulliyadda
+3309,Southern Province,Naiduwa
+3310,Southern Province,Nakanda
+3311,Southern Province,Nakandawala
+3312,Southern Province,Obadagahadeniya
+3313,Southern Province,Obadawatta
+3314,Southern Province,Okandeyaya
+3315,Southern Province,Okawala
+3316,Southern Province,Okewela
+3317,Southern Province,Okewelagoda
+3318,Southern Province,Olagama
+3319,Southern Province,Olagama
+3320,Southern Province,Olaganduwa
+3321,Southern Province,Oligoda
+3322,Southern Province,Oluara
+3323,Southern Province,Olupeliya
+3324,Southern Province,Omatta
+3325,Southern Province,Opata
+3326,Southern Province,Oture
+3327,Southern Province,Ovilikanda
+3328,Southern Province,Ovilla
+3329,Southern Province,Ovitipana
+3330,Southern Province,Owilana
+3331,Southern Province,Owilikanda
+3332,Southern Province,Owilla
+3333,Southern Province,Owitigamuwa
+3334,Southern Province,Owitipana
+3335,Southern Province,Padavkema
+3336,Southern Province,Padawkema
+3337,Southern Province,Paddapitiya
+3338,Southern Province,Paddapitiya
+3339,Southern Province,Padilikokmaduwa
+3340,Southern Province,Paduanga
+3341,Southern Province,Paduange
+3342,Southern Province,Pahajjawa
+3343,Southern Province,Pahala Aturaliya
+3344,Southern Province,Pahala Ganegama
+3345,Southern Province,Pahala Keembiya
+3346,Southern Province,Radagoda
+3347,Southern Province,Radampola
+3348,Southern Province,Radaniara
+3349,Southern Province,Radaniyara
+3350,Southern Province,Radawela
+3351,Southern Province,Radompola
+3352,Southern Province,Rajapuragoda
+3353,Southern Province,Rajjamana
+3354,Southern Province,Rajjammana
+3355,Southern Province,Rallagerotawewa
+3356,Southern Province,Rallerotawewa
+3357,Southern Province,Rathgama
+3358,Southern Province,Sahabandukokmaduwa
+3359,Southern Province,Samodagama
+3360,Southern Province,Sapugahayaya
+3361,Southern Province,Sapugoda
+3362,Southern Province,Sapugodawela
+3363,Southern Province,Saputantirikanda
+3364,Southern Province,Seenimodera
+3365,Southern Province,Sigiriya
+3366,Southern Province,Silvetgama
+3367,Southern Province,Silwatgama
+3368,Southern Province,Sinigama
+3369,Southern Province,Talagahadiwela
+3370,Southern Province,Talagasgoda
+3371,Southern Province,Talagaspe
+3372,Southern Province,Talahagama
+3373,Southern Province,Talalla North
+3374,Southern Province,Talalla South
+3375,Southern Province,Talamporuwa
+3376,Southern Province,Talangalla
+3377,Southern Province,Talangamuwa
+3378,Southern Province,Talangomuwa
+3379,Southern Province,Talanwela
+3380,Southern Province,Uda Ambala
+3381,Southern Province,Uda Aparekka
+3382,Southern Province,Udabalgama
+3383,Southern Province,Udabatgama
+3384,Southern Province,Udaberagama
+3385,Southern Province,Udagangoda
+3386,Southern Province,Udagomadiya
+3387,Southern Province,Udaheragama
+3388,Southern Province,Udakanuketiya
+3389,Southern Province,Udakerawa
+3390,Southern Province,Udakerewa
+3391,Southern Province,Udugama
+3392,Southern Province,Valamitiyawa
+3393,Southern Province,Velgalla
+3394,Southern Province,Vidaneachchigoda
+3395,Southern Province,Vidaneachchilagegoda
+3396,Southern Province,Vidanearachchigoda
+3397,Southern Province,Vidanegegama
+3398,Southern Province,Viharahena
+3399,Southern Province,Wabalakananke
+3400,Southern Province,Wadiya
+3401,Southern Province,Wadiyagoda
+3402,Southern Province,Waduborala
+3403,Southern Province,Wadugegoda
+3404,Southern Province,Wadumulla
+3405,Southern Province,Waduwadeniya
+3406,Southern Province,Waduweliwitiya
+3407,Southern Province,Wagegoda
+3408,Southern Province,Wagugoda
+3409,Southern Province,Wahala
+3410,Southern Province,Walgama
+3411,Southern Province,Weeraketiya
+3412,Southern Province,Yakkalamulla
+3413,"Uva, Srilanka",Agalle
+3414,"Uva, Srilanka",Agampodigama
+3415,"Uva, Srilanka",Aggalaulpota
+3416,"Uva, Srilanka",Akurukaduwa
+3417,"Uva, Srilanka",Alakkangama
+3418,"Uva, Srilanka",Alakolagalagama
+3419,"Uva, Srilanka",Alakolawatta
+3420,"Uva, Srilanka",Alanmulla
+3421,"Uva, Srilanka",Alawatugoda
+3422,"Uva, Srilanka",Alokkangama
+3423,"Uva, Srilanka",Alpitiya
+3424,"Uva, Srilanka",Alubogolla
+3425,"Uva, Srilanka",Alugalge
+3426,"Uva, Srilanka",Alugalge
+3427,"Uva, Srilanka",Alugolla
+3428,"Uva, Srilanka",Alukalawita
+3429,"Uva, Srilanka",Aluketiyawa
+3430,"Uva, Srilanka",Alulwela
+3431,"Uva, Srilanka",Alupota
+3432,"Uva, Srilanka",Alupota
+3433,"Uva, Srilanka",Alupota
+3434,"Uva, Srilanka",Alupota Town
+3435,"Uva, Srilanka",Aluttarama
+3436,"Uva, Srilanka",Alutwela
+3437,"Uva, Srilanka",Alutwela
+3438,"Uva, Srilanka",Alutwela
+3439,"Uva, Srilanka",Alutwelagama
+3440,"Uva, Srilanka",Alutwewa
+3441,"Uva, Srilanka",Amarakonegama
+3442,"Uva, Srilanka",Amarakongama
+3443,"Uva, Srilanka",Ambadandegama
+3444,"Uva, Srilanka",Ambagahakandura
+3445,"Uva, Srilanka",Ambagasdowa
+3446,"Uva, Srilanka",Ambagasduwa
+3447,"Uva, Srilanka",Ambagolla
+3448,"Uva, Srilanka",Ambagolla
+3449,"Uva, Srilanka",Ambagolle
+3450,"Uva, Srilanka",Ambalanda
+3451,"Uva, Srilanka",Ambalande
+3452,"Uva, Srilanka",Ambamulla
+3453,"Uva, Srilanka",Ambanporuwa
+3454,"Uva, Srilanka",Ambatenna
+3455,"Uva, Srilanka",Ampitiya
+3456,"Uva, Srilanka",Amunekandura
+3457,"Uva, Srilanka",Amunumulla
+3458,"Uva, Srilanka",Amunumulla
+3459,"Uva, Srilanka",Anda Ulpota
+3460,"Uva, Srilanka",Andampohuwa
+3461,"Uva, Srilanka",Andanpahura
+3462,"Uva, Srilanka",Andaulpotagama
+3463,"Uva, Srilanka",Andawalagama
+3464,"Uva, Srilanka",Andawalayaya
+3465,"Uva, Srilanka",Andawelagama
+3466,"Uva, Srilanka",Andawelayaya
+3467,"Uva, Srilanka",Andeniya
+3468,"Uva, Srilanka",Andiawela
+3469,"Uva, Srilanka",Angoda
+3470,"Uva, Srilanka",Angunakolapelessa
+3471,"Uva, Srilanka",Ankada
+3472,"Uva, Srilanka",Aralupitiya
+3473,"Uva, Srilanka",Aralutalawa
+3474,"Uva, Srilanka",Araluwinna
+3475,"Uva, Srilanka",Aratumedilla
+3476,"Uva, Srilanka",Aravakumbura
+3477,"Uva, Srilanka",Aravawatte
+3478,"Uva, Srilanka",Arawa
+3479,"Uva, Srilanka",Arawakumbura
+3480,"Uva, Srilanka",Arawatta
+3481,"Uva, Srilanka",Asweddumegama
+3482,"Uva, Srilanka",Asweddummulla
+3483,"Uva, Srilanka",Asweddumwelagama
+3484,"Uva, Srilanka",Atale
+3485,"Uva, Srilanka",Athimale Colony
+3486,"Uva, Srilanka",Attambagaskandura
+3487,"Uva, Srilanka",Attanagola
+3488,"Uva, Srilanka",Attanagolla
+3489,"Uva, Srilanka",Ayiwela
+3490,"Uva, Srilanka",Badalagammana
+3491,"Uva, Srilanka",Badalkumbura
+3492,"Uva, Srilanka",Badaweltota
+3493,"Uva, Srilanka",Badulla
+3494,"Uva, Srilanka",Badullagasgedara
+3495,"Uva, Srilanka",Baduludena
+3496,"Uva, Srilanka",Badulugasgedara
+3497,"Uva, Srilanka",Badulupitiyagama
+3498,"Uva, Srilanka",Baduluwela
+3499,"Uva, Srilanka",Bakinidandugolla
+3500,"Uva, Srilanka",Bakinidandugollegama
+3501,"Uva, Srilanka",Bakinigahapitiya
+3502,"Uva, Srilanka",Bakinigahawela
+3503,"Uva, Srilanka",Bakinigahawela Vidiya
+3504,"Uva, Srilanka",Bakinilanda
+3505,"Uva, Srilanka",Bakinipitiya
+3506,"Uva, Srilanka",Bakmilande
+3507,"Uva, Srilanka",Bala-at-tare
+3508,"Uva, Srilanka",Bala-attara
+3509,"Uva, Srilanka",Baladangolla
+3510,"Uva, Srilanka",Balagala
+3511,"Uva, Srilanka",Balagalla
+3512,"Uva, Srilanka",Balagolla
+3513,"Uva, Srilanka",Balaharuwa
+3514,"Uva, Srilanka",Balana
+3515,"Uva, Srilanka",Balanegama
+3516,"Uva, Srilanka",Balewela
+3517,"Uva, Srilanka",Ballakatuwa
+3518,"Uva, Srilanka",Bambaragahaulpota
+3519,"Uva, Srilanka",Bambaragama
+3520,"Uva, Srilanka",Bambaragasyaya
+3521,"Uva, Srilanka",Bandarawadiya
+3522,"Uva, Srilanka",Bandarawatta
+3523,"Uva, Srilanka",Bandarawela
+3524,"Uva, Srilanka",Barawaya
+3525,"Uva, Srilanka",Batagammana
+3526,"Uva, Srilanka",Baththewa
+3527,"Uva, Srilanka",Batugammana
+3528,"Uva, Srilanka",Batwewa
+3529,"Uva, Srilanka",Beddegama
+3530,"Uva, Srilanka",Beddekumbura
+3531,"Uva, Srilanka",Beligalla
+3532,"Uva, Srilanka",Bendiyawa
+3533,"Uva, Srilanka",Beraliyapola
+3534,"Uva, Srilanka",Beramada
+3535,"Uva, Srilanka",Bibila
+3536,"Uva, Srilanka",Bibilagama
+3537,"Uva, Srilanka",Bibile
+3538,"Uva, Srilanka",Bibilegama
+3539,"Uva, Srilanka",Bibilemulla
+3540,"Uva, Srilanka",Bindunawewa
+3541,"Uva, Srilanka",Bindunuwewa
+3542,"Uva, Srilanka",Bingoda
+3543,"Uva, Srilanka",Biriulpota
+3544,"Uva, Srilanka",Bodagama
+3545,"Uva, Srilanka",Bogahakivula
+3546,"Uva, Srilanka",Bogahakumbura
+3547,"Uva, Srilanka",Bogahapatana
+3548,"Uva, Srilanka",Bogahapelessa
+3549,"Uva, Srilanka",Bogahawela
+3550,"Uva, Srilanka",Bogandena
+3551,"Uva, Srilanka",Bogoda
+3552,"Uva, Srilanka",Bohitiya
+3553,"Uva, Srilanka",Bokagonna
+3554,"Uva, Srilanka",Bokanoruwa
+3555,"Uva, Srilanka",Bolgalla
+3556,"Uva, Srilanka",Bolgalle
+3557,"Uva, Srilanka",Boliyadda
+3558,"Uva, Srilanka",Bolyadda
+3559,"Uva, Srilanka",Bootagolla
+3560,"Uva, Srilanka",Bopattakivula
+3561,"Uva, Srilanka",Bopattakiwula
+3562,"Uva, Srilanka",Bopitiya
+3563,"Uva, Srilanka",Boragas
+3564,"Uva, Srilanka",Boragasketiya
+3565,"Uva, Srilanka",Boragoda Vidiya
+3566,"Uva, Srilanka",Boralanda
+3567,"Uva, Srilanka",Bowela
+3568,"Uva, Srilanka",Bubula
+3569,"Uva, Srilanka",Buddama
+3570,"Uva, Srilanka",Budugakanda
+3571,"Uva, Srilanka",Budurapota
+3572,"Uva, Srilanka",Bulathwatta
+3573,"Uva, Srilanka",Bulatwatta
+3574,"Uva, Srilanka",Bulatwelgoda
+3575,"Uva, Srilanka",Bulliyadda
+3576,"Uva, Srilanka",Bulugahadena
+3577,"Uva, Srilanka",Bulugahalanda
+3578,"Uva, Srilanka",Bulupitiya
+3579,"Uva, Srilanka",Bummane
+3580,"Uva, Srilanka",Butagolla
+3581,"Uva, Srilanka",Buttala
+3582,"Uva, Srilanka",Dadayampola
+3583,"Uva, Srilanka",Dadayantalawa
+3584,"Uva, Srilanka",Dahagoniya
+3585,"Uva, Srilanka",Dalohogalla
+3586,"Uva, Srilanka",Damanegama
+3587,"Uva, Srilanka",Damanwara
+3588,"Uva, Srilanka",Dambagahamaditta
+3589,"Uva, Srilanka",Dambagahapattiya
+3590,"Uva, Srilanka",Dambagahapitiya
+3591,"Uva, Srilanka",Dambagahawela
+3592,"Uva, Srilanka",Dambagalla
+3593,"Uva, Srilanka",Dambakota
+3594,"Uva, Srilanka",Dambawelagama
+3595,"Uva, Srilanka",Dambawinna
+3596,"Uva, Srilanka",Dambewela
+3597,"Uva, Srilanka",Damunuwinna
+3598,"Uva, Srilanka",Danagirigama
+3599,"Uva, Srilanka",Dandugala
+3600,"Uva, Srilanka",Dandugalla
+3601,"Uva, Srilanka",Danigala
+3602,"Uva, Srilanka",Daragala
+3603,"Uva, Srilanka",Darkumbura
+3604,"Uva, Srilanka",Davuldena
+3605,"Uva, Srilanka",Dawatagolla
+3606,"Uva, Srilanka",Dawategama
+3607,"Uva, Srilanka",Debara Ara
+3608,"Uva, Srilanka",Debedda
+3609,"Uva, Srilanka",Debeddekiula
+3610,"Uva, Srilanka",Deekiligolla
+3611,"Uva, Srilanka",Degalaramba
+3612,"Uva, Srilanka",Dehiattawala
+3613,"Uva, Srilanka",Dehiatteyaya
+3614,"Uva, Srilanka",Dehigama
+3615,"Uva, Srilanka",Dehigolla
+3616,"Uva, Srilanka",Dehikinda
+3617,"Uva, Srilanka",Dehipola
+3618,"Uva, Srilanka",Dehivinna
+3619,"Uva, Srilanka",Deliwa
+3620,"Uva, Srilanka",Dematan-Ella
+3621,"Uva, Srilanka",Dematapelessa
+3622,"Uva, Srilanka",Demettanella
+3623,"Uva, Srilanka",Demodara
+3624,"Uva, Srilanka",Demoderawatta
+3625,"Uva, Srilanka",Denagiriya
+3626,"Uva, Srilanka",Detagamuwa
+3627,"Uva, Srilanka",Dewatagolla
+3628,"Uva, Srilanka",Dewatura
+3629,"Uva, Srilanka",Dewitotawela
+3630,"Uva, Srilanka",Deyiyannewela
+3631,"Uva, Srilanka",Diganatenna
+3632,"Uva, Srilanka",Dijjulana
+3633,"Uva, Srilanka",Dikirigolla
+3634,"Uva, Srilanka",Dikkapitiya
+3635,"Uva, Srilanka",Dikwella
+3636,"Uva, Srilanka",Dikwellagama
+3637,"Uva, Srilanka",Dikyaya
+3638,"Uva, Srilanka",Dimbulamura
+3639,"Uva, Srilanka",Dimbulana
+3640,"Uva, Srilanka",Dimbulgahagedara
+3641,"Uva, Srilanka",Divitotawela
+3642,"Uva, Srilanka",Diwulgahagedara
+3643,"Uva, Srilanka",Diyabetma
+3644,"Uva, Srilanka",Diyabetme
+3645,"Uva, Srilanka",Diyabokandura
+3646,"Uva, Srilanka",Diyakola
+3647,"Uva, Srilanka",Diyaluma
+3648,"Uva, Srilanka",Diyaluwa
+3649,"Uva, Srilanka",Diyapola
+3650,"Uva, Srilanka",Diyatalawa
+3651,"Uva, Srilanka",Dodan Atulpota
+3652,"Uva, Srilanka",Dodanetulpota
+3653,"Uva, Srilanka",Dodangolla
+3654,"Uva, Srilanka",Dombagahawela
+3655,"Uva, Srilanka",Doolalinda
+3656,"Uva, Srilanka",Doragoda-arawa
+3657,"Uva, Srilanka",Dorapoda
+3658,"Uva, Srilanka",Dulalinda
+3659,"Uva, Srilanka",Dultota
+3660,"Uva, Srilanka",Dumbana
+3661,"Uva, Srilanka",Dummalatenna
+3662,"Uva, Srilanka",Dunikiyana
+3663,"Uva, Srilanka",Dunukewela
+3664,"Uva, Srilanka",Dunukeyana
+3665,"Uva, Srilanka",Dunumewa
+3666,"Uva, Srilanka",Edandewela
+3667,"Uva, Srilanka",Edandupola
+3668,"Uva, Srilanka",Egalla
+3669,"Uva, Srilanka",Egodagama
+3670,"Uva, Srilanka",Egodakotagama
+3671,"Uva, Srilanka",Egodamulla
+3672,"Uva, Srilanka",Ehalagahawadiya
+3673,"Uva, Srilanka",Ekeriyankumbura
+3674,"Uva, Srilanka",Ekeriyawatta
+3675,"Uva, Srilanka",Ekiriya
+3676,"Uva, Srilanka",Ekiriyankumbura
+3677,"Uva, Srilanka",Ekiriyawatta
+3678,"Uva, Srilanka",Ekriyankumbura
+3679,"Uva, Srilanka",Elamalpota
+3680,"Uva, Srilanka",Elandagoda
+3681,"Uva, Srilanka",Elewala
+3682,"Uva, Srilanka",Elewela
+3683,"Uva, Srilanka",Ella
+3684,"Uva, Srilanka",Ella Town
+3685,"Uva, Srilanka",Ella-alutwela
+3686,"Uva, Srilanka",Ellagama
+3687,"Uva, Srilanka",Ellanda
+3688,"Uva, Srilanka",Ellande
+3689,"Uva, Srilanka",Ellatota
+3690,"Uva, Srilanka",Ellealutwela
+3691,"Uva, Srilanka",Ellegama
+3692,"Uva, Srilanka",Ellegama
+3693,"Uva, Srilanka",Ellekona
+3694,"Uva, Srilanka",Elletota
+3695,"Uva, Srilanka",Elwatta
+3696,"Uva, Srilanka",Elwatta
+3697,"Uva, Srilanka",Elwatta
+3698,"Uva, Srilanka",Embilipitiya
+3699,"Uva, Srilanka",Erabadda
+3700,"Uva, Srilanka",Erabaddegama
+3701,"Uva, Srilanka",Etagama
+3702,"Uva, Srilanka",Etakumbura
+3703,"Uva, Srilanka",Etambagaskandura
+3704,"Uva, Srilanka",Etanamada
+3705,"Uva, Srilanka",Etandagoda
+3706,"Uva, Srilanka",Etiliwewa
+3707,"Uva, Srilanka",Etimale
+3708,"Uva, Srilanka",Etimole
+3709,"Uva, Srilanka",Etimole
+3710,"Uva, Srilanka",Etimole Colony
+3711,"Uva, Srilanka",Etkandawaka
+3712,"Uva, Srilanka",Etpattiya
+3713,"Uva, Srilanka",Ettalapitiya
+3714,"Uva, Srilanka",Ettalawela
+3715,"Uva, Srilanka",Ettampitiya
+3716,"Uva, Srilanka",Ettampitiya Town
+3717,"Uva, Srilanka",Ettanipitiya
+3718,"Uva, Srilanka",Ewariyapelassa
+3719,"Uva, Srilanka",Ewariyapelessa
+3720,"Uva, Srilanka",Gabadagoda
+3721,"Uva, Srilanka",Gadadehigolla
+3722,"Uva, Srilanka",Gal Oya
+3723,"Uva, Srilanka",Galabedda
+3724,"Uva, Srilanka",Galagediyaya
+3725,"Uva, Srilanka",Galahitiyawa
+3726,"Uva, Srilanka",Galakulugolla
+3727,"Uva, Srilanka",Galanda
+3728,"Uva, Srilanka",Galanihegama
+3729,"Uva, Srilanka",Galapitakanda
+3730,"Uva, Srilanka",Galauda
+3731,"Uva, Srilanka",Galawadiya
+3732,"Uva, Srilanka",Galbokka
+3733,"Uva, Srilanka",Galbokkegama
+3734,"Uva, Srilanka",Galewadiya
+3735,"Uva, Srilanka",Galgamuwa
+3736,"Uva, Srilanka",Galge
+3737,"Uva, Srilanka",Galgediyawa
+3738,"Uva, Srilanka",Galgewela
+3739,"Uva, Srilanka",Galgoda
+3740,"Uva, Srilanka",Galgoda-Araluwinna
+3741,"Uva, Srilanka",Galigamuwa
+3742,"Uva, Srilanka",Galkotuwa
+3743,"Uva, Srilanka",Galloba
+3744,"Uva, Srilanka",Galmulla
+3745,"Uva, Srilanka",Galoba
+3746,"Uva, Srilanka",Galtumbe
+3747,"Uva, Srilanka",Galula
+3748,"Uva, Srilanka",Galwalalla
+3749,"Uva, Srilanka",Galwangedipola
+3750,"Uva, Srilanka",Galwetiya
+3751,"Uva, Srilanka",Gambedda
+3752,"Uva, Srilanka",Gamekumbura
+3753,"Uva, Srilanka",Gamewela
+3754,"Uva, Srilanka",Gampaha
+3755,"Uva, Srilanka",Gangoda
+3756,"Uva, Srilanka",Gangoda-arawa
+3757,"Uva, Srilanka",Gangodagama
+3758,"Uva, Srilanka",Gangodapanguwa
+3759,"Uva, Srilanka",Gannekkumbura
+3760,"Uva, Srilanka",Gannekumbura
+3761,"Uva, Srilanka",Garandiulla
+3762,"Uva, Srilanka",Gasgolla
+3763,"Uva, Srilanka",Gawalagama
+3764,"Uva, Srilanka",Gawarammana
+3765,"Uva, Srilanka",Gawarawela
+3766,"Uva, Srilanka",Gawela
+3767,"Uva, Srilanka",Gedarakumbura
+3768,"Uva, Srilanka",Gediwila
+3769,"Uva, Srilanka",Gerandibakinna
+3770,"Uva, Srilanka",Gerendiela
+3771,"Uva, Srilanka",Ginigathgala
+3772,"Uva, Srilanka",Gira-andura
+3773,"Uva, Srilanka",Giragammana
+3774,"Uva, Srilanka",Giramba
+3775,"Uva, Srilanka",Giranduwa
+3776,"Uva, Srilanka",Giriwara
+3777,"Uva, Srilanka",Godahena
+3778,"Uva, Srilanka",Godawelipokuna Hela
+3779,"Uva, Srilanka",Godayagama
+3780,"Uva, Srilanka",Godegama
+3781,"Uva, Srilanka",Godigamuwa
+3782,"Uva, Srilanka",Godunna
+3783,"Uva, Srilanka",Gomagoda
+3784,"Uva, Srilanka",Gonabokka
+3785,"Uva, Srilanka",Gonagala
+3786,"Uva, Srilanka",Gonamotawa
+3787,"Uva, Srilanka",Gonatalawa
+3788,"Uva, Srilanka",Gonatibbatugolla
+3789,"Uva, Srilanka",Gonawala
+3790,"Uva, Srilanka",Goniketiya
+3791,"Uva, Srilanka",Gonkatuwa
+3792,"Uva, Srilanka",Gontalawa
+3793,"Uva, Srilanka",Gorandihela
+3794,"Uva, Srilanka",Gotamegama
+3795,"Uva, Srilanka",Gotuwela
+3796,"Uva, Srilanka",Goussa
+3797,"Uva, Srilanka",Goussagama
+3798,"Uva, Srilanka",Gungoda-arawa
+3799,"Uva, Srilanka",Guruhela
+3800,"Uva, Srilanka",Gurukumbura
+3801,"Uva, Srilanka",Gurumada
+3802,"Uva, Srilanka",Gurumada
+3803,"Uva, Srilanka",Gurupanwela
+3804,"Uva, Srilanka",Gurupihilla
+3805,"Uva, Srilanka",Gurutalawa
+3806,"Uva, Srilanka",Habessa
+3807,"Uva, Srilanka",Hadiakumbura
+3808,"Uva, Srilanka",Hakgala
+3809,"Uva, Srilanka",Halatutenna
+3810,"Uva, Srilanka",Haldummulla
+3811,"Uva, Srilanka",Haldumulla
+3812,"Uva, Srilanka",Hali Ela
+3813,"Uva, Srilanka",Halpe
+3814,"Uva, Srilanka",Hamagolla
+3815,"Uva, Srilanka",Hamanawa
+3816,"Uva, Srilanka",Hamapola
+3817,"Uva, Srilanka",Hambegamuwa
+3818,"Uva, Srilanka",Handiyakumbura
+3819,"Uva, Srilanka",Hangilie-ella
+3820,"Uva, Srilanka",Hangiliella
+3821,"Uva, Srilanka",Hangunnawa
+3822,"Uva, Srilanka",Hanthiyawa
+3823,"Uva, Srilanka",Hanukatapitiya
+3824,"Uva, Srilanka",Hanwella
+3825,"Uva, Srilanka",Hapatgamuwa
+3826,"Uva, Srilanka",Happoruwa
+3827,"Uva, Srilanka",Hapugolla
+3828,"Uva, Srilanka",Haputale
+3829,"Uva, Srilanka",Haputalegama
+3830,"Uva, Srilanka",Harakgamakanda
+3831,"Uva, Srilanka",Harankahawa
+3832,"Uva, Srilanka",Hathkinda
+3833,"Uva, Srilanka",Havanawela
+3834,"Uva, Srilanka",Heenapahuwa
+3835,"Uva, Srilanka",Heewelkandura
+3836,"Uva, Srilanka",Hegoda
+3837,"Uva, Srilanka",Hela Tuntala
+3838,"Uva, Srilanka",Hela-alagolla
+3839,"Uva, Srilanka",Heladangamuwa
+3840,"Uva, Srilanka",Helauda
+3841,"Uva, Srilanka",Helaula
+3842,"Uva, Srilanka",Hemagolla
+3843,"Uva, Srilanka",Hemakandapitiya
+3844,"Uva, Srilanka",Henditiyawa
+3845,"Uva, Srilanka",Henebadda
+3846,"Uva, Srilanka",Hepola
+3847,"Uva, Srilanka",Hetekma
+3848,"Uva, Srilanka",Hevelwela
+3849,"Uva, Srilanka",Hewanwatta
+3850,"Uva, Srilanka",Hewelkandura
+3851,"Uva, Srilanka",Hidagama
+3852,"Uva, Srilanka",Hidagamawatta
+3853,"Uva, Srilanka",Hidikiula
+3854,"Uva, Srilanka",Hinapanuwa
+3855,"Uva, Srilanka",Hindagoda
+3856,"Uva, Srilanka",Hingurugamuwa
+3857,"Uva, Srilanka",Hingurukaduwa
+3858,"Uva, Srilanka",Hinnarangahakumbura
+3859,"Uva, Srilanka",Hinnarangolla
+3860,"Uva, Srilanka",Hinnariyamala
+3861,"Uva, Srilanka",Hirimole
+3862,"Uva, Srilanka",Hiripitiya
+3863,"Uva, Srilanka",Horabokka
+3864,"Uva, Srilanka",Horabora
+3865,"Uva, Srilanka",Horadaruwa
+3866,"Uva, Srilanka",Horadoruwa
+3867,"Uva, Srilanka",Horagune
+3868,"Uva, Srilanka",Horambuwa
+3869,"Uva, Srilanka",Horatota
+3870,"Uva, Srilanka",Horoumbawa
+3871,"Uva, Srilanka",Hulandawa
+3872,"Uva, Srilanka",Humbahemada
+3873,"Uva, Srilanka",Hunuketapitiya
+3874,"Uva, Srilanka",Huratgamuwa
+3875,"Uva, Srilanka",Ibbanella
+3876,"Uva, Srilanka",Idalgashinna
+3877,"Uva, Srilanka",Idambowa
+3878,"Uva, Srilanka",Idamegama
+3879,"Uva, Srilanka",Ihala Pewuwewa
+3880,"Uva, Srilanka",Ihala Pewwewa
+3881,"Uva, Srilanka",Ihawa
+3882,"Uva, Srilanka",Ikiriyanpola
+3883,"Uva, Srilanka",Ilakkepudena and Dumbadawellawa
+3884,"Uva, Srilanka",Illuka
+3885,"Uva, Srilanka",Illukpelessa
+3886,"Uva, Srilanka",Illuktenna
+3887,"Uva, Srilanka",Ilukarawa
+3888,"Uva, Srilanka",Ilukketiya
+3889,"Uva, Srilanka",Ilukkumbura
+3890,"Uva, Srilanka",Ilukpelessa
+3891,"Uva, Srilanka",Iluktenna
+3892,"Uva, Srilanka",Illuktenna
+3893,"Uva, Srilanka",Ilukwelagama
+3894,"Uva, Srilanka",Imbulgoda
+3895,"Uva, Srilanka",Inawella
+3896,"Uva, Srilanka",Indigasella
+3897,"Uva, Srilanka",Indigaswala
+3898,"Uva, Srilanka",Inginiyagala
+3899,"Uva, Srilanka",Inginiyalgala
+3900,"Uva, Srilanka",Inipanduregoda
+3901,"Uva, Srilanka",Iriwendumpola
+3902,"Uva, Srilanka",Iruwendumpola
+3903,"Uva, Srilanka",Issanne-Ara
+3904,"Uva, Srilanka",Itanawatte Megodagama
+3905,"Uva, Srilanka",Itanawatte Thanayamgama
+3906,"Uva, Srilanka",Ititembalagama
+3907,"Uva, Srilanka",Ititempola
+3908,"Uva, Srilanka",Ititumbala
+3909,"Uva, Srilanka",Jangula
+3910,"Uva, Srilanka",Jangulle
+3911,"Uva, Srilanka",Jasingama
+3912,"Uva, Srilanka",Kabilidowa
+3913,"Uva, Srilanka",Kabilladowa
+3914,"Uva, Srilanka",Kabillewela
+3915,"Uva, Srilanka",Kabillidowa
+3916,"Uva, Srilanka",Kadapalla
+3917,"Uva, Srilanka",Kadarawa
+3918,"Uva, Srilanka",Kaddearawa
+3919,"Uva, Srilanka",Kadegangoda
+3920,"Uva, Srilanka",Kadigangoda
+3921,"Uva, Srilanka",Kadupara
+3922,"Uva, Srilanka",Kadurugahapelessa
+3923,"Uva, Srilanka",Kadurugamuwa
+3924,"Uva, Srilanka",Kahagolla
+3925,"Uva, Srilanka",Kahambana
+3926,"Uva, Srilanka",Kahatagahamaditta
+3927,"Uva, Srilanka",Kahatamaditta
+3928,"Uva, Srilanka",Kahatamba
+3929,"Uva, Srilanka",Kahatapitiya
+3930,"Uva, Srilanka",Kahatarupe
+3931,"Uva, Srilanka",Kahataruppa
+3932,"Uva, Srilanka",Kahattamba
+3933,"Uva, Srilanka",Kahattewela
+3934,"Uva, Srilanka",Kairatnagama
+3935,"Uva, Srilanka",Kalabore
+3936,"Uva, Srilanka",Kalabullanda
+3937,"Uva, Srilanka",Kalagahakivula
+3938,"Uva, Srilanka",Kalagahaulla
+3939,"Uva, Srilanka",Kalagahawaka
+3940,"Uva, Srilanka",Kalawelara
+3941,"Uva, Srilanka",Kalawelgala
+3942,"Uva, Srilanka",Kalawelpotha
+3943,"Uva, Srilanka",Kaleela
+3944,"Uva, Srilanka",Kaletibbawelagama
+3945,"Uva, Srilanka",Kalkanna
+3946,"Uva, Srilanka",Kalubullanda
+3947,"Uva, Srilanka",Kalugahakandura
+3948,"Uva, Srilanka",Kalugahatenna
+3949,"Uva, Srilanka",Kalugahawadiya
+3950,"Uva, Srilanka",Kalugala
+3951,"Uva, Srilanka",Kaluobbe
+3952,"Uva, Srilanka",Kalupahana
+3953,"Uva, Srilanka",Kanahela
+3954,"Uva, Srilanka",Kanahititenna
+3955,"Uva, Srilanka",Kanalkumbura
+3956,"Uva, Srilanka",Kanawarella
+3957,"Uva, Srilanka",Kanawegalla
+3958,"Uva, Srilanka",Kanda
+3959,"Uva, Srilanka",Kandakapuulpota
+3960,"Uva, Srilanka",Kandakepu-ulpota
+3961,"Uva, Srilanka",Kandane Ihala
+3962,"Uva, Srilanka",Kandane Pahala
+3963,"Uva, Srilanka",Kandanketiya
+3964,"Uva, Srilanka",Kandauda Panguwa
+3965,"Uva, Srilanka",Kandegama
+3966,"Uva, Srilanka",Kandegedara
+3967,"Uva, Srilanka",Kandekumbura
+3968,"Uva, Srilanka",Kandetta
+3969,"Uva, Srilanka",Kandinwatta
+3970,"Uva, Srilanka",Kandubedda
+3971,"Uva, Srilanka",Kankanangoda
+3972,"Uva, Srilanka",Kanugolla
+3973,"Uva, Srilanka",Kanulwela
+3974,"Uva, Srilanka",Kanulwela Vidiya
+3975,"Uva, Srilanka",Kanupalaella
+3976,"Uva, Srilanka",Kanuwela Widiya
+3977,"Uva, Srilanka",Kapallewela
+3978,"Uva, Srilanka",Kapuyaya
+3979,"Uva, Srilanka",Karadegangoda
+3980,"Uva, Srilanka",Karagahawela
+3981,"Uva, Srilanka",Karagahawela
+3982,"Uva, Srilanka",Karagaskandura
+3983,"Uva, Srilanka",Karagastenna
+3984,"Uva, Srilanka",Karametiya
+3985,"Uva, Srilanka",Karametiya
+3986,"Uva, Srilanka",Karana
+3987,"Uva, Srilanka",Karandagahamada
+3988,"Uva, Srilanka",Karandagolla
+3989,"Uva, Srilanka",Karande
+3990,"Uva, Srilanka",Karandegama
+3991,"Uva, Srilanka",Karandegangoda
+3992,"Uva, Srilanka",Karandugala
+3993,"Uva, Srilanka",Karanemma
+3994,"Uva, Srilanka",Katabowe
+3995,"Uva, Srilanka",Kataragama
+3996,"Uva, Srilanka",Katugaha
+3997,"Uva, Srilanka",Katugahagalge
+3998,"Uva, Srilanka",Katugallegama
+3999,"Uva, Srilanka",Katuwawala
+4000,"Uva, Srilanka",Kavudawa
+4001,"Uva, Srilanka",Kavudella
+4002,"Uva, Srilanka",Kebellewela
+4003,"Uva, Srilanka",Kebilidowa
+4004,"Uva, Srilanka",Keenahela
+4005,"Uva, Srilanka",Keeriyagolla
+4006,"Uva, Srilanka",Kehelagala
+4007,"Uva, Srilanka",Kehelattawela
+4008,"Uva, Srilanka",Kehelkumbura
+4009,"Uva, Srilanka",Kehellanda
+4010,"Uva, Srilanka",Kehelpota
+4011,"Uva, Srilanka",Kehelwatta
+4012,"Uva, Srilanka",Kelinhitiyawa
+4013,"Uva, Srilanka",Kelipanawela
+4014,"Uva, Srilanka",Keliwessa
+4015,"Uva, Srilanka",Kendagolla
+4016,"Uva, Srilanka",Kendaketiya
+4017,"Uva, Srilanka",Kendalagama
+4018,"Uva, Srilanka",Kendawinna
+4019,"Uva, Srilanka",Keriyagolla
+4020,"Uva, Srilanka",Ketagodagama
+4021,"Uva, Srilanka",Ketakele
+4022,"Uva, Srilanka",Ketakelegama
+4023,"Uva, Srilanka",Ketawatta
+4024,"Uva, Srilanka",Ketawela
+4025,"Uva, Srilanka",Kethdambuwawa
+4026,"Uva, Srilanka",Kethdaubuwawa
+4027,"Uva, Srilanka",Kimbulawela
+4028,"Uva, Srilanka",Kimbullawa
+4029,"Uva, Srilanka",Kinagoda
+4030,"Uva, Srilanka",Kinahela
+4031,"Uva, Srilanka",Kindagalla
+4032,"Uva, Srilanka",Kindigoda
+4033,"Uva, Srilanka",Kinigama
+4034,"Uva, Srilanka",Kinnarabowa
+4035,"Uva, Srilanka",Kinvelgoda
+4036,"Uva, Srilanka",Kiramanagoda
+4037,"Uva, Srilanka",Kiranaulpota
+4038,"Uva, Srilanka",Kirawanagama
+4039,"Uva, Srilanka",Kirawanagoda
+4040,"Uva, Srilanka",Kirawanella
+4041,"Uva, Srilanka",Kirenagoda
+4042,"Uva, Srilanka",Kirigalpotta
+4043,"Uva, Srilanka",Kirimetiya
+4044,"Uva, Srilanka",Kirindegama
+4045,"Uva, Srilanka",Kirioruwa
+4046,"Uva, Srilanka",Kiriwala
+4047,"Uva, Srilanka",Kiriwanagama
+4048,"Uva, Srilanka",Kiriyagolla
+4049,"Uva, Srilanka",Kitalella
+4050,"Uva, Srilanka",Kithulkote
+4051,"Uva, Srilanka",Kitulawela
+4052,"Uva, Srilanka",Kitulkote
+4053,"Uva, Srilanka",Kitulwatta
+4054,"Uva, Srilanka",Kiuleyaya
+4055,"Uva, Srilanka",Kivula
+4056,"Uva, Srilanka",Kivulegama
+4057,"Uva, Srilanka",Kivulegedaragama
+4058,"Uva, Srilanka",Kivuleyaya
+4059,"Uva, Srilanka",Kiwuleyaya
+4060,"Uva, Srilanka",Kodayanna
+4061,"Uva, Srilanka",Kohana
+4062,"Uva, Srilanka",Kohile
+4063,"Uva, Srilanka",Kohombe
+4064,"Uva, Srilanka",Kohonawala
+4065,"Uva, Srilanka",Kohowila
+4066,"Uva, Srilanka",Kohowila-Kitulwatta
+4067,"Uva, Srilanka",Kohukumbura
+4068,"Uva, Srilanka",Kokatiyamaluwa
+4069,"Uva, Srilanka",Kokunawa
+4070,"Uva, Srilanka",Kolabore
+4071,"Uva, Srilanka",Kolalawatta
+4072,"Uva, Srilanka",Kolamana
+4073,"Uva, Srilanka",Kolayaye
+4074,"Uva, Srilanka",Kolgoda
+4075,"Uva, Srilanka",Kolladeniya
+4076,"Uva, Srilanka",Kolongasyaya
+4077,"Uva, Srilanka",Kolongolla
+4078,"Uva, Srilanka",Kolonwinna
+4079,"Uva, Srilanka",Komaligama
+4080,"Uva, Srilanka",Komarikagama
+4081,"Uva, Srilanka",Kongahakumbura
+4082,"Uva, Srilanka",Kongahalinda
+4083,"Uva, Srilanka",Kongolla
+4084,"Uva, Srilanka",Konketiya
+4085,"Uva, Srilanka",Kontahela
+4086,"Uva, Srilanka",Koruppugama
+4087,"Uva, Srilanka",Kosgama Medawela
+4088,"Uva, Srilanka",Kosgama Pallewela
+4089,"Uva, Srilanka",Kosgama Udawela
+4090,"Uva, Srilanka",Kosgolla
+4091,"Uva, Srilanka",Koskanuwa
+4092,"Uva, Srilanka",Koslanda
+4093,"Uva, Srilanka",Kossalpola
+4094,"Uva, Srilanka",Kotabakme
+4095,"Uva, Srilanka",Kotabowa
+4096,"Uva, Srilanka",Kotabowe Vidiya
+4097,"Uva, Srilanka",Kotagama
+4098,"Uva, Srilanka",Kotaganwella
+4099,"Uva, Srilanka",Kotagoda
+4100,"Uva, Srilanka",Kotakitulegama
+4101,"Uva, Srilanka",Kotamuduna
+4102,"Uva, Srilanka",Kotaneluwa
+4103,"Uva, Srilanka",Kotawera Pallegama
+4104,"Uva, Srilanka",Kotawera Udagama
+4105,"Uva, Srilanka",Kotaweramankada
+4106,"Uva, Srilanka",Kotiagoda
+4107,"Uva, Srilanka",Kotigalhela
+4108,"Uva, Srilanka",Kotigoda
+4109,"Uva, Srilanka",Kotika-arawa
+4110,"Uva, Srilanka",Kotikanbokka
+4111,"Uva, Srilanka",Kotmallanda
+4112,"Uva, Srilanka",Kottagala
+4113,"Uva, Srilanka",Kottagoda Pallegama
+4114,"Uva, Srilanka",Kottagoda Udagama
+4115,"Uva, Srilanka",Kottalbedda Medagangoda
+4116,"Uva, Srilanka",Labugastalawa
+4117,"Uva, Srilanka",Landegama
+4118,"Uva, Srilanka",Landewela
+4119,"Uva, Srilanka",Landewela Bibiligamuwa
+4120,"Uva, Srilanka",Leangawella
+4121,"Uva, Srilanka",Lemastota
+4122,"Uva, Srilanka",Lindamulla
+4123,"Uva, Srilanka",Liyadipitiya North
+4124,"Uva, Srilanka",Liyadipitiya South
+4125,"Uva, Srilanka",Liyangolla
+4126,"Uva, Srilanka",Lolle
+4127,"Uva, Srilanka",Lollegama
+4128,"Uva, Srilanka",Lukasgoda
+4129,"Uva, Srilanka",Lunugala
+4130,"Uva, Srilanka",Lunupottawela
+4131,"Uva, Srilanka",Madam
+4132,"Uva, Srilanka",Madawalanda
+4133,"Uva, Srilanka",Madowita Landewela
+4134,"Uva, Srilanka",Madugahapattiya
+4135,"Uva, Srilanka",Madugama
+4136,"Uva, Srilanka",Madugasmulla
+4137,"Uva, Srilanka",Madugastalawa
+4138,"Uva, Srilanka",Madulsima
+4139,"Uva, Srilanka",Madura Oya
+4140,"Uva, Srilanka",Magandanamulla
+4141,"Uva, Srilanka",Magandena
+4142,"Uva, Srilanka",Maha-arawa
+4143,"Uva, Srilanka",Mahabadullagammana
+4144,"Uva, Srilanka",Mahagama
+4145,"Uva, Srilanka",Mahagangoda
+4146,"Uva, Srilanka",Mahagoda
+4147,"Uva, Srilanka",Mahakalugolla
+4148,"Uva, Srilanka",Mahakandura
+4149,"Uva, Srilanka",Mahalunuke
+4150,"Uva, Srilanka",Mahapitiya
+4151,"Uva, Srilanka",Maharawa
+4152,"Uva, Srilanka",Mahaulpota
+4153,"Uva, Srilanka",Mahawela
+4154,"Uva, Srilanka",Mahawelagama
+4155,"Uva, Srilanka",Mahawelatota
+4156,"Uva, Srilanka",Mailagamuwa
+4157,"Uva, Srilanka",Mailagastenna
+4158,"Uva, Srilanka",Makulgolla
+4159,"Uva, Srilanka",Makulgolla
+4160,"Uva, Srilanka",Makulla
+4161,"Uva, Srilanka",Makullewatta
+4162,"Uva, Srilanka",Makulugolla
+4163,"Uva, Srilanka",Malaboda
+4164,"Uva, Srilanka",Malabodagolla
+4165,"Uva, Srilanka",Maladanambe
+4166,"Uva, Srilanka",Malagastalawe Vidiya
+4167,"Uva, Srilanka",Malangama
+4168,"Uva, Srilanka",Malangamuwa
+4169,"Uva, Srilanka",Malattewela
+4170,"Uva, Srilanka",Malgastalawe Vidiya
+4171,"Uva, Srilanka",Malgoda
+4172,"Uva, Srilanka",Maligahena
+4173,"Uva, Srilanka",Maligatenna
+4174,"Uva, Srilanka",Malitenna
+4175,"Uva, Srilanka",Malitta
+4176,"Uva, Srilanka",Malittenna
+4177,"Uva, Srilanka",Maliyadda
+4178,"Uva, Srilanka",Malwattegama
+4179,"Uva, Srilanka",Manaulpotta
+4180,"Uva, Srilanka",Manawela
+4181,"Uva, Srilanka",Mapa-Ella
+4182,"Uva, Srilanka",Marakkanawa
+4183,"Uva, Srilanka",Marawa
+4184,"Uva, Srilanka",Mariarawa
+4185,"Uva, Srilanka",Maspanna
+4186,"Uva, Srilanka",Matikumbura
+4187,"Uva, Srilanka",Mausagolla
+4188,"Uva, Srilanka",Mayilagastenna
+4189,"Uva, Srilanka",Mayilahinna
+4190,"Uva, Srilanka",Medabedda
+4191,"Uva, Srilanka",Medagama
+4192,"Uva, Srilanka",Medagedara
+4193,"Uva, Srilanka",Medagedaragama
+4194,"Uva, Srilanka",Medagodagama
+4195,"Uva, Srilanka",Medaoya
+4196,"Uva, Srilanka",Medaoyegama
+4197,"Uva, Srilanka",Medapatana
+4198,"Uva, Srilanka",Medaperuwa
+4199,"Uva, Srilanka",Medawela
+4200,"Uva, Srilanka",Medayaya
+4201,"Uva, Srilanka",Medebedda
+4202,"Uva, Srilanka",Medipitagama
+4203,"Uva, Srilanka",Medipitiya
+4204,"Uva, Srilanka",Medipokuna
+4205,"Uva, Srilanka",Meditale
+4206,"Uva, Srilanka",Medyaye
+4207,"Uva, Srilanka",Meegahawela
+4208,"Uva, Srilanka",Mellagama
+4209,"Uva, Srilanka",Menadena
+4210,"Uva, Srilanka",Mendalapitiya
+4211,"Uva, Srilanka",Metigahatenna
+4212,"Uva, Srilanka",Metipimbiya
+4213,"Uva, Srilanka",Metiwalalanda
+4214,"Uva, Srilanka",Mideniya
+4215,"Uva, Srilanka",Migahakiula
+4216,"Uva, Srilanka",Migahawela
+4217,"Uva, Srilanka",Migaswewa
+4218,"Uva, Srilanka",Migollegama
+4219,"Uva, Srilanka",Millabedda
+4220,"Uva, Srilanka",Mipanawa
+4221,"Uva, Srilanka",Mirahana
+4222,"Uva, Srilanka",Mirahawatta
+4223,"Uva, Srilanka",Mirisalgangoda
+4224,"Uva, Srilanka",Miriswatta
+4225,"Uva, Srilanka",Miriyabedda
+4226,"Uva, Srilanka",Miyalgala
+4227,"Uva, Srilanka",Miyanakandura
+4228,"Uva, Srilanka",Miyangoda
+4229,"Uva, Srilanka",Molandeniya
+4230,"Uva, Srilanka",Monaragala
+4231,"Uva, Srilanka",Monarawana
+4232,"Uva, Srilanka",Moneragala
+4233,"Uva, Srilanka",Moragahamada
+4234,"Uva, Srilanka",Moragahapitiya
+4235,"Uva, Srilanka",Moragahaulpota
+4236,"Uva, Srilanka",Moragolla
+4237,"Uva, Srilanka",Morahela
+4238,"Uva, Srilanka",Moramalpokuna
+4239,"Uva, Srilanka",Morana
+4240,"Uva, Srilanka",Morattamulla
+4241,"Uva, Srilanka",Moratuwegama
+4242,"Uva, Srilanka",Moretota
+4243,"Uva, Srilanka",Motamale
+4244,"Uva, Srilanka",Mudagamuwa
+4245,"Uva, Srilanka",Mudawa
+4246,"Uva, Srilanka",Mudiyala
+4247,"Uva, Srilanka",Mudumpitagama
+4248,"Uva, Srilanka",Mugunumata
+4249,"Uva, Srilanka",Mullegama
+4250,"Uva, Srilanka",Munhena
+4251,"Uva, Srilanka",Muppane
+4252,"Uva, Srilanka",Muthugalawela
+4253,"Uva, Srilanka",Muttettuwegama
+4254,"Uva, Srilanka",Muttukalewela
+4255,"Uva, Srilanka",Mutuketiyawa
+4256,"Uva, Srilanka",Nagahadoruwa
+4257,"Uva, Srilanka",Nagolla
+4258,"Uva, Srilanka",Nahangoda
+4259,"Uva, Srilanka",Nakiyawela
+4260,"Uva, Srilanka",Nakkala
+4261,"Uva, Srilanka",Nambana
+4262,"Uva, Srilanka",Namunukula
+4263,"Uva, Srilanka",Nannapurawa
+4264,"Uva, Srilanka",Nape
+4265,"Uva, Srilanka",Napepanguwa
+4266,"Uva, Srilanka",Naranmankada
+4267,"Uva, Srilanka",Naranwana
+4268,"Uva, Srilanka",Naththaranwalatenna
+4269,"Uva, Srilanka",Naththaranweltenna
+4270,"Uva, Srilanka",Naulla
+4271,"Uva, Srilanka",Nawala
+4272,"Uva, Srilanka",Nawalagama
+4273,"Uva, Srilanka",Nawaneliya
+4274,"Uva, Srilanka",Nawela
+4275,"Uva, Srilanka",Nawelagama
+4276,"Uva, Srilanka",Nayinnewela
+4277,"Uva, Srilanka",Neboda
+4278,"Uva, Srilanka",Neboda South
+4279,"Uva, Srilanka",Neluw
+4280,"Uva, Srilanka",Nemiella
+4281,"Uva, Srilanka",Nevugala
+4282,"Uva, Srilanka",Newgala
+4283,"Uva, Srilanka",Nik-aar
+4284,"Uva, Srilanka",Nik-ara
+4285,"Uva, Srilanka",Nika-ara
+4286,"Uva, Srilanka",Nikapitiya
+4287,"Uva, Srilanka",Nikapota
+4288,"Uva, Srilanka",Nikapotha
+4289,"Uva, Srilanka",Nikawewa
+4290,"Uva, Srilanka",Nilawabedda
+4291,"Uva, Srilanka",Nilgala
+4292,"Uva, Srilanka",Niyadagala
+4293,"Uva, Srilanka",Niyandagala
+4294,"Uva, Srilanka",Nugadandawela
+4295,"Uva, Srilanka",Nugamure
+4296,"Uva, Srilanka",Nugatalawa
+4297,"Uva, Srilanka",Obbekota
+4298,"Uva, Srilanka",Ohiya
+4299,"Uva, Srilanka",Okkampitiya
+4300,"Uva, Srilanka",Okkampitiya Ihalagama
+4301,"Uva, Srilanka",Okurawa
+4302,"Uva, Srilanka",Okuruwawa
+4303,"Uva, Srilanka",Padukumbura
+4304,"Uva, Srilanka",Pahala Dangamuwa
+4305,"Uva, Srilanka",Pahala Pewwewa
+4306,"Uva, Srilanka",Pahala Pussellawa
+4307,"Uva, Srilanka",Pahala Tuntala
+4308,"Uva, Srilanka",Pahala-Pewuwewa
+4309,"Uva, Srilanka",Pahalagalbokka
+4310,"Uva, Srilanka",Pahalakumbura
+4311,"Uva, Srilanka",Pahalaoya
+4312,"Uva, Srilanka",Pahalayalkumbura
+4313,"Uva, Srilanka",Pahamburutota
+4314,"Uva, Srilanka",Paile
+4315,"Uva, Srilanka",Palagolla
+4316,"Uva, Srilanka",Palawatta
+4317,"Uva, Srilanka",Pallabahirawa
+4318,"Uva, Srilanka",Pallapanguwa
+4319,"Uva, Srilanka",Pallatalawa
+4320,"Uva, Srilanka",Palle Ranugalla
+4321,"Uva, Srilanka",Palle Tambana
+4322,"Uva, Srilanka",Palle Waradola
+4323,"Uva, Srilanka",Palle-ella
+4324,"Uva, Srilanka",Pallebahirawa
+4325,"Uva, Srilanka",Pallebedda
+4326,"Uva, Srilanka",Pallegama
+4327,"Uva, Srilanka",Pallekanda
+4328,"Uva, Srilanka",Pallekiruwa
+4329,"Uva, Srilanka",Pallemallehewa
+4330,"Uva, Srilanka",Pallepanguwa
+4331,"Uva, Srilanka",Pallepattiyakumbura
+4332,"Uva, Srilanka",Palleperuwa
+4333,"Uva, Srilanka",Palletalawa
+4334,"Uva, Srilanka",Pallewela
+4335,"Uva, Srilanka",Pallewelipitiya
+4336,"Uva, Srilanka",Palugama
+4337,"Uva, Srilanka",Palugama-ella
+4338,"Uva, Srilanka",Paluwatta
+4339,"Uva, Srilanka",Panagoda
+4340,"Uva, Srilanka",Panagodagama
+4341,"Uva, Srilanka",Panakanniya
+4342,"Uva, Srilanka",Panamapanguwa
+4343,"Uva, Srilanka",Panditagama
+4344,"Uva, Srilanka",Pangaragammana
+4345,"Uva, Srilanka",Pangura
+4346,"Uva, Srilanka",Panguwa
+4347,"Uva, Srilanka",Panmedilla
+4348,"Uva, Srilanka",Pannakanniya
+4349,"Uva, Srilanka",Pannalagama
+4350,"Uva, Srilanka",Pansalwatta
+4351,"Uva, Srilanka",Papale
+4352,"Uva, Srilanka",Paragaha-Ulpota
+4353,"Uva, Srilanka",Paragahaella
+4354,"Uva, Srilanka",Paragolla
+4355,"Uva, Srilanka",Paranagama
+4356,"Uva, Srilanka",Parapawa
+4357,"Uva, Srilanka",Paretota
+4358,"Uva, Srilanka",Paspewela
+4359,"Uva, Srilanka",Passara
+4360,"Uva, Srilanka",Pataha
+4361,"Uva, Srilanka",Patahagala
+4362,"Uva, Srilanka",Patanagedara
+4363,"Uva, Srilanka",Pathagala
+4364,"Uva, Srilanka",Pattaganwela
+4365,"Uva, Srilanka",Pattipola
+4366,"Uva, Srilanka",Pattipolagama
+4367,"Uva, Srilanka",Pattiyagedaragama
+4368,"Uva, Srilanka",Pattiyagoda
+4369,"Uva, Srilanka",Pattiyakumbura
+4370,"Uva, Srilanka",Pattiyawatta
+4371,"Uva, Srilanka",Peelipotagama
+4372,"Uva, Srilanka",Pelliwinna
+4373,"Uva, Srilanka",Pelwatta
+4374,"Uva, Srilanka",Pelwatta Pahalawela
+4375,"Uva, Srilanka",Pelwatta Udawela
+4376,"Uva, Srilanka",Perahettiya
+4377,"Uva, Srilanka",Perawella
+4378,"Uva, Srilanka",Petiyagoda
+4379,"Uva, Srilanka",Pettaganwela
+4380,"Uva, Srilanka",Pewuwewa
+4381,"Uva, Srilanka",Pidakumbura
+4382,"Uva, Srilanka",Pidakumburagama
+4383,"Uva, Srilanka",Pilipotagama
+4384,"Uva, Srilanka",Pillekumbura
+4385,"Uva, Srilanka",Pillewela
+4386,"Uva, Srilanka",Pimburaulpota
+4387,"Uva, Srilanka",Pinnagolla
+4388,"Uva, Srilanka",Pissegama
+4389,"Uva, Srilanka",Pitadeniya
+4390,"Uva, Srilanka",Pitahagedaragama
+4391,"Uva, Srilanka",Pitakola Pallegama
+4392,"Uva, Srilanka",Pitakola Udagama
+4393,"Uva, Srilanka",Pitakumbura
+4394,"Uva, Srilanka",Pitamaruwa
+4395,"Uva, Srilanka",Pitatalawa
+4396,"Uva, Srilanka",Pitawela
+4397,"Uva, Srilanka",Pitawelagama
+4398,"Uva, Srilanka",Pitiyekumbura
+4399,"Uva, Srilanka",Piyarapana
+4400,"Uva, Srilanka",Polgahaarawa
+4401,"Uva, Srilanka",Polgahagama
+4402,"Uva, Srilanka",Polgahakumbura
+4403,"Uva, Srilanka",Polgahatenna
+4404,"Uva, Srilanka",Polkotan-arawa
+4405,"Uva, Srilanka",Polwatta
+4406,"Uva, Srilanka",Poodulla
+4407,"Uva, Srilanka",Pottaganwela
+4408,"Uva, Srilanka",Potubandana
+4409,"Uva, Srilanka",Potuliyadda
+4410,"Uva, Srilanka",Pubbara
+4411,"Uva, Srilanka",Puhulpola
+4412,"Uva, Srilanka",Punawinna
+4413,"Uva, Srilanka",Puralewela
+4414,"Uva, Srilanka",Puranwela
+4415,"Uva, Srilanka",Puselketiya
+4416,"Uva, Srilanka",Pussalgolla
+4417,"Uva, Srilanka",Pussallakanda
+4418,"Uva, Srilanka",Pusselketiya
+4419,"Uva, Srilanka",Pussellawa
+4420,"Uva, Srilanka",Puwakgahawatta
+4421,"Uva, Srilanka",Puwakgoda
+4422,"Uva, Srilanka",Radakandurewela
+4423,"Uva, Srilanka",Radaliyadda
+4424,"Uva, Srilanka",Rahupola
+4425,"Uva, Srilanka",Rambukpota
+4426,"Uva, Srilanka",Ranasinghagama
+4427,"Uva, Srilanka",Randeniya
+4428,"Uva, Srilanka",Rannanguhawa
+4429,"Uva, Srilanka",Ranugalla
+4430,"Uva, Srilanka",Ratambe
+4431,"Uva, Srilanka",Ratana
+4432,"Uva, Srilanka",Ratkarauwa
+4433,"Uva, Srilanka",Rathkarawwa
+4434,"Uva, Srilanka",Ratkitakanda
+4435,"Uva, Srilanka",Ratkittakanda
+4436,"Uva, Srilanka",Ratmalewehera
+4437,"Uva, Srilanka",Ratmalgahaella
+4438,"Uva, Srilanka",Ratmalwehera
+4439,"Uva, Srilanka",Rattanadeniya
+4440,"Uva, Srilanka",Rawanaella
+4441,"Uva, Srilanka",Rerawa
+4442,"Uva, Srilanka",Rerupitiya
+4443,"Uva, Srilanka",Reulvala
+4444,"Uva, Srilanka",Revulvala
+4445,"Uva, Srilanka",Rideepana
+4446,"Uva, Srilanka",Ridimaliyadda
+4447,"Uva, Srilanka",Ridimalliadde
+4448,"Uva, Srilanka",Ridipana
+4449,"Uva, Srilanka",Ritigaha-arawa
+4450,"Uva, Srilanka",Ritigahadowa
+4451,"Uva, Srilanka",Ritigahawatta
+4452,"Uva, Srilanka",Ritikumbura
+4453,"Uva, Srilanka",Rittawela
+4454,"Uva, Srilanka",Rukkattana
+4455,"Uva, Srilanka",Ruppebedda
+4456,"Uva, Srilanka",Seeniagaslanda
+4457,"Uva, Srilanka",Seenigaslanda
+4458,"Uva, Srilanka",Senapathiya
+4459,"Uva, Srilanka",Senapatiya
+4460,"Uva, Srilanka",Seranegama
+4461,"Uva, Srilanka",Sinuggala
+4462,"Uva, Srilanka",Sittarama
+4463,"Uva, Srilanka",Siyambala-anduwa
+4464,"Uva, Srilanka",Siyambalagune
+4465,"Uva, Srilanka",Siyambalanduwa
+4466,"Uva, Srilanka",Siyambalawinna
+4467,"Uva, Srilanka",Soranatota
+4468,"Uva, Srilanka",Stripuregama
+4469,"Uva, Srilanka",Sudupanawela
+4470,"Uva, Srilanka",Sudupanawelagama
+4471,"Uva, Srilanka",Suriya-aar
+4472,"Uva, Srilanka",Suriya-ara
+4473,"Uva, Srilanka",Talabowatta
+4474,"Uva, Srilanka",Talagahagedara
+4475,"Uva, Srilanka",Talagangoda
+4476,"Uva, Srilanka",Talakolawewa
+4477,"Uva, Srilanka",Talakumbura
+4478,"Uva, Srilanka",Talangamuwa
+4479,"Uva, Srilanka",Talapuranwela
+4480,"Uva, Srilanka",Talawa
+4481,"Uva, Srilanka",Talawatta
+4482,"Uva, Srilanka",Talawegama
+4483,"Uva, Srilanka",Taldena
+4484,"Uva, Srilanka",Talgahadigane
+4485,"Uva, Srilanka",Talgahakumbura
+4486,"Uva, Srilanka",Talkota
+4487,"Uva, Srilanka",Tallanda
+4488,"Uva, Srilanka",Tampalawela
+4489,"Uva, Srilanka",Tanamalwila
+4490,"Uva, Srilanka",Telhawadigama
+4491,"Uva, Srilanka",Tellulla
+4492,"Uva, Srilanka",Tembakumbura
+4493,"Uva, Srilanka",Tembakumburegama
+4494,"Uva, Srilanka",Tennakonwela
+4495,"Uva, Srilanka",Tennuge
+4496,"Uva, Srilanka",Terappahuwa
+4497,"Uva, Srilanka",Terela
+4498,"Uva, Srilanka",Tetille
+4499,"Uva, Srilanka",Thampalawela
+4500,"Uva, Srilanka",Thelhawadigama
+4501,"Uva, Srilanka",Thenkeliya
+4502,"Uva, Srilanka",Thimbirigaspitiya
+4503,"Uva, Srilanka",Timbirigahamankada
+4504,"Uva, Srilanka",Timbiriya
+4505,"Uva, Srilanka",Tithawelkandura
+4506,"Uva, Srilanka",Tiththawelkeula
+4507,"Uva, Srilanka",Tittawelgolla
+4508,"Uva, Srilanka",Tittawelkandura
+4509,"Uva, Srilanka",Tolabowatta
+4510,"Uva, Srilanka",Tolabowatta Pallegama
+4511,"Uva, Srilanka",Tolabowatta Udagama
+4512,"Uva, Srilanka",Tundawela
+4513,"Uva, Srilanka",Tunnawa
+4514,"Uva, Srilanka",Uda Oyegama
+4515,"Uva, Srilanka",Uda Waradola
+4516,"Uva, Srilanka",Uda-Dompe
+4517,"Uva, Srilanka",Uda-arawa
+4518,"Uva, Srilanka",Uda-oyagama
+4519,"Uva, Srilanka",Udabahirawa
+4520,"Uva, Srilanka",Udabokka
+4521,"Uva, Srilanka",Udadambiya
+4522,"Uva, Srilanka",Udagama
+4523,"Uva, Srilanka",Udagangoda
+4524,"Uva, Srilanka",Uda Oyegama
+4525,"Uva, Srilanka",Uda Waradola
+4526,"Uva, Srilanka",Uda-Dompe
+4527,"Uva, Srilanka",Uda-arawa
+4528,"Uva, Srilanka",Uda-oyagama
+4529,"Uva, Srilanka",Udabahirawa
+4530,"Uva, Srilanka",Udabokka
+4531,"Uva, Srilanka",Udadambiya
+4532,"Uva, Srilanka",Udagama
+4533,"Uva, Srilanka",Udagangoda
+4534,"Uva, Srilanka",Udakanda
+4535,"Uva, Srilanka",Udakendagolla
+4536,"Uva, Srilanka",Udakohowila
+4537,"Uva, Srilanka",Udakumbalwela
+4538,"Uva, Srilanka",Udakumbura
+4539,"Uva, Srilanka",Udalakumbura
+4540,"Uva, Srilanka",Udamallehewa
+4541,"Uva, Srilanka",Udamulla
+4542,"Uva, Srilanka",Udapanguwa
+4543,"Uva, Srilanka",Udapattiyagama
+4544,"Uva, Srilanka",Udapattiyakumbura
+4545,"Uva, Srilanka",Udaperuwa
+4546,"Uva, Srilanka",Udatambana
+4547,"Uva, Srilanka",Udaturegama
+4548,"Uva, Srilanka",Udawadiya
+4549,"Uva, Srilanka",Udawalawe
+4550,"Uva, Srilanka",Udawela
+4551,"Uva, Srilanka",Udayaya
+4552,"Uva, Srilanka",Udubadana
+4553,"Uva, Srilanka",Uduhawara
+4554,"Uva, Srilanka",Udukumbalwela
+4555,"Uva, Srilanka",Udukumbura
+4556,"Uva, Srilanka",Udumulla
+4557,"Uva, Srilanka",Udunuwatta
+4558,"Uva, Srilanka",Udupillegama
+4559,"Uva, Srilanka",Ukdunuwatta
+4560,"Uva, Srilanka",Ulpenarawa
+4561,"Uva, Srilanka",Ulpota
+4562,"Uva, Srilanka",Ulugala
+4563,"Uva, Srilanka",Ululla
+4564,"Uva, Srilanka",Ulvita
+4565,"Uva, Srilanka",Uma Ela
+4566,"Uva, Srilanka",Unagolla
+4567,"Uva, Srilanka",Unagollegama
+4568,"Uva, Srilanka",Unampitiya
+4569,"Uva, Srilanka",Unapana
+4570,"Uva, Srilanka",Unapotuwela
+4571,"Uva, Srilanka",Uraniya
+4572,"Uva, Srilanka",Uraula
+4573,"Uva, Srilanka",Urumetenna
+4574,"Uva, Srilanka",Urupitiya
+4575,"Uva, Srilanka",Ussagala
+4576,"Uva, Srilanka",Uyanabedda
+4577,"Uva, Srilanka",Veheragala
+4578,"Uva, Srilanka",Velagangoda
+4579,"Uva, Srilanka",Viharamulla
+4580,"Uva, Srilanka",Viragaha-elle
+4581,"Uva, Srilanka",Viragahaella
+4582,"Uva, Srilanka",Vykumbra
+4583,"Uva, Srilanka",Wadawala
+4584,"Uva, Srilanka",Wadiyegama
+4585,"Uva, Srilanka",Wagurewela
+4586,"Uva, Srilanka",Wahugalla
+4587,"Uva, Srilanka",Wakarawa
+4588,"Uva, Srilanka",Wakkumbura
+4589,"Uva, Srilanka",Walakumbura
+4590,"Uva, Srilanka",Walasbedda
+4591,"Uva, Srilanka",Walasella
+4592,"Uva, Srilanka",Walhaputenna
+4593,"Uva, Srilanka",Walikemulla
+4594,"Uva, Srilanka",Wangiyakumbura
+4595,"Uva, Srilanka",Waradeniyawa
+4596,"Uva, Srilanka",Waragama
+4597,"Uva, Srilanka",Waralanda
+4598,"Uva, Srilanka",Warralande
+4599,"Uva, Srilanka",Watagodagama
+4600,"Uva, Srilanka",Watawana
+4601,"Uva, Srilanka",Watawanagama
+4602,"Uva, Srilanka",Watta
+4603,"Uva, Srilanka",Wattakele
+4604,"Uva, Srilanka",Wattegama
+4605,"Uva, Srilanka",Wattegedara
+4606,"Uva, Srilanka",Wattegepelessa
+4607,"Uva, Srilanka",Wattekele
+4608,"Uva, Srilanka",Wattekele
+4609,"Uva, Srilanka",Wattepanguwa
+4610,"Uva, Srilanka",Wattewela
+4611,"Uva, Srilanka",Waywatta
+4612,"Uva, Srilanka",We-eliya
+4613,"Uva, Srilanka",Wedigune
+4614,"Uva, Srilanka",Wedikumbura
+4615,"Uva, Srilanka",Wediwelagama
+4616,"Uva, Srilanka",Weerapokuna
+4617,"Uva, Srilanka",Weerasekeragama
+4618,"Uva, Srilanka",Wegama
+4619,"Uva, Srilanka",Weheragala
+4620,"Uva, Srilanka",Wekada
+4621,"Uva, Srilanka",Wekumbura
+4622,"Uva, Srilanka",Welanhinna
+4623,"Uva, Srilanka",Welanpela
+4624,"Uva, Srilanka",Welanwita
+4625,"Uva, Srilanka",Welegama
+4626,"Uva, Srilanka",Welegangoda
+4627,"Uva, Srilanka",Welgolla
+4628,"Uva, Srilanka",Welhaputenna
+4629,"Uva, Srilanka",Weli-aar
+4630,"Uva, Srilanka",Weliara
+4631,"Uva, Srilanka",Weliarawa
+4632,"Uva, Srilanka",Welikadagama
+4633,"Uva, Srilanka",Welikemulla
+4634,"Uva, Srilanka",Welimada
+4635,"Uva, Srilanka",Weliulla
+4636,"Uva, Srilanka",Weliwatta
+4637,"Uva, Srilanka",Welkele
+4638,"Uva, Srilanka",Wellabokka
+4639,"Uva, Srilanka",Wellawaya
+4640,"Uva, Srilanka",Wellawela
+4641,"Uva, Srilanka",Wellebokka
+4642,"Uva, Srilanka",Wellewatta
+4643,"Uva, Srilanka",Wellewela
+4644,"Uva, Srilanka",Welpita
+4645,"Uva, Srilanka",Weragama
+4646,"Uva, Srilanka",Weragoda
+4647,"Uva, Srilanka",Werapokuna
+4648,"Uva, Srilanka",Weregoda
+4649,"Uva, Srilanka",Werellapatana
+4650,"Uva, Srilanka",Wessigewela
+4651,"Uva, Srilanka",Wetalawa
+4652,"Uva, Srilanka",Wevelhinna
+4653,"Uva, Srilanka",Wewagederagama
+4654,"Uva, Srilanka",Wewatenna
+4655,"Uva, Srilanka",Wewatta
+4656,"Uva, Srilanka",Wewebedde
+4657,"Uva, Srilanka",Wewegama
+4658,"Uva, Srilanka",Wewegedaragama
+4659,"Uva, Srilanka",Wewelhinna
+4660,"Uva, Srilanka",Widurepola
+4661,"Uva, Srilanka",Wila Oya
+4662,"Uva, Srilanka",Wilaatigoda
+4663,"Uva, Srilanka",Wilegama
+4664,"Uva, Srilanka",Wiletigoda
+4665,"Uva, Srilanka",Willa
+4666,"Uva, Srilanka",Wilsons Bungalow
+4667,"Uva, Srilanka",Wiragahaella
+4668,"Uva, Srilanka",Wiranegama
+4669,"Uva, Srilanka",Wirasekeragama
+4670,Western Province,Aboyne
+4671,Western Province,Adikarigoda
+4672,Western Province,Adikarimulla
+4673,Western Province,Adikkandiya
+4674,Western Province,Adupe
+4675,Western Province,Agalawatta
+4676,Western Province,Agalegedara
+4677,Western Province,Ahugammana
+4678,Western Province,Akaragama
+4679,Western Province,Akarangaha
+4680,Western Province,Akarawita
+4681,Western Province,Akarawita
+4682,Western Province,Akkaragoda
+4683,Western Province,Akureliya
+4684,Western Province,Akurukalawita
+4685,Western Province,Akurumulla
+4686,Western Province,Alakandupitiya
+4687,Western Province,Alavi
+4688,Western Province,Alawala
+4689,Western Province,Alawatupitiya
+4690,Western Province,Alubomulla
+4691,Western Province,Alubowila
+4692,Western Province,Alugolla
+4693,Western Province,Alutepola
+4694,Western Province,Alutgama Bogamuwa
+4695,Western Province,Alutgama East
+4696,Western Province,Alutgama West
+4697,Western Province,Alutgamwidiya
+4698,Western Province,Alutgangoda
+4699,Western Province,Aluthgama
+4700,Western Province,Aluthkade
+4701,Western Province,Alutkade Tunmanhandiya
+4702,Western Province,Alutkadetenmanhandiya
+4703,Western Province,Alwis Town
+4704,Western Province,Amandoluwa
+4705,Western Province,Ambagahawatta
+4706,Western Province,Ambagaspitiya
+4707,Western Province,Ambalammulla
+4708,Western Province,Ambalanduwa
+4709,Western Province,Ambalanmulla
+4710,Western Province,Ambalayaya
+4711,Western Province,Ambana
+4712,Western Province,Ambanwita
+4713,Western Province,Ambatale
+4714,Western Province,Ambegoda
+4715,Western Province,Ambepitiya
+4716,Western Province,Ambepussa
+4717,Western Province,Ambepussa Government Farm
+4718,Western Province,Ambulgama
+4719,Western Province,Ampitigala
+4720,Western Province,Amunugoda
+4721,Western Province,Amunukumbura
+4722,Western Province,Andiambalam Walpola
+4723,Western Province,Andiambalama
+4724,Western Province,Andigoda
+4725,Western Province,Andimalla
+4726,Western Province,Andimulla
+4727,Western Province,Andiya
+4728,Western Province,Andupe
+4729,Western Province,Angampitiya
+4730,Western Province,Angangoda
+4731,Western Province,Anganpitiya
+4732,Western Province,Angoda
+4733,Western Province,Angomuwa
+4734,Western Province,Angulana
+4735,Western Province,Anguruwatota
+4736,Western Province,Anuragoda
+4737,Western Province,Arakagoda
+4738,Western Province,Arakawila
+4739,Western Province,Aramangoda
+4740,Western Province,Arambe
+4741,Western Province,Arambegodella
+4742,Western Province,Aramonagolla
+4743,Western Province,Arangala
+4744,Western Province,Arapangama
+4745,Western Province,Arukgoda
+4746,Western Province,Arukpassa
+4747,Western Province,Arukwatta
+4748,Western Province,Arupassa
+4749,Western Province,Asgeriya
+4750,Western Province,Asgiriwalpola
+4751,Western Province,Asgiriya
+4752,Western Province,Assenawatta
+4753,Western Province,Assennawatta
+4754,Western Province,Atale
+4755,Western Province,Atgalgoda
+4756,Western Province,Athagama
+4757,Western Province,Athgalgoda
+4758,Western Province,Athgangoda
+4759,Western Province,Atigala
+4760,Western Province,Attanagalla
+4761,Western Province,Attidiya
+4762,Western Province,Atulugama
+4763,Western Province,Atupatdeniya
+4764,Western Province,Atupotdeniya
+4765,Western Province,Atupothdeniya
+4766,Western Province,Atura
+4767,Western Province,Ature
+4768,Western Province,Aturugiriya
+4769,Western Province,Atweltota
+4770,Western Province,Avariwatta
+4771,Western Province,Avissawella
+4772,Western Province,Awariwatta
+4773,Western Province,Badahalagoda
+4774,Western Province,Badalgama
+4775,Western Province,Badalgoda
+4776,Western Province,Badanagoda
+4777,Western Province,Badugama
+4778,Western Province,Badureliya
+4779,Western Province,Baduwatugoda
+4780,Western Province,Bajjangoda
+4781,Western Province,Balabowa
+4782,Western Province,Balagalla
+4783,Western Province,Battaramulla
+4784,Western Province,Beruwala
+4785,Western Province,Catharine's
+4786,Western Province,Cinnamon Gardens
+4787,Western Province,Colombo
+4788,Western Province,Colpetty
+4789,Western Province,Dadagamuwa
+4790,Western Province,Dagona
+4791,Western Province,Dahenpahuwa
+4792,Western Province,Dalugama
+4793,Western Province,Dalugangoda
+4794,Western Province,Dalupatgedara
+4795,Western Province,Dalupotha
+4796,Western Province,Daluwekotuwa
+4797,Western Province,Dambadurai
+4798,Western Province,Dambadure
+4799,Western Province,Danowita
+4800,Western Province,Dharga Town
+4801,Western Province,Dehiwala
+4802,Western Province,Egaloya
+4803,Western Province,Egoda Uyana
+4804,Western Province,Egodawatta
+4805,Western Province,Egodawatta
+4806,Western Province,Ekala
+4807,Western Province,Ekalakurunduwatta
+4808,Western Province,Eladuwa
+4809,Western Province,Elamalawala
+4810,Western Province,Elapiliyawa
+4811,Western Province,Elapitawala
+4812,Western Province,Elapitiwela
+4813,Western Province,Elapitiyala
+4814,Western Province,Eliwila
+4815,Western Province,Ellakkala
+4816,Western Province,Ellalamulla
+4817,Western Province,Ellangala
+4818,Western Province,Elluvapitiya
+4819,Western Province,Elston
+4820,Western Province,Eluwapitiya
+4821,Western Province,Embaraluwa
+4822,Western Province,Enderamulla
+4823,Western Province,Epambula
+4824,Western Province,Epamulla
+4825,Western Province,Erabadda
+4826,Western Province,Erabedda
+4827,Western Province,Erepolagodella
+4828,Western Province,Erewwala
+4829,Western Province,Essella
+4830,Western Province,Eswatta
+4831,Western Province,Etgala
+4832,Western Province,Etikehelgalla
+4833,Western Province,Ettukal
+4834,Western Province,Ettukala
+4835,Western Province,Etulkotte
+4836,Western Province,Evariwatta
+4837,Western Province,Ewariwatta
+4838,Western Province,Fort (Colombo)
+4839,Western Province,Galagedara
+4840,Western Province,Galahitiyawa
+4841,Western Province,Galboda
+4842,Western Province,Galborella
+4843,Western Province,Galedanda
+4844,Western Province,Galewatta
+4845,Western Province,Galgamuwa
+4846,Western Province,Galgomuwa
+4847,Western Province,Galhena
+4848,Western Province,Galhetiya
+4849,Western Province,Habarakada
+4850,Western Province,Haddagoda
+4851,Western Province,Hakgalla
+4852,Western Province,Hakkurukumbura
+4853,Western Province,Hakurukumbura
+4854,Western Province,Hakwadunna
+4855,Western Province,Halanduruwa
+4856,Western Province,Halapitiya
+4857,Western Province,Halawegoda
+4858,Western Province,Halgampitiya
+4859,Western Province,Hanwella
+4860,Western Province,Hokandara
+4861,Western Province,Horana
+4862,Western Province,Homagama
+4863,Western Province,Iddagoda
+4864,Western Province,Ihala Hewessa
+4865,Western Province,Ihala Imbulgoda
+4866,Western Province,Ihala Karannagoda
+4867,Western Province,Ihala Naragala
+4868,Western Province,Ihala Neboda
+4869,Western Province,Ihala Wadugoda
+4870,Western Province,Ihala Welgama
+4871,Western Province,Ihalapanangala
+4872,Western Province,Ihalayagoda
+4873,Western Province,Ingiriya
+4874,Western Province,Ja-Ela
+4875,Western Province,Jaligoda
+4876,Western Province,Jaltara
+4877,Western Province,Jambugaswadiya
+4878,Western Province,Jambureliya
+4879,Western Province,Jawatta
+4880,Western Province,Josnell
+4881,Western Province,Kapuwatta
+4882,Western Province,Kirindiwela
+4883,Western Province,Kadawatha
+4884,Western Province,Kalutara
+4885,Western Province,Kumbuka
+4886,Western Province,Kahatapitiya
+4887,Western Province,Kiribathgoda
+4888,Western Province,Kottawa
+4889,Western Province,Kaduwela
+4890,Western Province,Kaubedda
+4891,Western Province,Kandana
+4892,Western Province,Labugama
+4893,Western Province,Ladduwa
+4894,Western Province,Langana
+4895,Western Province,Lansiyawatta
+4896,Western Province,Lathpandura
+4897,Western Province,Latpandura
+4898,Western Province,Laulupitiya
+4899,Western Province,Lenagala
+4900,Western Province,Lenewara
+4901,Western Province,Leuwanduwa
+4902,Western Province,Mabima
+4903,Western Province,Mabima
+4904,Western Province,Mabodale
+4905,Western Province,Mabogoda
+4906,Western Province,Mabole
+4907,Western Province,Mabula
+4908,Western Province,Mabulgoda
+4909,Western Province,Madabaddara
+4910,Western Province,Madabawita
+4911,Western Province,Madakada
+4912,Western Province,Maggona
+4913,Western Province,Maharagama
+4914,Western Province,Malabe
+4915,Western Province,Mathugama
+4916,Western Province,Mount Lavinia
+4917,Western Province,Nittambuwa
+4918,Western Province,Nugegoda
+4919,Western Province,Obberiya
+4920,Western Province,Ogodapola
+4921,Western Province,Okanduwa
+4922,Western Province,Olabaduwa
+4923,Western Province,Olaboduwa
+4924,Western Province,Omatta
+4925,Western Province,Opalla
+4926,Western Province,Opata
+4927,Western Province,Opatha
+4928,Western Province,Opathella
+4929,Western Province,Panadura
+4930,Western Province,Padukka
+4931,Western Province,Pelawaththa
+4932,Western Province,Radamulla
+4933,Western Province,Radawadunna
+4934,Western Province,Radawana
+4935,Western Province,Raddalgoda
+4936,Western Province,Raddegoda
+4937,Western Province,Raddoluwa
+4938,Western Province,Ragama
+4939,Western Province,Rajagiriya
+4940,Western Province,Rambukkana
+4941,Western Province,Ramminike
+4942,Western Province,Ratmalana
+4943,Western Province,Rathnapura
+4944,Western Province,Samanabedda
+4945,Western Province,Samanabedde
+4946,Western Province,Sambagama
+4947,Western Province,Sangarama
+4948,Western Province,Sapugaskanda
+4949,Western Province,Sarikamulla
+4950,Western Province,Sayakkaramulla
+4951,Western Province,Sedawatta
+4952,Western Province,Tabuwana
+4953,Western Province,Talagala
+4954,Western Province,Talagama
+4955,Western Province,Talahena
+4956,Western Province,Talahera
+4957,Western Province,Talahitiya
+4958,Western Province,Talangama
+4959,Western Province,Talangama North
+4960,Western Province,Talangama South
+4961,Western Province,Uda Kanugala
+4962,Western Province,Udagama
+4963,Western Province,Udaganella
+4964,Western Province,Udahamulla
+4965,Western Province,Udahamulupattiya
+4966,Western Province,Udakamanpella
+4967,Western Province,Udakananpella
+4968,Western Province,Udamapitigama
+4969,Western Province,Vavulagallana
+4970,Western Province,Veyangoda
+4971,Western Province,Vitanamulla
+4972,Western Province,Waddegoda
+4973,Western Province,Wadduwa
+4974,Western Province,Wadugama
+4975,Western Province,Wadugoda
+4976,Western Province,Wadumulla
+4977,Western Province,Wadurawa
+4978,Western Province,Waduruwa
+4979,Western Province,Waga
+4980,Western Province,Weligampitiya
+,,
+,,
+,,
+"For more information, kindly visit: www.downloadexcelfiles.com",,
